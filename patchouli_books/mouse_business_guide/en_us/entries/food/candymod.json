@@ -1,0 +1,12 @@
+{
+    "name": "Exline's Candy Mod",
+    "icon": "candymod:jelly_beans",
+    "category": "patchouli:food",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Exline's Candy Mod gives you a small variety of sugary treats to craft and eat!"
+        }
+    ],
+    "sortnum": "3"
+}

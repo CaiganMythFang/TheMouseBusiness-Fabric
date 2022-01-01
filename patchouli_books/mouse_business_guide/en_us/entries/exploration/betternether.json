@@ -1,0 +1,12 @@
+{
+    "name": "Better Nether",
+    "icon": "betternether:willow_sapling",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)In this dimension, the nether is quite expanded by Better Nether. Many new plants and creatures can be found, new biomes to explore, and new structures and more."
+        }
+    ],
+    "sortnum": "1"
+}

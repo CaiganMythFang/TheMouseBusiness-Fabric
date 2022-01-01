@@ -1,0 +1,16 @@
+{
+    "name": "AdventureZ",
+    "icon": "adventurez:mammoth_tusk",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)More than just the Ender Dragon and Wither lord over this dimension, nor are endermen the strangest. AdventureZ is a catalogue of interesting creatures and dangerous bosses that wander the lands."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(o)If you are interested in learning where to find these creatures, or how to summon these bosses, look in the Research Notes book. There's a section where you can procure guides and manuals."
+        }
+    ],
+    "sortnum": "0"
+}

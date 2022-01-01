@@ -1,0 +1,12 @@
+{
+    "name": "Terralith",
+    "icon": "minecraft:oak_sapling",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Terralith overhauls the terrain generation of your dimension, adding lots of new, interesting biomes."
+        }
+    ],
+    "sortnum": "10"
+}

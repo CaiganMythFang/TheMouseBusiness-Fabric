@@ -1,0 +1,764 @@
+{
+	"name": "guild:armor",
+	"data": [
+		{
+			"type": "item",
+			"name": "minecraft:iron_helmet",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 375,
+			"unit_time": 60,
+			"unit_exp": 4,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "minecraft:iron_chestplate",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 625,
+			"unit_time": 60,
+			"unit_exp": 4,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "minecraft:iron_leggings",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 550,
+			"unit_time": 60,
+			"unit_exp": 4,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "minecraft:iron_boots",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 325,
+			"unit_time": 60,
+			"unit_exp": 4,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "minecraft:leather_helmet",
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 275,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "minecraft:leather_chestplate",
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 450,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "minecraft:leather_leggings",
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 400,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "minecraft:leather_boots",
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 225,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "minecraft:diamond_helmet",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 2200,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "minecraft:diamond_chestplate",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 3525,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "minecraft:diamond_leggings",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 3100,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "minecraft:diamond_boots",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 1775,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "boneequipment:bone_helmet",
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 150,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "boneequipment:bone_chestplate",
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 225,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "boneequipment:bone_leggings",
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 200,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "boneequipment:bone_boots",
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 125,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:citrine_helmet",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 2750,
+			"unit_time": 60,
+			"unit_exp": 8,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "more_gems:citrine_chestplate",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 4400,
+			"unit_time": 60,
+			"unit_exp": 8,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "more_gems:citrine_leggings",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 3850,
+			"unit_time": 60,
+			"unit_exp": 8,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "more_gems:citrine_boots",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 2200,
+			"unit_time": 60,
+			"unit_exp": 8,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "more_gems:kunzite_helmet",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 3025,
+			"unit_time": 60,
+			"unit_exp": 8,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "more_gems:kunzite_chestplate",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 4850,
+			"unit_time": 60,
+			"unit_exp": 8,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "more_gems:kunzite_leggings",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 4250,
+			"unit_time": 60,
+			"unit_exp": 8,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "more_gems:kunzite_boots",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 2425,
+			"unit_time": 60,
+			"unit_exp": 8,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "more_gems:topaz_helmet",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 975,
+			"unit_time": 60,
+			"unit_exp": 4,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "more_gems:topaz_chestplate",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 1550,
+			"unit_time": 60,
+			"unit_exp": 4,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "more_gems:topaz_leggings",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 1350,
+			"unit_time": 60,
+			"unit_exp": 4,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "more_gems:topaz_boots",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 775,
+			"unit_time": 60,
+			"unit_exp": 4,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "more_gems:corundum_helmet",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 1100,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "more_gems:corundum_chestplate",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 1775,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "more_gems:corundum_leggings",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 1550,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "more_gems:corundum_boots",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 900,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "more_gems:sapphire_helmet",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 550,
+			"unit_time": 60,
+			"unit_exp": 4,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "more_gems:sapphire_chestplate",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 900,
+			"unit_time": 60,
+			"unit_exp": 4,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "more_gems:sapphire_leggings",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 775,
+			"unit_time": 60,
+			"unit_exp": 4,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "more_gems:sapphire_boots",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 450,
+			"unit_time": 60,
+			"unit_exp": 4,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "more_gems:carbonado_chestplate_gilded",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 1000,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "more_gems:carbonado_helmet",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 775,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "more_gems:carbonado_chestplate",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 1100,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "more_gems:carbonado_leggings",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 975,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "more_gems:carbonado_boots",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 550,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:banglum_helmet",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 11825,
+			"unit_time": 60,
+			"unit_exp": 9,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:banglum_chestplate",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 18925,
+			"unit_time": 60,
+			"unit_exp": 9,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:banglum_leggings",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 16575,
+			"unit_time": 60,
+			"unit_exp": 9,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:banglum_boots",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 9475,
+			"unit_time": 60,
+			"unit_exp": 9,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:copper_helmet",
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 150,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:copper_chestplate",
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 225,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:copper_leggings",
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 200,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:copper_boots",
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 125,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:stormyx_helmet",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 1375,
+			"unit_time": 60,
+			"unit_exp": 8,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:stormyx_chestplate",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 2200,
+			"unit_time": 60,
+			"unit_exp": 8,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:stormyx_leggings",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 1925,
+			"unit_time": 60,
+			"unit_exp": 8,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:stormyx_boots",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 1100,
+			"unit_time": 60,
+			"unit_exp": 8,
+			"weight": 30
+		}
+	]
+}

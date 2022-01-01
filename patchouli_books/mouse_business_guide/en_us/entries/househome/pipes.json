@@ -1,0 +1,12 @@
+{
+    "name": "Pipes",
+    "icon": "pipe:item_pipe",
+    "category": "patchouli:househome",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Pipes adds item pipes, enabling you to connect inventories and move items around."
+        }
+    ],
+    "sortnum": "21"
+}

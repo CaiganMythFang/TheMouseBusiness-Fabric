@@ -1,0 +1,905 @@
+{
+	"name": "guild:tools",
+	"data": [
+		{
+			"type": "item",
+			"name": "minecraft:iron_pickaxe",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 250,
+			"unit_time": 60,
+			"unit_exp": 4,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "minecraft:iron_axe",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 250,
+			"unit_time": 60,
+			"unit_exp": 4,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "minecraft:iron_sword",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 175,
+			"unit_time": 60,
+			"unit_exp": 4,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "minecraft:iron_hoe",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 175,
+			"unit_time": 60,
+			"unit_exp": 4,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "minecraft:iron_shovel",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 100,
+			"unit_time": 60,
+			"unit_exp": 4,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "minecraft:diamond_pickaxe",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 1325,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "minecraft:diamond_axe",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 1325,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "minecraft:diamond_sword",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 900,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "minecraft:diamond_hoe",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 900,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "minecraft:diamond_shovel",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 450,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "boneequipment:bone_pickaxe",
+			"level": {
+				"min": 1
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 100,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "boneequipment:bone_axe",
+			"level": {
+				"min": 1
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 100,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "boneequipment:bone_sword",
+			"level": {
+				"min": 1
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 75,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "boneequipment:bone_hoe",
+			"level": {
+				"min": 1
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 75,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "boneequipment:bone_shovel",
+			"level": {
+				"min": 1
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 50,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:citrine_pickaxe",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 1650,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:citrine_axe",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 1650,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:citrine_sword",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 1100,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:citrine_hoe",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 1100,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:citrine_shovel",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 550,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:kunzite_pickaxe",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 1825,
+			"unit_time": 60,
+			"unit_exp": 8,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:kunzite_axe",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 1825,
+			"unit_time": 60,
+			"unit_exp": 8,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:kunzite_sword",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 1225,
+			"unit_time": 60,
+			"unit_exp": 8,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:kunzite_hoe",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 1225,
+			"unit_time": 60,
+			"unit_exp": 8,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:kunzite_shovel",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 625,
+			"unit_time": 60,
+			"unit_exp": 8,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:topaz_pickaxe",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 575,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:topaz_axe",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 575,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:topaz_sword",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 400,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:topaz_hoe",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 400,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:topaz_shovel",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 200,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:corundum_pickaxe",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 675,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:corundum_axe",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 675,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:corundum_sword",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 450,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:corundum_hoe",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 450,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:corundum_shovel",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 225,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:sapphire_pickaxe",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 350,
+			"unit_time": 60,
+			"unit_exp": 4,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:sapphire_axe",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 350,
+			"unit_time": 60,
+			"unit_exp": 4,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:sapphire_sword",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 225,
+			"unit_time": 60,
+			"unit_exp": 4,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:sapphire_hoe",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 225,
+			"unit_time": 60,
+			"unit_exp": 4,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:sapphire_shovel",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 125,
+			"unit_time": 60,
+			"unit_exp": 4,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:carbonado_pickaxe",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 425,
+			"unit_time": 60,
+			"unit_exp": 4,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:carbonado_axe",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 425,
+			"unit_time": 60,
+			"unit_exp": 4,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:carbonado_sword",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 275,
+			"unit_time": 60,
+			"unit_exp": 4,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:carbonado_hoe",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 275,
+			"unit_time": 60,
+			"unit_exp": 4,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "more_gems:carbonado_shovel",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 150,
+			"unit_time": 60,
+			"unit_exp": 4,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:banglum_pickaxe",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 7100,
+			"unit_time": 60,
+			"unit_exp": 9,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:banglum_axe",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 7100,
+			"unit_time": 60,
+			"unit_exp": 9,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:banglum_sword",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 4750,
+			"unit_time": 60,
+			"unit_exp": 9,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:banglum_hoe",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 4750,
+			"unit_time": 60,
+			"unit_exp": 9,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:banglum_shovel",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 2375,
+			"unit_time": 60,
+			"unit_exp": 9,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:copper_pickaxe",
+			"level": {
+				"min": 1
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 100,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:copper_axe",
+			"level": {
+				"min": 1
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 100,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:copper_sword",
+			"level": {
+				"min": 1
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 75,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:copper_hoe",
+			"level": {
+				"min": 1
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 75,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:copper_shovel",
+			"level": {
+				"min": 1
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 50,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:stormyx_pickaxe",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 825,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:stormyx_axe",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 825,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:stormyx_sword",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 550,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:stormyx_hoe",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 550,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:stormyx_shovel",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 275,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		}
+	]
+}

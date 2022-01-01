@@ -1,0 +1,35 @@
+{
+	"name": "guild:medium_rewards",
+	"data": [
+		{
+			"type": "item",
+			"name": "taverns:goldcoin",
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 10000,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "lootcrates:uncommon_crate_key",
+			"number": {
+				"min": 1,
+				"max": 4
+			},
+			"unit_worth": 1500,
+			"weight": 20
+		},
+		{
+			"type": "item",
+			"name": "lootcrates:rare_crate_key",
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 4500,
+			"weight": 15
+		}
+	]
+}

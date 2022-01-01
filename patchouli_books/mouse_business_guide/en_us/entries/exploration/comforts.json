@@ -1,0 +1,18 @@
+{
+    "name": "Comforts",
+    "icon": "comforts:sleeping_bag_white",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)When traveling around, the night can get quite dark and dangerous. But setting up a bed for the night is not an optimal choice, since that resets your respawn location. That is where Comforts come in."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "comforts:sleeping_bag_white",
+            "title": "SLEEPING BAG",
+            "text": "$(o)Sleeping Bags enable you to sleep without resetting your respawn location. No need to wait out the night if you are far from base."
+        }
+    ],
+    "sortnum": "3"
+}

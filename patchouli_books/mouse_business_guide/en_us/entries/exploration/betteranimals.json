@@ -1,0 +1,12 @@
+{
+    "name": "Better Animals Plus",
+    "icon": "betteranimalsplus:reindeerhead_1",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Better Animals Plus adds over 30 animals to find, hunt, and sometimes tame as well!"
+        }
+    ],
+    "sortnum": "11"
+}

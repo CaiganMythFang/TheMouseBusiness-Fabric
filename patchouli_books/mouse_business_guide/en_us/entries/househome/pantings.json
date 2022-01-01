@@ -1,0 +1,12 @@
+{
+    "name": "Paintings++",
+    "icon": "minecraft:painting",
+    "category": "patchouli:househome",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Paintings++ lets you choose which painting you put down, including custom ones!"
+        }
+    ],
+    "sortnum": "20"
+}

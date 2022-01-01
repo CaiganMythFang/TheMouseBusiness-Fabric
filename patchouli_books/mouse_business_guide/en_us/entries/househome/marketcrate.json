@@ -1,0 +1,12 @@
+{
+    "name": "Market Crates",
+    "icon": "marketcrates:birch_crate",
+    "category": "patchouli:househome",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Market Crates adds a small variety of crates perfect for decorating a grocery shop, a farm, etc."
+        }
+    ],
+    "sortnum": "18"
+}

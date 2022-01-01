@@ -1,0 +1,14 @@
+{
+	"name": "guild:guard",
+	"icon": "minecraft:iron_chestplate",
+	"guild_master_level": 2,
+	"levels_pool": "guild:common_levels",
+	"task_pools": [
+		"guild:armor"
+	],
+	"reward_pools": [
+		"guild:low_rewards",
+		"guild:medium_rewards",
+		"guild:high_rewards"
+	]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Bountiful",
+    "icon": "bountiful:bounty",
+    "category": "patchouli:questing",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Bountiful adds Bounty Boards that you can either craft and set up, or find in many villages across the world. $(br2) Bounties are posted to the board regularly, and can cover everything from finding items, fighting monsters, and more.$(br2)You can be rewarded with Coins, as well as Crate Keys for opening locked chests around the world."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "bountiful:decree",
+            "title": "Decrees",
+            "text": "$(o)Another reward you can get specifically from Bounty Boards are Decrees. Every Bounty Board has a built in Decree to start with, then you can add two more.$(br2)Decrees will change what kind of Bounties the board will post up. If you have a Fishing Decree, only Fishing bounties will show up."
+        }
+    ],
+    "sortnum": "1"
+}

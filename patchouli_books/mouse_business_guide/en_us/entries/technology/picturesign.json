@@ -1,0 +1,16 @@
+{
+    "name": "Picture Sign",
+    "icon": "minecraft:oak_sign",
+    "category": "patchouli:technology",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)If you want to put up a custom poster, wallpaper, sign, etc, the easiest way(relatively speaking...) would be to put up a Picture Sign! $(br2)Using any vanilla sign, you can start the first line with $(br)!PS: (exclamation point to start, space afterward), then add a URL afterward, which you can split across the next two lines."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Your best bet is to upload the image to Imgur. If you do, you can use a shortcut for the sign, looking like : $(br2)!PS: imgur:xxxxx.png, where xxxxx is the file name in the url."
+        }
+    ],
+    "sortnum": "4"
+}

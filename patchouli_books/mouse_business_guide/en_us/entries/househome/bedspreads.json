@@ -1,0 +1,12 @@
+{
+    "name": "Bedspreads",
+    "icon": "minecraft:white_bed",
+    "category": "patchouli:househome",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Bedspreads lets you combine a patterned banner with a bed to decorate it. Just craft them together. $(br2)You can seperate them again by crafting the decorated bed itself."
+        }
+    ],
+    "sortnum": "3"
+}

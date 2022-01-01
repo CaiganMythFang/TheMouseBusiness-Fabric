@@ -1,0 +1,16 @@
+{
+    "name": "Simple Voice Chat",
+    "icon": "minecraft:note_block",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Simple Voice Chat adds a proximity voice chat to the game. To configure it, just hit V to open up the voice chat window. $(br2)To talk, press the Caps Lock key to turn it on or off. You can also set it to be voice activated in the V menu."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "You can create a Group to talk to certain people regardless of distance. By hitting Insert, you open up the Group window."
+        }
+    ],
+    "sortnum": "2"
+}

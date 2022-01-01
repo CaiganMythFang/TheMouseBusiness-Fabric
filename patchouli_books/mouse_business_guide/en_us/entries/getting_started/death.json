@@ -1,0 +1,16 @@
+{
+    "name": "To Die Again",
+    "icon": "exlinefurniture:gravestone",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Like many dimensions we research, when you die in this one you aren't DEAD dead. Just... inconveniently misplaced, I like to call it. $(br2)When you die, a magical Grave is constructed at your death spot, and everything you were carrying is entombed inside it safely."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(o)You'll also get a cryptic message with the COORDINATES of your Grave. Be sure to remember these!$(br2)You can get a display of your Coordinates by having a Compass in your inventory!$(br2)When back at your grave, just Right Click to open it and retrieve your items."
+        }
+    ],
+    "sortnum": "4"
+}

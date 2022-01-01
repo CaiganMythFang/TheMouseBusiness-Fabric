@@ -1,0 +1,12 @@
+{
+    "name": "Goblin Traders",
+    "icon": "minecraft:gold_ingot",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Goblin Traders are mysterious little traders that you can find underground.$(br2)There are two types: normal ones can be found in the Overworld, and Vein Goblin Traders can be found in the Nether. They both have unique trades."
+        }
+    ],
+    "sortnum": "9"
+}

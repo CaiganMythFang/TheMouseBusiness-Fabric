@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+      "item": "taverns:rawhalfnetheritecoin"
+    },
+    "result": "taverns:halfnetheritecoin",
+    "experience": 0.15,
+    "cookingtime": 2500
+  }

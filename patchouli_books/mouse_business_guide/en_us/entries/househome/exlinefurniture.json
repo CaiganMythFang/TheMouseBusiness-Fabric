@@ -1,0 +1,12 @@
+{
+    "name": "Exline's Furniture Mod",
+    "icon": "exlinefurniture:oven",
+    "category": "patchouli:househome",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Exline's Furniture Mod adds a wide variety of furniture to decorate and furnish your home with."
+        }
+    ],
+    "sortnum": "12"
+}

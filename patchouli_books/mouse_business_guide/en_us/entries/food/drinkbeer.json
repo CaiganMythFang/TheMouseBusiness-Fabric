@@ -1,0 +1,12 @@
+{
+    "name": "Drink Beer!",
+    "icon": "drinkbeer:beer_mug",
+    "category": "patchouli:food",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Drink Beer adds everything you need to set up a tavern, brew beer and other alcohols, and drink em! It includes recipe board posters that help explain how to brew different types of alcohol!"
+        }
+    ],
+    "sortnum": "8"
+}

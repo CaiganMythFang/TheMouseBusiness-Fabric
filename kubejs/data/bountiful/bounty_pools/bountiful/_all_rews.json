@@ -1,0 +1,136 @@
+{
+	"content": [
+
+		{
+			"type": "ITEM",
+			"content": "taverns:coppercoin",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100,
+			"weightMult": 1.25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "taverns:silvercoin",
+			"amount": {
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 1000,
+			"weightMult": 0.9
+		},
+
+		{
+			"type": "ITEM",
+			"content": "taverns:goldcoin",
+			"amount": {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 10000,
+			"weightMult": 0.2
+		},
+
+		{
+			"type": "ITEM",
+			"content": "taverns:netheritecoin",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 100000,
+			"weightMult": 0.1
+		},
+
+		{
+			"type": "ITEM",
+			"rarity": "UNCOMMON",
+			"content": "bountiful:decree",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 500,
+			"weightMult": 0.4
+		},
+
+		{
+			"type": "ITEM",
+			"rarity": "RARE",
+			"content": "lootcrates:common_crate_key",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 500,
+			"weightMult": 0.4
+		},
+
+		{
+			"type": "ITEM",
+			"rarity": "RARE",
+			"content": "lootcrates:uncommon_crate_key",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 1500,
+			"weightMult": 0.3
+		},
+
+		{
+			"type": "ITEM",
+			"rarity": "RARE",
+			"content": "lootcrates:rare_crate_key",
+			"amount": {
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 4500,
+			"weightMult": 0.25
+		},
+
+		{
+			"type": "ITEM",
+			"rarity": "RARE",
+			"content": "lootcrates:epic_crate_key",
+			"amount": {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 13500,
+			"weightMult": 0.25
+		},
+
+		{
+			"type": "ITEM",
+			"rarity": "RARE",
+			"content": "lootcrates:ghost_crate_key",
+			"amount": {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 20000,
+			"weightMult": 0.2
+		},
+
+		{
+			"type": "ITEM",
+			"rarity": "RARE",
+			"content": "lootcrates:blaze_crate_key",
+			"amount": {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 20000,
+			"weightMult": 0.2
+		}
+
+
+	]
+
+
+}

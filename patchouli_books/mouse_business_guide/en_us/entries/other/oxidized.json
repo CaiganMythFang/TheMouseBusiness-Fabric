@@ -1,0 +1,12 @@
+{
+    "name": "Oxidized",
+    "icon": "oxidized:copper_pulsar",
+    "category": "patchouli:other",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Oxidized adds a variety of Copper tools, blocks, and more."
+        }
+    ],
+    "sortnum": "5"
+}

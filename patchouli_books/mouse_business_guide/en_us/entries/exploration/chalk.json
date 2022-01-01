@@ -1,0 +1,12 @@
+{
+    "name": "Chalk",
+    "icon": "chalk:chalk",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Chalk gives you two types of Chalk you can use to mark directions in caves or other place,s like dungeons or fortresses.$(br2) The edge or corner of the block you Right Click the chalk onto is the direction the arrow will be pointing."
+        }
+    ],
+    "sortnum": "8"
+}

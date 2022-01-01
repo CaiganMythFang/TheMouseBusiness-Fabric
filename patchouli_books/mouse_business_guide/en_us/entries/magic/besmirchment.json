@@ -1,0 +1,12 @@
+{
+    "name": "Besmirchment 2",
+    "icon": "besmirchment:final_broom",
+    "category": "patchouli:magic",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Besmirchment 2 is an addon for Bewitched, adding more contracts and content thats a bit more humorous."
+        }
+    ],
+    "sortnum": "7"
+}

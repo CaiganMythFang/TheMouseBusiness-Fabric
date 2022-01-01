@@ -1,0 +1,12 @@
+{
+    "name": "Nature's Compass",
+    "icon": "naturescompass:naturescompass",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Nature's Compass is quite handy if you are exploring and looking for a specific biome. You can Right Click with it and select a biome, and it will point you in the general direction of it."
+        }
+    ],
+    "sortnum": "5"
+}

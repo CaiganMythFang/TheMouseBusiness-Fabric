@@ -1,0 +1,18 @@
+{
+    "name": "Iron Chests",
+    "icon": "ironchests:diamond_chest",
+    "category": "patchouli:househome",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Iron Chests give you a way to upgrade your normal Wooden Chests to bigger, better versions."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "ironchests:wood_copper_upgrade",
+            "title": "UPGRADES",
+            "text": "$(o)Upgrades enable you to replace chests with higher tier versions, without having to empty them first. Just Right Click the upgrade on the right kind of chest."
+        }
+    ],
+    "sortnum": "16"
+}

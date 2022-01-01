@@ -1,0 +1,22 @@
+{
+    "name": "Research Journal",
+    "icon": "hardcorequesting:quest_book",
+    "category": "patchouli:questing",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)As this is a Research venture, there is a lot of items and things to research and take note of. To that, I have included a Research Journal with your deployment kit.$(br2)$(l)$(#ff0000)COMING SOON, NOT IMPLEMENTED YET!"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "hardcorequesting:quest_book",
+            "title": "For Research!",
+            "text": "$(o)This is not like the Q.U.E.S.T. Tablet given out during previous Ferret Business research ventures (whether planned or unplanned...) $(br2)Instead, this Research Journal will accept the items listed, increasing your Research Progress. "
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Items submitted to the Research Journal are CONSUMED, keep in mind! The 'Team/Party' function has been disabled, as we need ALL the research data we can get.$(br2)This means each member of your team will be allowed to submit research items, and obtain rewards as well."
+        }
+    ],
+    "sortnum": "5"
+}

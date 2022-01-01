@@ -1,0 +1,36 @@
+{
+    "name": "The Guild",
+    "icon": "guild:profession_licence",
+    "category": "patchouli:questing",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)The Guild is a special business that you can find in some Plains-based villages. Look for a building with Spruce roofing, and inside you should find a Guild Master! $(br2)This Guild Master will sell you Profession deeds to get you started.$(br)$(l)$(#ff0000)WARNING$()$(l)DO NOT ACCEPT MORE THAN 6 PROFESSIONS FOR NOW"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "guild:profession_licence",
+            "title": "PROFESSIONS",
+            "text": "$(o)The Guild has a variety of Professions you can choose from, though only a few are available from new Guild Masters. The types of jobs you can take are determined by the Profession you choose.$(br2)Hold and Right Click the deed when you've bought one to activate that Profession."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Once you've chosen your first Profession, you can open the Guild Job window with J. Here you will get a listing of jobs you can do and the rewards for doing them. Click on a Job to accept it.$(br2)Most jobs are either Kill or Collect tasks, or both. Kill tasks will track when you kill the listed monster. Collect tasks, though, have to be activated again in the Guild menu when you have the items in your inventory."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(o)By doing jobs, you level your Profession. A higher level means bigger jobs. Purchasing multiple Job Deeds from a Guild Master will level them, and they'll offer even more Professions! $(br2)You can accept multiple Professions at once, and swap between the job offerings in the Guild menu.$(br2)But sometimes, it's hard to just find The Guild in the first place..."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "guild:guild_master_table",
+            "title": "THE GUILD MASTER TABLE",
+            "text": "$(o)If you are in need of the Guild, and cannot find one, then you must construct your own! $(br2)By placing down a Guild Master Table in a village, you can entice a villager there to change jobs and become the new Guild Master."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(o)(Especially if you get them fired from their current job by breaking their job site. It's usually something related to their current job, like a Furnace, Lectern, etc.)"
+        }
+    ],
+    "sortnum": "2"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Immersive Travel Overhaul",
+    "icon": "sextant:barometer",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Immersive Travel Overhaul adds a variety of ways that aid in navigation and travel across the world."
+        }
+    ],
+    "sortnum": "8"
+}

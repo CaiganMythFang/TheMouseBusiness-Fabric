@@ -1,0 +1,1224 @@
+
+{
+	"content": [
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:feather",
+			"amount": {
+				"min": 1,
+				"max": 32
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:chicken",
+			"amount": {
+				"min": 1,
+				"max": 56
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:white_wool",
+			"amount": {
+				"min": 1,
+				"max": 32
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:beef",
+			"amount": {
+				"min": 1,
+				"max": 56
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:porkchop",
+			"amount": {
+				"min": 1,
+				"max": 56
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:ink_sac",
+			"amount": {
+				"min": 1,
+				"max": 56
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:leather",
+			"amount": {
+				"min": 1,
+				"max": 56
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:glow_ink_sac",
+			"amount": {
+				"min": 1,
+				"max": 56
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:rabbit",
+			"amount": {
+				"min": 1,
+				"max": 56
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:rabbit_hide",
+			"amount": {
+				"min": 1,
+				"max": 56
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:rabbit_foot",
+			"amount": {
+				"min": 1,
+				"max": 56
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:zombie_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:creeper_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:skeleton_skull",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:blaze_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:cave_spider_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:drowned_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:elder_guardian_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:enderman_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:endermite_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:evoker_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:ghast_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:guardian_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:hoglin_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:husk_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:illusioner_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:iron_golem_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:magma_cube_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:phantom_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:piglin_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:ravager_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:shulker_black_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:shulker_blue_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:shulker_brown_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:shulker_cyan_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:shulker_gray_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:shulker_green_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:shulker_light_blue_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:shulker_light_gray_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:shulker_lime_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:shulker_magenta_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:shulker_orange_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:shulker_pink_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:shulker_purple_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:shulker_red_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:shulker_white_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:shulker_yellow_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:silverfish_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:slime_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:spider_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:stray_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:strider_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:vex_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:vindicator_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:wolf_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:zoglin_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:zombie_villager_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:zombified_piglin_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:player_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:axolotl_blue_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:axolotl_brown_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:axolotl_cyan_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:axolotl_gold_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:axolotl_leucistic_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:bat_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:bee_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:cat_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:clownfish_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:cow_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:donkey_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:fox_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:fox_arctic_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:glow_squid_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:goat_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:horse_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:llama_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:mooshroom_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:mule_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:ocelot_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:panda_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:parrot_blue_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:parrot_cyan_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:parrot_gray_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:parrot_green_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:parrot_red_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:pig_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:polar_bear_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:pufferfish_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:rabbit_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:salmon_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:sheep_black_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:sheep_blue_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:sheep_brown_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:sheep_cyan_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:sheep_gray_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:sheep_green_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:sheep_light_blue_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:sheep_light_gray_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:sheep_lime_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:sheep_magenta_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:sheep_orange_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:sheep_pink_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:sheep_purple_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:sheep_red_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:sheep_white_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:sheep_yellow_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:snow_golem_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:squid_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:trader_llama_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:turtle_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "spectrum:villager_head",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "earthtojavamobs:rainbow_wool",
+			"amount": {
+				"min": 1,
+				"max": 56
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 6.0,
+			"content": "minecraft:pillager",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 6.0,
+			"content": "minecraft:vindicator",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 150
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 6.0,
+			"content": "minecraft:evoker",
+			"amount": {
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 6.0,
+			"content": "minecraft:ravager",
+			"amount": {
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:gunpowder",
+			"amount": {
+				"min": 1,
+				"max": 56
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:bone",
+			"amount": {
+				"min": 1,
+				"max": 56
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:rotten_flesh",
+			"amount": {
+				"min": 1,
+				"max": 32
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:spider_eye",
+			"amount": {
+				"min": 1,
+				"max": 56
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:ender_pearl",
+			"amount": {
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 100
+		}
+
+
+
+	]
+
+
+}

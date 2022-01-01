@@ -1,0 +1,20 @@
+{
+    "name": "Spending Coin",
+    "icon": "spectrum:villager_head",
+    "category": "patchouli:questing",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Once you have a bunch of Coins, what do you spend them on? $(br2)This is where taking care of Villagers comes into play, of course! Many villagers have things to offer you, for the right price."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Every villager has a tab in their Trade screen on the right side, which will switch to their 'Quest' tab. These are actually offers to sell you items. Not all Villagers will have quests, keep in mind!$(br2)The offerings here vary from ores, metals, equipment, food, and rarely Spawn Eggs! As well as other things."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(o)New quests will pop up every hour or so. If you find a Villager with a quest you like, protect them, because they may have it again later.$(br2)The number of quests a Villager offers depends on their level. Trade with them more to level them up!"
+        }
+    ],
+    "sortnum": "3"
+}

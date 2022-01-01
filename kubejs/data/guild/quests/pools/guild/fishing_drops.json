@@ -1,0 +1,677 @@
+{
+	"name": "guild:fishing_drops",
+	"data": [
+		{
+			"type": "item",
+			"name": "minecraft:cod",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 100
+		},
+		{
+			"type": "item",
+			"name": "minecraft:salmon",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 100
+		},
+		{
+			"type": "item",
+			"name": "minecraft:tropical_fish",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 100
+		},
+		{
+			"type": "item",
+			"name": "minecraft:pufferfish",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 100
+		},
+		{
+			"type": "item",
+			"name": "gofish:icicle_fish",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:lilyfish",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:matrix_fish",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:seaweed_eel",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:slimefish",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:snowball_fish",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:terrafish",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:carrot_carp",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:oakfish",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:charfish",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:spikerfish",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:blackstone_trout",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:bonefish",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:gilded_blackstone_carp",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:smokey_salmon",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:soul_salmon",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:magma_cod",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:basalt_bass",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:obsidian_halibut",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:endfish",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:chorus_cod",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:dragonfish",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:omega_floater",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:portal_puffer",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:lunarfish",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:galaxy_starfish",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:starry_salmon",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:nebula_swordfish",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:rainy_bass",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:cloudy_crab",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:thundering_bass",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:blizzard_bass",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:icicle_fish",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "valley:fire_eel",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "valley:ghost_fish",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "valley:perch",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "valley:crab_red",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "valley:mussel",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "valley:brown_mussel",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "valley:cerith_snail",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "valley:lionfish",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "valley:sardine",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "valley:slime_fish",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "valley:glistering_anglerfish",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "valley:octopus",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "valley:sand_dollar",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "valley:clam",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "valley:fossilized_starfish",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 50,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "gofish:wooden_crate",
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 300,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 10
+		},
+		{
+			"type": "item",
+			"name": "gofish:iron_crate",
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 10
+		},
+		{
+			"type": "item",
+			"name": "gofish:golden_crate",
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 5000,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "gofish:diamond_crate",
+			"number": {
+				"min": 1,
+				"max": 1
+			},
+			"unit_worth": 8000,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 2
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"name": "guild:miner",
+	"icon": "minecraft:iron_pickaxe",
+	"guild_master_level": 2,
+	"levels_pool": "guild:common_levels",
+	"task_pools": [
+		"guild:overworld_ores",
+		"guild:nether_ores"
+	],
+	"reward_pools": [
+		"guild:low_rewards",
+		"guild:medium_rewards",
+		"guild:high_rewards"
+	]
+}

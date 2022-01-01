@@ -1,0 +1,18 @@
+{
+    "name": "Hookshots",
+    "icon": "hookshot:white_hookshot",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Hookshots can be used to traverse around tougher terrain."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:piston",
+            "title": "HOOKSHOT UPGRADES",
+            "text": "$(o)You can combine your Hookshot with one of the following items to add special properties to it : Prismarine Shard, Eye of Ender, Piston, Chain, Observer, Obsidian, or Arrow."
+        }
+    ],
+    "sortnum": "11"
+}

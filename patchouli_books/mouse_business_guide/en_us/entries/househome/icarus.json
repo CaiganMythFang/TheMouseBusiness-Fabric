@@ -1,0 +1,12 @@
+{
+    "name": "Icarus",
+    "icon": "icarus:discords_wings",
+    "category": "patchouli:househome",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Icarus lets you turn your Elytra into a special Trinket: Wings! There is a wide variety of wings, and instead of taking your Chest slot, they'll take the Cape Trinket slot!"
+        }
+    ],
+    "sortnum": "15"
+}

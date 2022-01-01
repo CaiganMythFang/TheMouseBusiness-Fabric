@@ -1,0 +1,18 @@
+{
+    "name": "Croptopia",
+    "icon": "croptopia:frying_pan",
+    "category": "patchouli:food",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Croptopia is an expansive food mod that adds both dozens of crops and trees, as well as many new foods to put together with them."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "croptopia:food_press",
+            "title": "COOKING UTENSILS",
+            "text": "$(o)Many foods and ingredients will need utensils and cookware to make. These don't get used up in recipes."
+        }
+    ],
+    "sortnum": "0"
+}

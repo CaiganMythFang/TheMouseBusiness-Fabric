@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": 
+    [
+        {
+            "item": "taverns:goldcoin"
+        },
+        {
+            "item": "taverns:goldcoin"
+        },
+        {
+            "item": "taverns:goldcoin"
+        },
+        {
+            "item": "taverns:goldcoin"
+        },
+        {
+            "item": "taverns:goldcoin"
+        }
+    ],
+    "result": {
+      "item": "taverns:halfnetheritecoin",
+      "count": 1
+    }
+  }

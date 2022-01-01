@@ -1,0 +1,12 @@
+{
+    "name": "Just Player Heads",
+    "icon": "minecraft:player_head",
+    "category": "patchouli:househome",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)If you die, you'll drop your head as well. Grim!"
+        }
+    ],
+    "sortnum": "17"
+}

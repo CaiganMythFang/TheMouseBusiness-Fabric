@@ -1,0 +1,12 @@
+{
+    "name": "Mo' Structures",
+    "icon": "minecraft:cobblestone_wall",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Mo Structures adds a ton of new structures and points of interest to find while exploring."
+        }
+    ],
+    "sortnum": "10"
+}

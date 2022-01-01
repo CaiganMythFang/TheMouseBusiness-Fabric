@@ -1,0 +1,12 @@
+{
+    "name": "Winterly",
+    "icon": "winterly:red_santa_hat",
+    "category": "patchouli:househome",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Winterly adds a variety of winter and holiday themed cosmetics and blocks."
+        }
+    ],
+    "sortnum": "29"
+}

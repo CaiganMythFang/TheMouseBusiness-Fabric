@@ -1,0 +1,12 @@
+{
+    "name": "Castle Dungeons",
+    "icon": "customfence:cobblestone_castle",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Around the world you can find large castles. These are full of monsters and treasures, and the interiors are randomly generated. $(br2)Be sure to bring many Loot Crate Keys, as well."
+        }
+    ],
+    "sortnum": "20"
+}

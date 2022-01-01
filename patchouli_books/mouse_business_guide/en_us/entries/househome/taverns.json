@@ -1,0 +1,12 @@
+{
+    "name": "Taverns",
+    "icon": "taverns:drinkinghorn",
+    "category": "patchouli:househome",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Taverns adds a few tavern related items, including the money most villagers trade with, and drinking horns."
+        }
+    ],
+    "sortnum": "24"
+}

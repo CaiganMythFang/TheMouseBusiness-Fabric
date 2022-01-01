@@ -1,0 +1,12 @@
+{
+    "name": "Exline's Awnings",
+    "icon": "exlineawnings:oak_awning",
+    "category": "patchouli:househome",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Exline's Awnings adds a variety of awnings for your outdoor builds."
+        }
+    ],
+    "sortnum": "10"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Bone Equipment",
+    "icon": "boneequipment:bone_helmet",
+    "category": "patchouli:equipment",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Bone Equipment enables you to make Bone Armor, Bone Tools, and Bone Weapons. You can also make Bone Horse Armor."
+        }
+    ],
+    "sortnum": "1"
+}

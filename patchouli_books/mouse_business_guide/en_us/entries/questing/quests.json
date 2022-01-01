@@ -1,0 +1,17 @@
+{
+    "name": "Questing Basics",
+    "icon": "taverns:silvercoin",
+    "category": "patchouli:questing",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Questing is the primary way to earn both Coins, which can be used to purchase various items; and Keys, which you need to unlock treasure Loot Chests around the world.$(br2)Do note that many quests will ask for materials or items you are not skilled or powerful enough to obtain."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Most of your questing will involve Villages in some way. So, protect them, okay? Those Villagers will have things to trade and quests to offer. $(br2)Available quests from all sources are constantly changing and updating. If you don't find ones you can do currently, just check back after an hour. Or go exploring for more Villages."
+        }
+    ],
+    "priority": true,
+    "sortnum": "0"
+}

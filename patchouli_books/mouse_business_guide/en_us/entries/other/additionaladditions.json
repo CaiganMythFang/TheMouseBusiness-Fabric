@@ -1,0 +1,12 @@
+{
+    "name": "Additional Additions",
+    "icon": "additionaladditions:mysterious_bundle",
+    "category": "patchouli:other",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Additional Additions adds a variety of small, useful things. From attatching a Spyglass to a Crossbow to zoom while aiming, to making Gilded Netherite Armor, to a Rope that you can use to scale down cliffs!"
+        }
+    ],
+    "sortnum": "0"
+}

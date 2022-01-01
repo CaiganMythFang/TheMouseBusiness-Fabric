@@ -1,0 +1,12 @@
+{
+    "name": "More Villagers",
+    "icon": "morevillagers:decayed_workbench",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)More Villagers adds a bunch of new Villager professions. These villagers will not have quests for you, but offer their own kinds of trades."
+        }
+    ],
+    "sortnum": "12"
+}

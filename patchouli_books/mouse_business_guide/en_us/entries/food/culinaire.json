@@ -1,0 +1,24 @@
+{
+    "name": "Culinaire",
+    "icon": "culinaire:sandwich",
+    "category": "patchouli:food",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Culinaire adds a variety of foods, but primarily adds a way to make custom sandwiches!"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "culinaire:sandwich",
+            "title": "SANDWICH MAKING",
+            "text": "$(o)In your crafting grid, you can place Bread in the center of the Top and Bottom rows, then any 3 food ingredients in the middle row."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "culinaire:kettle",
+            "title": "MAKING TEA",
+            "text": "$(o)You can make yourself some Tea Bags and a Kettle, and brew yourself some tea!$(br2)Set the Kettle onto the ground, then place a warm block next to it (such as Magma Block, Campfire, etc). Then you can Right Click a Bucket of Water to fill the kettle, and put the teabag in to steep. $(br2)When its done, just Right Click an Empty Bottle onto the Kettle."
+        }
+    ],
+    "sortnum": "2"
+}

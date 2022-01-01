@@ -1,0 +1,12 @@
+{
+    "name": "Cake Mod",
+    "icon": "cakemod:wedding_cake",
+    "category": "patchouli:food",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)The Cake mod adds a bunch of new cakes that you can eat."
+        }
+    ],
+    "sortnum": "1"
+}

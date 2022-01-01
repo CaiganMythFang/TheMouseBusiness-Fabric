@@ -1,0 +1,10 @@
+{
+	"objectives": [
+		"mining_objs"
+	],
+	"rewards": [
+		"_low_rews",
+		"_med_rews",
+		"_high_rews"
+	]
+}

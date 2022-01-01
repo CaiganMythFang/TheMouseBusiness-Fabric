@@ -1,0 +1,22 @@
+{
+    "name": "Companion Bat",
+    "icon": "companion_bats:bat_item",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Wolves and Ocelots are not the only vanilla creatures you can tame!"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:pumpkin_pie",
+            "title": "BAT TAMING",
+            "text": "$(o)Feed a bat some Pumpkin Pie. If successfull, the bat will pop into your inventory! Use the 'bat item' to send out your bat, and you'll get a Bat Flute to recall it. $(br2)It will also pop back into your inventory when in danger, as long as your Bat Flute is in your inventory."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Your bat levels by fighting mobs. It can level up, get stronger, and even train in different classes! $(br2)A bat's class is determined by the equipment you can give it, special bat gear it wears."
+        }
+    ],
+    "sortnum": "4"
+}

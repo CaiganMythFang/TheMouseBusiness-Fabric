@@ -1,0 +1,12 @@
+{
+    "name": "Exline's Sandwich Mod",
+    "icon": "sandwichmod:sandwich_chicken",
+    "category": "patchouli:food",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Exline's Sandwich Mod adds a variety of tasty sandwiches, as well as two crops to enable you to make the most ultimate of sandwiches : PB&J!"
+        }
+    ],
+    "sortnum": "7"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "XP Storage",
+    "icon": "xp_storage:xp_book",
+    "category": "patchouli:magic",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)XP Storage gives you a variety of items that enable you to 'bank' your earned XP so you don't lose it if you die, or if want to share it with others."
+        }
+    ],
+    "sortnum": "0"
+}

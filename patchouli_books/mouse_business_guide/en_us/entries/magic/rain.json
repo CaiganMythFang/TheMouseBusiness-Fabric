@@ -1,0 +1,12 @@
+{
+    "name": "Rain Be Gone Ritual",
+    "icon": "minecraft:cauldron",
+    "category": "patchouli:magic",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)You can banish the rain for a while by doing the Rain Be Gone Ritual. $(br2)Place an Oak Log down, then place 4 to 8 Cauldrons in the 8 spaces around it. Then light the Log on fire with Flint and Steel."
+        }
+    ],
+    "sortnum": "5"
+}

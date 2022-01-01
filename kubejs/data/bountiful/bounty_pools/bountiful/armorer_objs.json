@@ -1,0 +1,580 @@
+
+{
+	"content": [
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:iron_helmet",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 375,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:iron_chestplate",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 625,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:iron_leggings",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 550,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:iron_boots",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 325,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:leather_helmet",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 275,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:leather_chestplate",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 450,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:leather_leggings",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 400,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:leather_boots",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 225,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:diamond_helmet",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 2200,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:diamond_chestplate",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 3525,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:diamond_leggings",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 3100,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:diamond_boots",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1775,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "boneequipment:bone_helmet",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 150,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "boneequipment:bone_chestplate",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 225,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "boneequipment:bone_leggings",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 200,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "boneequipment:bone_boots",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 125,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:citrine_helmet",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 2750,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:citrine_chestplate",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 4400,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:citrine_leggings",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 3850,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:citrine_boots",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 2200,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:kunzite_helmet",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 3025,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:kunzite_chestplate",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 4850,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:kunzite_boots",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 2425,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:topaz_helmet",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 975,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:topaz_chestplate",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1550,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:topaz_leggings",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1350,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:topaz_boots",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 775,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:corundum_helmet",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1100,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:corundum_chestplate",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1775,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:corundum_leggings",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1550,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:corundum_boots",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 900,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:sapphire_helmet",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 550,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:sapphire_chestplate",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 900,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:sapphire_leggings",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 775,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:sapphire_boots",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 450,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:carbonado_chestplate_gilded",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1000,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:carbonado_helmet",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 775,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:carbonado_chestplate",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1100,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:carbonado_leggings",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 975,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:carbonado_boots",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 550,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "mythicmetals:banglum_helmet",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 11825,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "mythicmetals:banglum_chestplate",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 18925,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "mythicmetals:banglum_leggings",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 16575,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "mythicmetals:banglum_boots",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 9475,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "mythicmetals:copper_helmet",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 150,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "mythicmetals:copper_chestplate",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 225,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "mythicmetals:copper_leggings",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 200,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "mythicmetals:copper_boots",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 125,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "mythicmetals:stormyx_helmet",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1375,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "mythicmetals:stormyx_chestplate",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 2200,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "mythicmetals:stormyx_leggings",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1925,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "mythicmetals:stormyx_boots",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1100,
+            "nbt": "{Damage:0}"
+        }
+
+	]
+
+
+}

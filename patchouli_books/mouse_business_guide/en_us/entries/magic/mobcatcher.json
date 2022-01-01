@@ -1,0 +1,12 @@
+{
+    "name": "Mob Catcher",
+    "icon": "mob_catcher:mob_catcher",
+    "category": "patchouli:magic",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Mob Catchers are magical leashes that enable you to capture and release most any creature. Boss level creatures cannot be captured, but the Diamond Catcher can ensnare passive mobs, while the Netherite one does the same with hostile mobs."
+        }
+    ],
+    "sortnum": "1"
+}

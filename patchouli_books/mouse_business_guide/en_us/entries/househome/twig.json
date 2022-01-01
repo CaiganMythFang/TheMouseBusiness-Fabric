@@ -1,0 +1,12 @@
+{
+    "name": "Twig",
+    "icon": "twigs:dandelion_paper_lantern",
+    "category": "patchouli:househome",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Twig adds a variety of building blocks and decorations for your home."
+        }
+    ],
+    "sortnum": "27"
+}

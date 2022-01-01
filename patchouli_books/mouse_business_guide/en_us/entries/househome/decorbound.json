@@ -1,0 +1,12 @@
+{
+    "name": "Decor-Bound",
+    "icon": "decorbound:gold_bars",
+    "category": "patchouli:househome",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Decor-bound adds a small variety of decorative blocks."
+        }
+    ],
+    "sortnum": "7"
+}

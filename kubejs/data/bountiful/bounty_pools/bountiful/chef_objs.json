@@ -1,0 +1,3548 @@
+
+{
+	"content": [
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:bread",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:mushroom_stew",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:cooked_chicken",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:cooked_salmon",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:cooked_beef",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:glistering_melon_slice",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 500
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:golden_carrot",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 475
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:pumpkin_pie",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:cooked_rabbit",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:rabbit_stew",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:cooked_mutton",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:beetroot_soup",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:cooked_mutton",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "adventurez:cooked_mammoth_meat",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "adventurez:cooked_iguana_meat",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "adventurez:cooked_ender_whale_meat",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "adventurez:cooked_rhino_meat",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "adventurez:cooked_venison",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "adventurez:cooked_warthog_meat",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "additionaladditions:berry_pie",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "additionaladditions:fried_egg",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "additionaladditions:honeyed_apple",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "bewitchment:grilled_garlic",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "bewitchment:garlic_bread",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "bewitchment:witchberry_pie",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "bewitchment:witchberry_cookie",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "bewitchment:grotesque_stew",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "cakemod:chocolate_cake",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "cakemod:birthday_cake",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "cakemod:carrot_cake",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "cakemod:apple_pie",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "cakemod:spooky_cake",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "cakemod:glow_berry_cake",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "cakemod:chocolate_carrot_cake",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "cakemod:sweet_berry_cake",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "cakemod:blueberry_cake",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "cakemod:cranberry_cake",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "cakemod:strawberry_cake",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "cakemod:coffee_cake",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "cakemod:vanilla_cake",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "cakemod:banana_cake",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "cakemod:raspberry_cake",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "cakemod:bundt_cake",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "candymod:chocolate_bar",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "candymod:jelly_beans",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "candymod:lollipop",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "candymod:cotton_candy",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "candymod:candy_cane",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:salsa",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:artichoke_dip",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:grape_juice",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:orange_juice",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:apple_juice",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:cranberry_juice",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:saguaro_juice",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:tomato_juice",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:melon_juice",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:pineapple_juice",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:coffee",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:lemonade",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:limeade",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:soy_milk",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:strawberry_smoothie",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:banana_smoothie",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:kale_smoothie",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:fruit_smoothie",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:chocolate_milkshake",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:beer",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:wine",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:mead",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:rum",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:pumpkin_spice_latte",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:grape_jam",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:strawberry_jam",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:peach_jam",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:apricot_jam",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:blackberry_jam",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:blueberry_jam",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:cherry_jam",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:elderberry_jam",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:raspberry_jam",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:potato_chips",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:steamed_rice",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:french_fries",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:sweet_potato_fries",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:onion_rings",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:raisins",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:doughnut",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:popcorn",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:baked_beans",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:toast",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:cucumber_salad",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:caesar_salad",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:leafy_salad",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:fruit_salad",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:veggie_salad",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:pork_and_beans",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:oatmeal",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:leek_soup",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:yoghurt",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:saucy_chips",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:roasted_nuts",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:trail_mix",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:protein_bar",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:nougat",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:scrambled_eggs",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:buttered_toast",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:toast_with_jam",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:ham_sandwich",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:peanut_butter_and_jam",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:blt",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:grilled_cheese",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:cheeseburger",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:hamburger",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:tofuburger",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:pizza",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:supreme_pizza",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:cheese_pizza",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:pineapple_pepperoni_pizza",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:lemon_chicken",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:fried_chicken",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:chicken_and_noodles",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:chicken_and_dumplings",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:tofu_and_dumplings",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:spaghetti_squash",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:chicken_and_rice",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:taco",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:sushi",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:egg_roll",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:cashew_chicken",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:yam_jam",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:banana_cream_pie",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:candy_corn",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:vanilla_ice_cream",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:strawberry_ice_cream",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:mango_ice_cream",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:rum_raisin_ice_cream",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:pecan_ice_cream",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:cherry_pie",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:brownies",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:snicker_doodle",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:banana_nut_bread",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:pecan_pie",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:candied_nuts",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:almond_brittle",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:raisin_oatmeal_cookie",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:burrito",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:tostada",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:horchata",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:carnitas",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:fajitas",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:enchilada",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:churros",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:tamales",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:tres_leche_cake",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:stuffed_poblanos",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:chili_relleno",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:crema",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:refried_beans",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:chimichanga",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:quesadilla",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:ajvar",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:ajvar_toast",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:avocado_toast",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:baked_sweet_potato",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:baked_yam",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:beef_stew",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:beef_stir_fry",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:buttered_green_beans",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:cheesy_asparagus",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:chocolate_ice_cream",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:cooked_bacon",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:eggplant_parmesan",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:fruit_cake",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:grilled_eggplant",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:kiwi_sorbet",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:lemon_coconut_bar",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:nether_wart_stew",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:peanut_butter",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:peanut_butter_with_celery",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:potato_soup",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:ratatouille",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:roasted_asparagus",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:roasted_radishes",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:roasted_squash",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:roasted_turnips",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:steamed_broccoli",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:steamed_green_beans",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:stir_fry",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:stuffed_artichoke",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:shepherds_pie",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 125
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:beef_wellington",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:fish_and_chips",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:eton_mess",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:tea",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:cornish_pasty",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:scones",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:figgy_pudding",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:treacle_tart",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:sticky_toffee_pudding",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:trifle",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "culinaire:milk_chocolate_bottle",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "culinaire:dark_chocolate_bottle",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "culinaire:white_chocolate_bottle",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "culinaire:dark_chocolate_bar",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "culinaire:milk_chocolate_bar",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "culinaire:white_chocolate_bar",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "culinaire:dark_chocolate_pie",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "culinaire:milk_chocolate_pie",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "culinaire:white_chocolate_pie",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "culinaire:chouquette",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "culinaire:marshmallow",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "culinaire:salad",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "culinaire:mashed_potatoes",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:sweet_berry_cheesecake",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:sweet_berry_cheesecake_slice",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:chocolate_pie",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:chocolate_pie_slice",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:roast_chicken_block",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 125
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:stuffed_pumpkin_block",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:cake_slice",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:hot_cocoa",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:tomato_sauce",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:beef_patty",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:cooked_chicken_cuts",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:cooked_bacon",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:cooked_cod_slice",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:cooked_salmon_slice",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:cooked_mutton_chops",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:sweet_berry_cookie",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:honey_cookie",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:melon_popsicle",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:mixed_salad",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:nether_salad",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:barbecue_stick",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:hamburger",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:bacon_sandwich",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:mutton_wrap",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:dumplings",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:stuffed_potato",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:cabbage_rolls",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:cooked_rice",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:beef_stew",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:chicken_soup",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:vegetable_soup",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:fish_stew",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:fried_rice",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:pumpkin_soup",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:baked_cod_stew",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:noodle_soup",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:pasta_with_meatballs",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:pasta_with_mutton_chop",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:roasted_mutton_chops",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:vegetable_noodles",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:steak_and_potatoes",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:ratatouille",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:squid_ink_pasta",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:grilled_salmon",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:dog_food",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "farmersdelight:horse_feed",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 525
+		},
+
+		{
+			"type": "ITEM",
+			"content": "sushimod:fish_roll",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "sushimod:salmon_roll",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "sushimod:clownfish_roll",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "sushimod:calamari_roll",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "sushimod:cucumber_roll",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "sushimod:mushroom_roll",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "sushimod:sashimi",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "sushimod:salmon_sashimi",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "sushimod:calamari_sashimi",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "sushimod:pufferfish_roll",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "sushimod:rainbow_roll",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 200
+		},
+
+		{
+			"type": "ITEM",
+			"content": "tacocraft:steak_taco",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "tacocraft:carnitas_taco",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "tacocraft:fish_taco",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "tacocraft:chicken_taco",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "tacocraft:lamb_taco",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "tacocraft:cheesy_taco",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "tacocraft:crunchy_taco",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "tacocraft:double_taco",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "tacocraft:california_taco",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "tacocraft:golden_taco",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 3900
+		},
+
+		{
+			"type": "ITEM",
+			"content": "tacocraft:tacobowl",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 175
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:bitter_berry_wine",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:spicy_berry_wine",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:chorus_wine",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:chocolate_milk",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:glow_berry_juice",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:beet_juice",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:carrot_juice",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:potato_juice",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:gb_juice",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:eggplant_juice",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:pumpkin_bottle",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:grub",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:pumpkin_bowl",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:tomato_soup",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:carrot_stew",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:creamy_heart_stew",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:nether_fungus_stew",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:carrot_salad",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:mushroom_salad",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:miners_salad",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:cooked_egg_bowl",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:bacon_and_eggs",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:full_breakfast",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:full_breakfast_vegetarian",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:pancake_breakfast",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:large_pancake_breakfast",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:glow_soup",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:clownfish_salad",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:maize_porridge",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:beef_stew",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:bear_stew",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:rabbit_bigo",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:lamb_biryani",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:vege_stir_fry",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:eggplant_stir_fry",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:pork_stir_fry",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:bear_stir_fry",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:seaweed_salad",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:mandrake_soup",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:cod_chowder",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:clam_chowder",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:sardine_soup",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:worm_bowl",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:slime_soup",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:chicken_curry",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:rice_bowl",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:vege_bowl",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:fruit_bowl",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:poke_bowl",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:steamed_cod",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:salmon_roll",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:clownfish_roll",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:squid_roll",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:fire_eel_roll",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:perch_roll",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:crab_roll",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:octo_roll",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:bbox_unagi",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:bbox_clownfish",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:bbox_salmon",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:bbox_ghost",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:bbox_unagi",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:pancake",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:bitter_pie",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:sweet_pie",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:glow_pie",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:skeleton_cookie",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:rock_candy",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:baked_potato",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:morel_skewer",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:fruit_kabob",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:golden_kabob",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 500
+		}
+
+	]
+
+
+}

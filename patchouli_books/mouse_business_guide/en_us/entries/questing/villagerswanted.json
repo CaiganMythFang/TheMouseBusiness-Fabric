@@ -1,0 +1,24 @@
+{
+    "name": "Villagers Wanted",
+    "icon": "spectrum:villager_head",
+    "category": "patchouli:questing",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)If you are having a lot of trouble finding Villages, or more villagers, you can post up some Help Wanted signs!"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "helpwanted:villagerpost",
+            "title": "Villager Post",
+            "text": "$(o)Put up a Villager Post around the houses you've built for your new villagers (you HAVE built houses for them, right?!). And then wait until morning. $(br2)Each morning, you have a chance of a Villager showing up, ready to move in and join your village. "
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:emerald_block",
+            "title": "Enticing Villagers",
+            "text": "$(o)If you want to all but guarantee a Villager will show up, place an Emerald, Gold, or Diamond block next to the sign!"
+        }
+    ],
+    "sortnum": "4"
+}

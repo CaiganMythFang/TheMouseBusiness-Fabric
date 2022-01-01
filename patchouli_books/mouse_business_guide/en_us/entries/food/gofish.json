@@ -1,0 +1,12 @@
+{
+    "name": "Go Fish!",
+    "icon": "gofish:diamond_reinforced_rod",
+    "category": "patchouli:food",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Go Fish adds a wide variety of fishes to more than just vanilla water. Find fish in lava, for example! $(br2)You can also find crates full of treasures just by fishing!"
+        }
+    ],
+    "sortnum": "9"
+}

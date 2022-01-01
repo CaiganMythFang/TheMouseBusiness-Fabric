@@ -1,0 +1,18 @@
+{
+    "name": "Treasure!",
+    "icon": "lootcrates:common_crate_key",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)This world is full of treasures and caches and all manner of loot for adventurers and Researchers like you, $(playername)!$(br2)The problem is, almost all of them are LOCKED! And to open them, you'll need the right item."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "lootcrates:common_crate_key",
+            "title": "Crate Keys",
+            "text": "$(o)Locked chests can be opened with the right Crate Key. You'll mostly come across Common Crates, Barrels, and Boxes. Just Right Click the Key onto it to unlock and loot, but don't break the chest!$(br2)The magic of that dimension will relock and restock Loot Chests after a while. Maybe a few Real World hours or so? $(br2)Oh yeah, I was able to get you TWO common keys in your kit."
+        }
+    ],
+    "sortnum": "5"
+}

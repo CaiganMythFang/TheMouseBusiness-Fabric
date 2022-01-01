@@ -1,0 +1,15 @@
+{
+	"name": "guild:hunter",
+	"icon": "minecraft:bow",
+	"guild_master_level": 1,
+	"levels_pool": "guild:common_levels",
+	"task_pools": [
+		"guild:overworld_hostile_mob_drops",
+		"guild:overworld_hostile_mob_heads",
+		"guild:overworld_passive_mob_drops",
+		"guild:overworld_passive_mob_heads"
+	],
+	"reward_pools": [
+		"guild:common_rewards"
+	]
+}

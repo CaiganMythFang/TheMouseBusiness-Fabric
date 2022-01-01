@@ -1,0 +1,260 @@
+{
+	"name": "guild:wood_crafts",
+	"data": [
+		{
+			"type": "item",
+			"name": "simple_shelves:oak_shelf",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 5,
+				"max": 50
+			},
+			"unit_worth": 7,
+			"unit_time": 30,
+			"unit_exp": 3,
+			"weight": 60
+		},
+		{
+			"type": "item",
+			"name": "simple_shelves:birch_shelf",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 5,
+				"max": 50
+			},
+			"unit_worth": 7,
+			"unit_time": 30,
+			"unit_exp": 3,
+			"weight": 60
+		},
+		{
+			"type": "item",
+			"name": "simple_shelves:spruce_shelf",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 5,
+				"max": 50
+			},
+			"unit_worth": 7,
+			"unit_time": 30,
+			"unit_exp": 3,
+			"weight": 60
+		},
+		{
+			"type": "item",
+			"name": "simple_shelves:jungle_shelf",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 5,
+				"max": 50
+			},
+			"unit_worth": 7,
+			"unit_time": 30,
+			"unit_exp": 3,
+			"weight": 60
+		},
+		{
+			"type": "item",
+			"name": "simple_shelves:acacia_shelf",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 5,
+				"max": 50
+			},
+			"unit_worth": 7,
+			"unit_time": 30,
+			"unit_exp": 3,
+			"weight": 60
+		},
+		{
+			"type": "item",
+			"name": "simple_shelves:dark_oak_shelf",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 5,
+				"max": 50
+			},
+			"unit_worth": 7,
+			"unit_time": 30,
+			"unit_exp": 3,
+			"weight": 60
+		},
+		{
+			"type": "item",
+			"name": "simple_shelves:crimson_shelf",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 5,
+				"max": 50
+			},
+			"unit_worth": 7,
+			"unit_time": 30,
+			"unit_exp": 3,
+			"weight": 60
+		},
+		{
+			"type": "item",
+			"name": "simple_shelves:warped_shelf",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 5,
+				"max": 50
+			},
+			"unit_worth": 7,
+			"unit_time": 30,
+			"unit_exp": 3,
+			"weight": 60
+		},
+		{
+			"type": "item",
+			"name": "minecraft:chest",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 5,
+				"max": 50
+			},
+			"unit_worth": 10,
+			"unit_time": 30,
+			"unit_exp": 3,
+			"weight": 60
+		},
+		{
+			"type": "item",
+			"name": "minecraft:barrel",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 5,
+				"max": 50
+			},
+			"unit_worth": 10,
+			"unit_time": 30,
+			"unit_exp": 3,
+			"weight": 60
+		},
+		{
+			"type": "item",
+			"name": "exlineawnings:oak_awning",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 5,
+				"max": 50
+			},
+			"unit_worth": 6,
+			"unit_time": 30,
+			"unit_exp": 3,
+			"weight": 60
+		},
+		{
+			"type": "item",
+			"name": "exlineawnings:spruce_awning",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 5,
+				"max": 50
+			},
+			"unit_worth": 6,
+			"unit_time": 30,
+			"unit_exp": 3,
+			"weight": 60
+		},
+		{
+			"type": "item",
+			"name": "exlineawnings:birch_awning",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 5,
+				"max": 50
+			},
+			"unit_worth": 6,
+			"unit_time": 30,
+			"unit_exp": 3,
+			"weight": 60
+		},
+		{
+			"type": "item",
+			"name": "exlineawnings:dark_oak_awning",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 5,
+				"max": 50
+			},
+			"unit_worth": 6,
+			"unit_time": 30,
+			"unit_exp": 3,
+			"weight": 60
+		},
+		{
+			"type": "item",
+			"name": "exlineawnings:jungle_awning",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 5,
+				"max": 50
+			},
+			"unit_worth": 6,
+			"unit_time": 30,
+			"unit_exp": 3,
+			"weight": 60
+		},
+		{
+			"type": "item",
+			"name": "exlineawnings:crimson_awning",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 5,
+				"max": 50
+			},
+			"unit_worth": 6,
+			"unit_time": 30,
+			"unit_exp": 3,
+			"weight": 60
+		},
+		{
+			"type": "item",
+			"name": "exlineawnings:warped_awning",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 5,
+				"max": 50
+			},
+			"unit_worth": 6,
+			"unit_time": 30,
+			"unit_exp": 3,
+			"weight": 60
+		}
+	]
+}

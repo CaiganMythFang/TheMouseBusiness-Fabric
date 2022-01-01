@@ -1,0 +1,12 @@
+{
+    "name": "This Rocks!",
+    "icon": "rocks:birch_stick",
+    "category": "patchouli:househome",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)This Rocks adds a lot of little bits and pieces to the world, such as fallen branches, rocks, etc."
+        }
+    ],
+    "sortnum": "25"
+}

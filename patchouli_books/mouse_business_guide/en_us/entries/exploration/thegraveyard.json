@@ -1,0 +1,12 @@
+{
+    "name": "The Graveyard",
+    "icon": "minecraft:tinted_glass",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)The Graveyard adds spooky biomes, creatures, and other things. Graveyards, ghosts, and more await you to find them."
+        }
+    ],
+    "sortnum": "17"
+}

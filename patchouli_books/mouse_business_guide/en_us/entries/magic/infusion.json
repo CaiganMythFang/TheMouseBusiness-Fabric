@@ -1,0 +1,12 @@
+{
+    "name": "Infusion Table",
+    "icon": "infusion_table:infusion_table",
+    "category": "patchouli:magic",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)The Infusion Table enables you transfer enchantments from items into books, but the item will be destroyed in the process."
+        }
+    ],
+    "sortnum": "4"
+}

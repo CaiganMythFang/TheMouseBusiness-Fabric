@@ -1,0 +1,12 @@
+{
+    "name": "Exline's Sushi Mod",
+    "icon": "sushimod:rainbow_roll",
+    "category": "patchouli:food",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Exline's Sushi Mod gives you a wide variety of Sushi Rolls you can make and eat! It also gives you Cucumbers and Rice to farm for your sushi"
+        }
+    ],
+    "sortnum": "4"
+}

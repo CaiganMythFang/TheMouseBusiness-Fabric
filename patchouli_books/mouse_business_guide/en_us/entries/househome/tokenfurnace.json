@@ -1,0 +1,12 @@
+{
+    "name": "Tokenable Furnaces",
+    "icon": "tokenablefurnaces:omnitoken",
+    "category": "patchouli:househome",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Tokenable Furnaces lets you upgrade Furnaces, Chests, Hoppers, and More by Right Clicking a Token onto them. "
+        }
+    ],
+    "sortnum": "26"
+}

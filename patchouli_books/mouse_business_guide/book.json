@@ -1,0 +1,7 @@
+{
+    "name": "MOUSE BUSINESS GUIDE",
+    "landing_text": "Welcome to The Mouse Business, a Ferret Business modpack that focuses on exploring some of Fabric offerings.",
+    "version": 1,
+    "book_texture": "patchouli:textures/gui/book_purple.png",
+    "model": "patchouli:book_purple"
+}

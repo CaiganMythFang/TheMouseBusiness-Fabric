@@ -1,0 +1,18 @@
+{
+    "name": "Magic Fungi",
+    "icon": "magicfungi:clypeus_mushroom",
+    "category": "patchouli:magic",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Magic Fungi is a magic mod about using magical and mystical mushrooms."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "magicfungi:guide_book",
+            "title": "GETTING STARTED",
+            "text": "$(o)The Magic Mycology Book is all you need to start learning about this mod."
+        }
+    ],
+    "sortnum": "11"
+}

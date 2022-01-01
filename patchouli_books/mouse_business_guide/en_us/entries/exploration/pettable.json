@@ -1,0 +1,12 @@
+{
+    "name": "Pettable",
+    "icon": "spectrum:cat_head",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)If you have a pet, did you know you can PET it?!$(br2)Just Sneak and Right Click your pet to pet it!"
+        }
+    ],
+    "sortnum": "15"
+}

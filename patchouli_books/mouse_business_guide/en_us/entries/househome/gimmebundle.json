@@ -1,0 +1,12 @@
+{
+    "name": "Gimme Bundles",
+    "icon": "minecraft:bundle",
+    "category": "patchouli:househome",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Gimme Bundles re-enables the vanilla Bundle feature."
+        }
+    ],
+    "sortnum": "13"
+}

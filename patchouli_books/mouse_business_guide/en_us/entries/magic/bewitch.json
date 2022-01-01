@@ -1,0 +1,18 @@
+{
+    "name": "Bewitchment",
+    "icon": "winged:wing_rainbow",
+    "category": "patchouli:magic",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Demons, Vampires, Werewolves. Potions and Rituals. All these things you can dabble in with Bewitchment."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "bewitchment:book_of_shadows",
+            "title": "GETTING STARTED",
+            "text": "$(o)Craft yourself a Book of Shadows to learn about the mod."
+        }
+    ],
+    "sortnum": "3"
+}

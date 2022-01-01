@@ -1,0 +1,12 @@
+{
+    "name": "Mythic Metal Decorations",
+    "icon": "mythicmetals_decorations:platinum_chain",
+    "category": "patchouli:househome",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Mythic Metal Decorations adds chain versions of most Mythic Metal metals."
+        }
+    ],
+    "sortnum": "31"
+}

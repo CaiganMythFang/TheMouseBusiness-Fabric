@@ -1,0 +1,12 @@
+{
+    "name": "Oops! All Armor",
+    "icon": "allarmor:wheat_chestplate",
+    "category": "patchouli:equipment",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Ever want armor made of paper? Or Wheat? Or TNT? Well, Oops! All Armor gives you the opportunity to don all sorts of weird armor!"
+        }
+    ],
+    "sortnum": "4"
+}

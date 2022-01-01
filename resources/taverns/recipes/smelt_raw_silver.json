@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+      "item": "taverns:raw_silver"
+    },
+    "result": "taverns:silver_ingot",
+    "experience": 0.15,
+    "cookingtime": 200
+  }

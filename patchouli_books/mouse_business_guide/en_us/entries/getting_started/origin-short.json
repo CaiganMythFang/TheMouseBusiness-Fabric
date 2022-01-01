@@ -1,0 +1,22 @@
+{
+    "name": "Pondering Origins",
+    "icon": "origins:orb_of_origin",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)You noticed that very interesting window that popped up when you were teleporting into this dimension? Asking you for what Class and Origin you want? Those are what are called Origins.$(br2)These are kind of like class selection in an RPG, in a way. They give you bonuses, detriments, and abilities!"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(o)You can see your current Class and Origin by hitting o on your keyboard. This will also show you what each thing gives you. $(br2)Some things give you buffs when you are in a certain biome, or debuffs if you are in sunlight. Others give you a special power like being able to jump high, or even teleport places. $(br2)These kinds of abilities usually have a cooldown period after use."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "origins:orb_of_origin",
+            "title": "Ponder Thy Origin",
+            "text": "$(o)If you don't like your Job or Class, or want something different? Find yourself an Orb of Origin and ponder into it by holding it and Right Clicking.$(br2)I pulled some strings and got one included in your deployment kit. Choose wisely, they are pretty expensive!"
+        }
+    ],
+    "sortnum": "6"
+}

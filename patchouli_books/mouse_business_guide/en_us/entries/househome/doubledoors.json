@@ -1,0 +1,12 @@
+{
+    "name": "Double Doors",
+    "icon": "minecraft:oak_door",
+    "category": "patchouli:househome",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Double Doors enables many vanilla doors to work side by side properly."
+        }
+    ],
+    "sortnum": "8"
+}

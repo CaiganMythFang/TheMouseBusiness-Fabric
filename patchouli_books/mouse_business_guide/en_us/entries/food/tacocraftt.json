@@ -1,0 +1,18 @@
+{
+    "name": "TacoCraft",
+    "icon": "farmersdelight:sweet_berry_cheesecake",
+    "category": "patchouli:food",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)TacoCraft lets you craft a nice variety of tacos, as well as get the proper experience of making your own Tortillas and Barbacoa."
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://github.com/frqnny/TacoCraft/wiki/TacoCraft",
+            "text": "$(o)The best way to see how to make both Tortillas and Barbacoa is to check the wiki. Click the button below!",
+            "link_text": "TacoCraft Wiki"
+        }
+    ],
+    "sortnum": "6"
+}

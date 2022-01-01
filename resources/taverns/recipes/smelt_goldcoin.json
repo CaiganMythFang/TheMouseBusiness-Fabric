@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+      "item": "taverns:rawgoldcoin"
+    },
+    "result": "taverns:goldcoin",
+    "experience": 0.15,
+    "cookingtime": 2500
+  }

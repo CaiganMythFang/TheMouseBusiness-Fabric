@@ -1,0 +1,12 @@
+{
+    "name": "Discontinuous Beacons",
+    "icon": "minecraft:beacon",
+    "category": "patchouli:other",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Discontinuous Beacons lets you use clear, plain Glass block to stop the Beacon Beam from showing past it. This way you can have a Beacon without announcing its location.$(br2)You can also put another colored Glass block further above the clear Glass to resume the beam."
+        }
+    ],
+    "sortnum": "6"
+}

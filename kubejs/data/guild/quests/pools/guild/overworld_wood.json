@@ -1,0 +1,257 @@
+{
+	"name": "guild:overworld_wood",
+	"data": [
+		{
+			"type": "item",
+			"name": "minecraft:oak_log",
+			"number": {
+				"min": 10,
+				"max": 60
+			},
+			"unit_worth": 5,
+			"unit_time": 80,
+			"unit_exp": 3,
+			"weight": 80
+		},
+		{
+			"type": "item",
+			"name": "minecraft:birch_log",
+			"number": {
+				"min": 10,
+				"max": 60
+			},
+			"unit_worth": 5,
+			"unit_time": 100,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "minecraft:spruce_log",
+			"number": {
+				"min": 10,
+				"max": 60
+			},
+			"unit_worth": 5,
+			"unit_time": 100,
+			"unit_exp": 3,
+			"weight": 60
+		},
+		{
+			"type": "item",
+			"name": "minecraft:dark_oak_log",
+			"number": {
+				"min": 10,
+				"max": 60
+			},
+			"unit_worth": 5,
+			"unit_time": 100,
+			"unit_exp": 3,
+			"weight": 80
+		},
+		{
+			"type": "item",
+			"name": "minecraft:acacia_log",
+			"number": {
+				"min": 10,
+				"max": 60
+			},
+			"unit_worth": 5,
+			"unit_time": 100,
+			"unit_exp": 3,
+			"weight": 80
+		},
+		{
+			"type": "item",
+			"name": "minecraft:jungle_log",
+			"number": {
+				"min": 10,
+				"max": 60
+			},
+			"unit_worth": 5,
+			"unit_time": 120,
+			"unit_exp": 4,
+			"weight": 60
+		},
+		{
+			"type": "item",
+			"name": "minecraft:crimson_stem",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 10,
+				"max": 60
+			},
+			"unit_worth": 5,
+			"unit_time": 120,
+			"unit_exp": 4,
+			"weight": 60
+		},
+		{
+			"type": "item",
+			"name": "minecraft:warped_stem",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 10,
+				"max": 60
+			},
+			"unit_worth": 5,
+			"unit_time": 120,
+			"unit_exp": 4,
+			"weight": 60
+		},
+		{
+			"type": "item",
+			"name": "betternether:willow_log",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 10,
+				"max": 60
+			},
+			"unit_worth": 5,
+			"unit_time": 120,
+			"unit_exp": 4,
+			"weight": 60
+		},
+		{
+			"type": "item",
+			"name": "betternether:stalagnate_log",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 10,
+				"max": 60
+			},
+			"unit_worth": 5,
+			"unit_time": 120,
+			"unit_exp": 4,
+			"weight": 60
+		},
+		{
+			"type": "item",
+			"name": "betternether:rubeus_log",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 10,
+				"max": 60
+			},
+			"unit_worth": 5,
+			"unit_time": 120,
+			"unit_exp": 4,
+			"weight": 60
+		},
+		{
+			"type": "item",
+			"name": "betternether:wart_log",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 10,
+				"max": 60
+			},
+			"unit_worth": 5,
+			"unit_time": 120,
+			"unit_exp": 4,
+			"weight": 60
+		},
+		{
+			"type": "item",
+			"name": "betternether:mushroom_fir_log",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 10,
+				"max": 60
+			},
+			"unit_worth": 5,
+			"unit_time": 120,
+			"unit_exp": 4,
+			"weight": 60
+		},
+		{
+			"type": "item",
+			"name": "betternether:anchor_tree_log",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 10,
+				"max": 60
+			},
+			"unit_worth": 5,
+			"unit_time": 120,
+			"unit_exp": 4,
+			"weight": 60
+		},
+		{
+			"type": "item",
+			"name": "betternether:nether_sakura_log",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 10,
+				"max": 60
+			},
+			"unit_worth": 5,
+			"unit_time": 120,
+			"unit_exp": 4,
+			"weight": 60
+		},
+		{
+			"type": "item",
+			"name": "bewitchment:juniper_log",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 10,
+				"max": 60
+			},
+			"unit_worth": 5,
+			"unit_time": 120,
+			"unit_exp": 4,
+			"weight": 60
+		},
+		{
+			"type": "item",
+			"name": "bewitchment:cypress_log",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 10,
+				"max": 60
+			},
+			"unit_worth": 5,
+			"unit_time": 120,
+			"unit_exp": 4,
+			"weight": 60
+		},
+		{
+			"type": "item",
+			"name": "bewitchment:elder_log",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 10,
+				"max": 60
+			},
+			"unit_worth": 5,
+			"unit_time": 120,
+			"unit_exp": 4,
+			"weight": 60
+		}
+	]
+}

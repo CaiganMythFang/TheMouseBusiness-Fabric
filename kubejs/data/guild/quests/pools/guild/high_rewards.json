@@ -1,0 +1,45 @@
+{
+	"name": "guild:high_rewards",
+	"data": [
+		{
+			"type": "item",
+			"name": "taverns:netheritecoin",
+			"number": {
+				"min": 1,
+				"max": 1
+			},
+			"unit_worth": 100000,
+			"weight": 1
+		},
+		{
+			"type": "item",
+			"name": "lootcrates:epic_crate_key",
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 13500,
+			"weight": 10
+		},
+		{
+			"type": "item",
+			"name": "lootcrates:ghost_crate_key",
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 20000,
+			"weight": 10
+		},
+		{
+			"type": "item",
+			"name": "lootcrates:blaze_crate_key",
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 20000,
+			"weight": 10
+		}
+	]
+}

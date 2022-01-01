@@ -1,0 +1,12 @@
+{
+    "name": "Custom Fences and Walls",
+    "icon": "customfence:andesite_building",
+    "category": "patchouli:househome",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Custom Fences and Walls adds many different types of walls and fences to build with."
+        }
+    ],
+    "sortnum": "6"
+}

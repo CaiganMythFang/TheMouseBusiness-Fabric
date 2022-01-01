@@ -1,0 +1,18 @@
+{
+    "name": "St'ructure Tools",
+    "icon": "buildinggadgets:gadget_building",
+    "category": "patchouli:technology",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Also known as Building Gadgets (which is what these are listed under in REI), it includes 4 tools that aid you in building larger constructions."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "buildinggadgets:gadget_building",
+            "title": "BUILDING GADGET",
+            "text": "$(o)Tools like this Building Gadget have a lot of options. By holding G, you can get a radial selection menu."
+        }
+    ],
+    "sortnum": "2"
+}

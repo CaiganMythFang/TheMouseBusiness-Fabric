@@ -1,0 +1,16 @@
+{
+    "name": "Pack Notes",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)$(o)MESSAGE FROM THE PACK DEV CAIGAN $() $(br2)Welcome to The Mouse Business - Fabric of Creation! $(br2)This is a simple modpack compared to my usual faire, as there is no heavy quest book, intricate story, etc. $(br2)This modpack is made for a friend group, to explore various Fabric 1.18 mods"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "In lieu of long questlines to explain things, I have included this Manual to explain some of the changed mechanics, and the starting point for most mods. $(br2)Any text in $(o)italics$() is Lore/Story text, and is there to give some coherence and hints to things."
+        }
+    ],
+    "sortnum": "1"
+}

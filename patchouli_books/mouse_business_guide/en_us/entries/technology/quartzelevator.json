@@ -1,0 +1,12 @@
+{
+    "name": "Quartz Elevator",
+    "icon": "quartzelv:quartz_elevator",
+    "category": "patchouli:technology",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Quartz Elevators can be used to transport yourself up and down, inside a base or house or other construction. Just place two or more Quartz Elevators above/below each other on each floor you want to transport to.$(br2)Then you can use Jump/Crouch to go up and down the floors."
+        }
+    ],
+    "sortnum": "1"
+}

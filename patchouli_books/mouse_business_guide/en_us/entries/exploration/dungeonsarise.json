@@ -1,0 +1,12 @@
+{
+    "name": "When Dungeons Arise",
+    "icon": "minecraft:chest",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Sprawling underground compass, illager camps, large flying airships, towering building complexes. When Dungeons Arise adds a wide variety of dangerous dungeons to explore, full of monsters and loot alike.$(br2)Be sure to bring plenty of Loot Crate keys."
+        }
+    ],
+    "sortnum": "19"
+}

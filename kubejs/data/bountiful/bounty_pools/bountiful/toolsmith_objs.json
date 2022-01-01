@@ -1,0 +1,18 @@
+
+{
+	"content": [
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:flint",
+            "amount": {
+                "min": 4,
+                "max": 48
+            },
+            "unitWorth": 32
+        }
+
+	]
+
+
+}

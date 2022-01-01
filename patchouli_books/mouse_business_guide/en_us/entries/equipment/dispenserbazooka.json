@@ -1,0 +1,12 @@
+{
+    "name": "Dispenser Bazooka",
+    "icon": "dbm:dispenser_bazooka",
+    "category": "patchouli:equipment",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)The Dispenser Bazooka can be used to launch almost any item much farther than you can throw. $(br2)The Bazooka will shoot any item on the hotbar to the right of the Bazooka. Certain items, like Fire Charges, have a special effect instead."
+        }
+    ],
+    "sortnum": "2"
+}

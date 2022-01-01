@@ -1,0 +1,24 @@
+{
+    "name": "Winged",
+    "icon": "winged:wing_rainbow",
+    "category": "patchouli:magic",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Winged enables you to... well, graft magical wings onto your body. You can obtain Elytra like flight, or even more powerful flight, and keep it if you die. $(br2)It all starts by finding a Core of Zephyr in an End City, or repairing damaged ones found in dungeons."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "winged:wingbench",
+            "title": "WING CRAFTING",
+            "text": "$(o)Once you have a Core of Zephyr, you'll need a Zephyr Workbench to craft one of dozens of wings to wear."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "winged:dipped_ceremonial_knife",
+            "title": "WING REMOVAL",
+            "text": "$(o)If you want to remove your wings, however, you'll need a ceremonial knife dipped in dragon's breath. This is... quite painful however."
+        }
+    ],
+    "sortnum": "2"
+}

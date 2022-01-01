@@ -1,0 +1,12 @@
+{
+    "name": "Geodes",
+    "icon": "geodes:emerald_cluster",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Many worlds have Amethyst Geodes, but your dimension seems to have expanded the variety of Geodes you can find underground.$(br2)You can find Emerald Geodes as well as Ameythyst Geodes. Quartz Geodes can also be found in the Nether."
+        }
+    ],
+    "sortnum": "7"
+}

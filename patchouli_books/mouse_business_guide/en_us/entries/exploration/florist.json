@@ -1,0 +1,12 @@
+{
+    "name": "Florist",
+    "icon": "floristmod:cactus_purple",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)In some villages, you can now find a Florist villager! They sell unique flowers you can decorate with.$(br2)If you can't find one, you can try getting a villager to become a Florist by placing out a Florist's Table"
+        }
+    ],
+    "sortnum": "8"
+}

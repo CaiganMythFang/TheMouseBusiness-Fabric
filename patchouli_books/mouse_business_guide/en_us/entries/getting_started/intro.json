@@ -1,0 +1,24 @@
+{
+    "name": "Introductions",
+    "icon": "culinaire:cheese_wheel",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Ah hello? Hello, is this dang thing on... oh it is, neat! Hello there! Welcome to Research Venture Codename : Fabric!$(br2)Oh, right, formalities first... I had a notecard... Ahem... $(br2)The Ferret Business has agreed to send you (and assistants) to another dimension to conduct some research and testing. "
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(o)This is a new dimension to TFB, but preliminary testing has revealed it to be survivable, habitable, and full of new research! This is a promising blah blah blah, you get the idea!!$(br2)I'm not one for formality, $(playername), so lets just get right to it, yeah? $(br2)My name is ByteSize, and I'm the Vice President of The Ferret Business."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(o)I've decided to send a bunch of Research Teams to this new dimension to examine new areas of researched based on the magical core weave called FABRIC. $(br2)See, lots of dimensions have a magical core called FORGE, which I'm going to send another set of teams to. Most of our research is in FORGE based dimensions, but new things are being invented and discovered all the time!"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Unlike previous Research outings the company Presidents conducted, I'm gonna handle this a bit differently. You have free reign to conduct research as you see fit.$(br2)Mostly that just means you won't have a guiding hand by me or another Researcher back here. I will, however, give you information on where to start each Research project.$(br2)Happy Research, $(playername)!"
+        }
+    ],
+    "sortnum": "0"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Repurposed Structures",
+    "icon": "minecraft:tinted_glass",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Repurposed Structures adds dozens of new structures and variations of vanilla structures to find while exploring. This includes new designs of mansions, dungeons and more."
+        }
+    ],
+    "sortnum": "16"
+}

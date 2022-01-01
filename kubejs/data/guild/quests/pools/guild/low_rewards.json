@@ -1,0 +1,35 @@
+{
+	"name": "guild:low_rewards",
+	"data": [
+		{
+			"type": "item",
+			"name": "taverns:coppercoin",
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 100,
+			"weight": 100
+		},
+		{
+			"type": "item",
+			"name": "taverns:silvercoin",
+			"number": {
+				"min": 1,
+				"max": 8
+			},
+			"unit_worth": 1000,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "lootcrates:common_crate_key",
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 500,
+			"weight": 25
+		}
+	]
+}

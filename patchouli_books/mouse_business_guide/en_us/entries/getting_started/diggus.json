@@ -1,0 +1,12 @@
+{
+    "name": "Diggus Maximus",
+    "icon": "minecraft:iron_pickaxe",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)If you want to chop down a full tree, or mine a full vein of ore, you can use Diggus Maximus. By holding the ~ (Grave) key as you break a block, it will break all connecting blocks that match it.$(br2)Keep in mind this will make you hungrier much faster."
+        }
+    ],
+    "sortnum": "9"
+}

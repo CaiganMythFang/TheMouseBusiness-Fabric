@@ -1,0 +1,1020 @@
+
+{
+	"content": [
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:wheat",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:porkchop",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:apple",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:egg",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:beef",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:chicken",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:carrot",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:potato",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:rabbit",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:mutton",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:chorus_fruit",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:beetroot",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "adventurez:mammoth_meat",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "adventurez:iguana_meat",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "adventurez:ender_whale_meat",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "adventurez:rhino_meat",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 50
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:artichoke",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:asparagus",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:barley",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:bellpepper",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:blackbean",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:blackberry",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:blueberry",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:broccoli",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:cabbage",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:cantaloupe",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:cauliflower",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:celery",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:coffee_beans",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:corn",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:cranberry",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:cucumber",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:currant",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:eggplant",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:elderberry",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:garlic",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:grape",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:greenbean",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:greenonion",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:honeydew",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:hops",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:kiwi",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:leek",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:lettuce",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:oat",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:olive",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:onion",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:peanut",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:pineapple",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:radish",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:raspberry",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:rhubarb",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:rice",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:rutabaga",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:saguaro",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:soybean",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:spinach",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:squash",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:strawberry",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:sweetpotato",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:tomatillo",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:tomato",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:turnip",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:yam",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:zucchini",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:orange",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:banana",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:persimmon",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:plum",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:cherry",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:lemon",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:grapefruit",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:kumquat",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:coconut",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:nutmeg",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:fig",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:nectarine",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:mango",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:dragonfruit",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:starfruit",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:avocado",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:apricot",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:pear",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:lime",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:date",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:almond",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:cashew",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:pecan",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:walnut",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:mustard",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:vanilla",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:paprika",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:chile_pepper",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:turmeric",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:ginger",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "croptopia:basil",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "culinaire:lettuce",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:tomato_bush",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:maize_crop",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:mandrake",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"content": "valley:fire_pepper",
+			"amount": {
+				"min": 10,
+				"max": 60
+			},
+			"unitWorth": 10
+		}
+
+
+
+	]
+
+
+}

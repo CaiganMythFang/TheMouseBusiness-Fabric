@@ -1,0 +1,12 @@
+{
+    "name": "Additional Bars",
+    "icon": "additionalbars:crossed_oak_bars",
+    "category": "patchouli:househome",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Additional Bars adds a variety of vertical and horizontal bars, good for decorating windows and openings, floor grates, and more."
+        }
+    ],
+    "sortnum": "1"
+}

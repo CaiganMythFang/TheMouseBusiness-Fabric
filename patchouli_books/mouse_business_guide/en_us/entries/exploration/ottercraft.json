@@ -1,0 +1,18 @@
+{
+    "name": "Ottercraft",
+    "icon": "valley:clam",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)River Otters can be found in Swamp and River biomes."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:cod",
+            "title": "TAMING",
+            "text": "$(o)Otters can be tamed by using Raw Cod or Raw Salmon. They'll get a little life vest and follow you around, and even ride in boats with you!"
+        }
+    ],
+    "sortnum": "14"
+}

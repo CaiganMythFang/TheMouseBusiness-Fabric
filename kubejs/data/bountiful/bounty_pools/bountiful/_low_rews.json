@@ -1,0 +1,42 @@
+{
+	"content": [
+
+		{
+			"type": "ITEM",
+			"content": "taverns:coppercoin",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"unitWorth": 100,
+			"weightMult": 1.25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "taverns:silvercoin",
+			"amount": {
+				"min": 1,
+				"max": 8
+			},
+			"unitWorth": 1000,
+			"weightMult": 0.9
+		},
+
+		{
+			"type": "ITEM",
+			"rarity": "RARE",
+			"content": "lootcrates:common_crate_key",
+			"amount": {
+				"min": 1,
+				"max": 5
+			},
+			"unitWorth": 500,
+			"weightMult": 0.4
+		}
+
+
+	]
+
+
+}

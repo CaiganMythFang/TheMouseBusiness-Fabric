@@ -1,0 +1,12 @@
+{
+    "name": "Simple Backpack",
+    "icon": "simple_backpack:backpack",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)While out and about, its a good idea to have extra storage space. Simple Backpacks adds a few different bags you can utilize in your journey."
+        }
+    ],
+    "sortnum": "6"
+}

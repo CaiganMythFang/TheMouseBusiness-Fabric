@@ -1,0 +1,27 @@
+{
+    "name": "Alloy Forgery",
+    "icon": "alloy_forgery:stone_bricks_forge_controller",
+    "category": "patchouli:technology",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)The Alloy Forge is a multiblock structure that enables you to both increase your ore yield, as well as alloy metals together for certain mods.$(br2)You will need a Forge Controller, and the next page will show you how to construct the Forge. The Forge needs to be made of matching material to the Controller."
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name": "Alloy Forge",
+            "multiblock": {
+                "pattern": [
+                    [" a ", "a a", " a "],
+                    [" a ", "a0a", " b "],
+                    ["aaa", "aaa", "aaa"]
+                ],
+                "mapping": {
+                    "a": "minecraft:stone_bricks",
+                    "b": "alloy_forgery:stone_bricks_forge_controller[facing=east]"
+                    }
+            }
+        }
+    ],
+    "sortnum": "0"
+}

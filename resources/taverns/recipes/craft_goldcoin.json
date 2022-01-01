@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "CC"
+    ],
+    "key": {
+      "C": {
+        "item": "taverns:halfgoldcoin"
+      }
+    },
+    "result": {
+      "item": "taverns:goldcoin",
+      "count": 1
+    }
+  }

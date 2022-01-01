@@ -1,0 +1,12 @@
+{
+    "name": "Simple Shelves",
+    "icon": "simple_shelves:acacia_shelf",
+    "category": "patchouli:househome",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Simple Shelves adds a variety of shelves that can hold and display items."
+        }
+    ],
+    "sortnum": "23"
+}

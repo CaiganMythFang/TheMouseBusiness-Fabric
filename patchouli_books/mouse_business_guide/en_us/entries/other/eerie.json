@@ -1,0 +1,16 @@
+{
+    "name": "Eerie Hauntings",
+    "icon": "eeriehauntings:emf_counter",
+    "category": "patchouli:other",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)In this world, you can rarely get haunted by spirits, moreso if you kill a lot of creatures, good or bad. They cause strange sounds around you, and can even debuff you if they are angry. $(br2)If you are haunted, you will need an EMF Counter and an Old Radio. Walk around your house for a bit while holding each one in your main hand."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(o)You can hear an example of the sounds these two devices will pick up if you Right Click with them. Otherwise, when they hear the sound, they'll give you a message.$(br2)If only your EMF goes off, you need to use a Redstone Dream Catcher. If only the Old Radio, use Purified Water. If both? Burn an Incense Stick.$(br2)Successfully banishing ghosts will give you rewards. "
+        }
+    ],
+    "sortnum": "2"
+}

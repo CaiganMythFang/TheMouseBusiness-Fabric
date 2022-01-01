@@ -1,0 +1,12 @@
+{
+    "name": "Villager Hats",
+    "icon": "villager-hats:librarian_hat",
+    "category": "patchouli:househome",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Villager Hats lets you craft and wear the various headware that Villagers get."
+        }
+    ],
+    "sortnum": "30"
+}

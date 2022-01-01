@@ -1,0 +1,12 @@
+{
+    "name": "Exline's Bark Carpets",
+    "icon": "barkcarpets:oak_bark_carpet",
+    "category": "patchouli:househome",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Exline's Bark Carpets adds a variety of bark themed carpets."
+        }
+    ],
+    "sortnum": "11"
+}

@@ -1,0 +1,35 @@
+{
+	"name": "guild:archery_rewards",
+	"data": [
+		{
+			"type": "item",
+			"name": "minecraft:arrow",
+			"number": {
+				"min": 4,
+				"max": 64
+			},
+			"unit_worth": 50,
+			"weight": 20
+		},
+		{
+			"type": "item",
+			"name": "minecraft:bow",
+			"number": {
+				"min": 1,
+				"max": 1
+			},
+			"unit_worth": 500,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "minecraft:crossbow",
+			"number": {
+				"min": 1,
+				"max": 1
+			},
+			"unit_worth": 700,
+			"weight": 5
+		}
+	]
+}

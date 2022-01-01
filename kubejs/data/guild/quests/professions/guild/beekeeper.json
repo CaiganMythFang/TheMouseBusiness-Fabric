@@ -1,0 +1,14 @@
+{
+	"name": "guild:beekeeper",
+	"icon": "minecraft:iron_sword",
+	"guild_master_level": 1,
+	"levels_pool": "guild:common_levels",
+	"task_pools": [
+		"guild:tools"
+	],
+	"reward_pools": [
+		"guild:low_rewards",
+		"guild:medium_rewards",
+		"guild:high_rewards"
+	]
+}

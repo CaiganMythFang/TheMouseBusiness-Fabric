@@ -1,0 +1,20 @@
+{
+    "name": "Roughly Enough Items",
+    "icon": "minecraft:paper",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Since there are a lot of items and recipes to keep track of, well more than a single person can remember... I suggest making use of Roughly Enough Items, or REI for short. $(br2)When you are looking in your inventory, you'll see the large panel on the right full of items. That is REI. You can hover your cursor over an item and hit R to see recipes for said item, or U to see what recipes use said item."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(o)At the bottom is a search box. You can search through item names easily, but there are special search functions you can use as well! $(br2)Starting a search with @, you can search for all items under a certain mod. If you type @taco, for example, you will almost every item in TacoCraft. "
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(o)There are other symbols you can use as well. Another example is starting with $. This will search for all items with a specific TAG, or item grouping. A good example is $log will find all items connected to the log Tag."
+        }
+    ],
+    "sortnum": "8"
+}

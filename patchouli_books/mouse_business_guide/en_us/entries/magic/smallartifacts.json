@@ -1,0 +1,12 @@
+{
+    "name": "Small Artifacts",
+    "icon": "besmirchment:final_broom",
+    "category": "patchouli:magic",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Small Artifacts adds a small variety of Trinkets that you can craft and wear. They do various magical things."
+        }
+    ],
+    "sortnum": "9"
+}

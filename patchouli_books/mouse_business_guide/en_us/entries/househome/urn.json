@@ -1,0 +1,12 @@
+{
+    "name": "Urns",
+    "icon": "urns:clay_urn",
+    "category": "patchouli:househome",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Urns are fragile containers that can hold items. They can be smashed by being attacked, or if they drop from high enough.."
+        }
+    ],
+    "sortnum": "28"
+}

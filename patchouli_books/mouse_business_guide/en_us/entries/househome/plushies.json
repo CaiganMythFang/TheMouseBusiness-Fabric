@@ -1,0 +1,12 @@
+{
+    "name": "Plushie Mod",
+    "icon": "plushies:red_fox_plushie",
+    "category": "patchouli:househome",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Plushies adds a variety of soft plushes to decorate with."
+        }
+    ],
+    "sortnum": "22"
+}

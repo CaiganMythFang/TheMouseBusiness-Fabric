@@ -1,0 +1,12 @@
+{
+    "name": "Inmis",
+    "icon": "inmis:plated_backpack",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Inmis adds various backpacks that can be equipped to the Back Trinket slot."
+        }
+    ],
+    "sortnum": "9"
+}

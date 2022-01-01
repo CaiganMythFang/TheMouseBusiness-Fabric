@@ -1,0 +1,114 @@
+
+{
+	"content": [
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:stick",
+            "amount": {
+                "min": 8,
+                "max": 64
+            },
+            "unitWorth": 30
+        },
+
+        {
+            "type": "ITEM_TAG",
+            "content": "minecraft:planks",
+            "translation": "bountiful.item_tag.any_planks",
+            "amount": {
+                "min": 6,
+                "max": 64
+            },
+            "unitWorth": 60
+        },
+        {
+            "type": "ITEM_TAG",
+            "content": "minecraft:logs",
+            "translation": "bountiful.item_tag.any_log",
+            "amount": {
+                "min": 2,
+                "max": 10
+            },
+            "unitWorth": 240
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:gravel",
+            "amount": {
+                "min": 16,
+                "max": 32
+            },
+            "unitWorth": 30
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:flint",
+            "amount": {
+                "min": 16,
+                "max": 32
+            },
+            "unitWorth": 35
+        },
+
+        {
+            "type": "ITEM",
+            "rarity": "UNCOMMON",
+            "content": "minecraft:target",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 750
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:fletching_table",
+            "amount": {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 400
+        },
+
+        {
+            "type": "ITEM",
+			"rarity": "UNCOMMON",
+            "content": "minecraft:string",
+            "amount": {
+                "min": 4,
+                "max": 28
+            },
+            "unitWorth": 70
+        },
+
+        {
+            "type": "ITEM",
+			"rarity": "RARE",
+            "content": "minecraft:feather",
+            "amount": {
+                "min": 6,
+                "max": 36
+            },
+            "unitWorth": 40
+        },
+
+        {
+            "type": "ITEM",
+			"rarity": "EPIC",
+            "content": "minecraft:tripwire_hook",
+            "amount": {
+                "min": 4,
+                "max": 12
+            },
+            "unitWorth": 550
+        }
+
+
+	]
+
+
+}

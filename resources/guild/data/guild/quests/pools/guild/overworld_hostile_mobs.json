@@ -1,0 +1,128 @@
+{
+	"name": "guild:overworld_hostile_mobs",
+	"data": [
+		{
+			"type": "slay",
+			"name": "minecraft:creeper",
+			"number": {
+				"min": 5,
+				"max": 10
+			},
+			"unit_worth": 80,
+			"unit_time": 180,
+			"unit_exp": 9,
+			"weight": 70
+		},
+		{
+			"type": "slay",
+			"name": "minecraft:skeleton",
+			"number": {
+				"min": 6,
+				"max": 12
+			},
+			"unit_worth": 70,
+			"unit_time": 160,
+			"unit_exp": 8,
+			"weight": 80
+		},
+		{
+			"type": "slay",
+			"name": "minecraft:zombie",
+			"number": {
+				"min": 10,
+				"max": 24
+			},
+			"unit_worth": 70,
+			"unit_time": 100,
+			"unit_exp": 7,
+			"weight": 100
+		},
+		{
+			"type": "slay",
+			"name": "minecraft:spider",
+			"number": {
+				"min": 6,
+				"max": 12
+			},
+			"unit_worth": 70,
+			"unit_time": 180,
+			"unit_exp": 7,
+			"weight": 90
+		},
+		{
+			"type": "slay",
+			"name": "minecraft:enderman",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 3,
+				"max": 7
+			},
+			"unit_worth": 120,
+			"unit_time": 360,
+			"unit_exp": 12,
+			"weight": 60
+		},
+		{
+			"type": "slay",
+			"name": "minecraft:witch",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 2,
+				"max": 4
+			},
+			"unit_worth": 100,
+			"unit_time": 600,
+			"unit_exp": 10,
+			"weight": 40
+		},
+		{
+			"type": "slay",
+			"name": "minecraft:drowned",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 8,
+				"max": 16
+			},
+			"unit_worth": 100,
+			"unit_time": 200,
+			"unit_exp": 8,
+			"weight": 20
+		},
+		{
+			"type": "slay",
+			"name": "minecraft:husk",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 8,
+				"max": 16
+			},
+			"unit_worth": 100,
+			"unit_time": 200,
+			"unit_exp": 8,
+			"weight": 20
+		},
+		{
+			"type": "slay",
+			"name": "minecraft:stray",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 8,
+				"max": 12
+			},
+			"unit_worth": 100,
+			"unit_time": 240,
+			"unit_exp": 9,
+			"weight": 20
+		}
+	]
+}

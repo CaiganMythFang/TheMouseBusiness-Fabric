@@ -1,0 +1,48 @@
+{
+    "name": "Navigation and You",
+    "icon": "map_atlases:atlas",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Due to some security issues, you were not deployed with a standard Q.U.E.S.T. Tablet, while the system is upgraded. Which is unfortunate, as it had built in mapping software (among other useful tools...). $(br2)You'll have to use a slightly more archaic method to map and waypoint your Research area."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Be careful at night, $(playername)! The nights are much more dangerous in this world. Depending on the phase of the moon, it could be pitch black outside, even the skyline gone from conventional eyes. $(br2)A Full Moon will be around what you are used to in other dimensions. As the moon wanes or waxes, it will be darker.$(br2)I suggest investing in some Night Vision potions as soon as you can."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "map_atlases:atlas",
+            "title": "THE ATLAS",
+            "text": "$(o)We've included in your deployment kit a couple Empty Maps and the resources to make yourself an Atlas. Just hold the Empty Map and Right Click to make a map of your current area, then use that map to make an Atlas$(br2)The Atlas provides both a map of the area, AND a minimap on your view as long as it is on your hotbar. You can press M to open up the full Atlas."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(o)You can craft the Atlas together with more empty maps, or other maps at the same scale to combine them and increase the size of your Atlas.$(br2)The Atlas can store Empty Maps, and if you travel to unmapped areas, it will automatically use one and expand your map."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:purple_banner",
+            "title": "ADDING WAYPOINTS",
+            "text": "$(o)If you want to add Waypoints to your map, you will need a Banner (Five are included in your deployment kit!)$(br2)Just place the Banner down, and Right Click your Atlas onto it. This will add a marker that takes the color and name of the Banner."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Note that if the banner is removed, when you come back to the area your Atlas will update and remove the marker as well!"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:compass",
+            "title": "COORDINATES",
+            "text": "$(o)If you are looking for specific coordinates, you'll need a Compass in your inventory. It will add your current coordinates to your display.$(br2)I suggest keeping a few extra in your Research base just in case."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "waystones:waystone",
+            "title": "TELEPORT POINTS",
+            "text": "$(o)I was also able to inclue Waystones in your deployment kit, $(playername).$(br2)You can place down a Waystone and Right Click it to memorize it. Then visit any other Waystone and use it to teleport to your memorized ones!. $(br2)Keep an eye out for Villages, many have a Waystone of their own. As well, the tall Towers you can find scattered around have them too!"
+        }
+    ],
+    "sortnum": "3"
+}

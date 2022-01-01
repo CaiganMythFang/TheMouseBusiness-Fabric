@@ -1,0 +1,50 @@
+{
+	"name": "guild:sea_flora",
+	"data": [
+		{
+			"type": "item",
+			"name": "minecraft:kelp",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 16,
+				"max": 64
+			},
+			"unit_worth": 10,
+			"unit_time": 20,
+			"unit_exp": 1,
+			"weight": 60
+		},
+		{
+			"type": "item",
+			"name": "minecraft:dried_kelp",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 20,
+				"max": 40
+			},
+			"unit_worth": 15,
+			"unit_time": 50,
+			"unit_exp": 1,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "minecraft:sea_pickle",
+			"level": {
+				"min": 10
+			},
+			"number": {
+				"min": 6,
+				"max": 16
+			},
+			"unit_worth": 40,
+			"unit_time": 100,
+			"unit_exp": 4,
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,830 @@
+{
+	"name": "guild:overworld_passive_mob_heads",
+	"data": [
+		{
+			"type": "item",
+			"name": "minecraft:player_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:axolotl_blue_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:axolotl_brown_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:axolotl_cyan_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:axolotl_gold_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:axolotl_leucistic_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:bat_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:bee_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:cat_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:chicken_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:clownfish_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:cow_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:donkey_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:fox_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:fox_arctic_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:glow_squid_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:goat_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:horse_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:llama_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:mooshroom_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:mule_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:ocelot_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:panda_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:parrot_blue_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:parrot_cyan_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:parrot_gray_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:parrot_green_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:parrot_red_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:pig_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:polar_bear_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:pufferfish_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:rabbit_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:salmon_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:sheep_black_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:sheep_blue_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:sheep_brown_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:sheep_cyan_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:sheep_gray_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:sheep_green_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:sheep_light_blue_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:sheep_light_gray_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:sheep_lime_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:sheep_magenta_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:sheep_orange_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:sheep_pink_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:sheep_purple_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:sheep_red_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:sheep_white_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:sheep_yellow_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:snow_golem_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:squid_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:trader_llama_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:turtle_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "spectrum:villager_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		},
+		{
+			"type": "item",
+			"name": "earthtojavamobs:rainbow_wool",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 56
+			},
+			"unit_worth": 50,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 5
+		}
+	]
+}

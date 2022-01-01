@@ -1,0 +1,12 @@
+{
+    "name": "More Music Discs++",
+    "icon": "morediscs:music_disc_squiggles",
+    "category": "patchouli:househome",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)More Music Discs++ adds a wider variety of music discs to find and listen to."
+        }
+    ],
+    "sortnum": "19"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Enchanted Vertical Slabs",
+    "icon": "enchanted-vertical-slabs:vertical_spruce_slab",
+    "category": "patchouli:househome",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Enchanted Vertical Slabs adds the impossible : vertical versions of slabs. They are crafted like normal slabs, except vertically."
+        }
+    ],
+    "sortnum": "9"
+}

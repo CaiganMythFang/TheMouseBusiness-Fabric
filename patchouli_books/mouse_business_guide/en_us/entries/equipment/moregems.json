@@ -1,0 +1,12 @@
+{
+    "name": "More Gems",
+    "icon": "more_gems:moissanite",
+    "category": "patchouli:equipment",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)More Gems adds a variety of new gemstones to find in the Overworld and Nether. You can use these gems to craft various weapons, tools, and armors."
+        }
+    ],
+    "sortnum": "0"
+}

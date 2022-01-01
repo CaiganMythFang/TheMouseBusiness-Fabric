@@ -1,0 +1,24 @@
+{
+    "name": "Level Up!",
+    "icon": "minecraft:experience_bottle",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Remember those security issues I mentioned in the navigation section? Well, part of what the Q.U.E.S.T. Tablet did was acclimate you to a new dimension. Without it, you'll have to take the slow and steady route instead.$(br2)What does that mean for you, $(playername)?$(br2)"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Well, that means you'll have lots of items, equipment, and blocks 'locked' until you 'Level Up'. Kind of like an RPG, yeah.$(br2)You level up by acclimating yourself to the new dimension by doing things that would get you normal XP. You know, killing creatures, cooking food, smelting ores.$(br2)You can see your current level and stats by pressing the k key."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(o)In this window, you can see your stats, as well as what skill levels you have and your overall level. You can also see how many skill points you have to spend, which you can do by clicking the + next to the skill you want to increase.$(br2)You can see what a skill will unlock at what level by clicking its Icon. Then the three bars in the upper right will swap to other lists of things that unlock."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(o)My best suggestion? Get a bunch of Logs, get a bit of Stone (starting out, you can't use Stone Tools). Make yourself a Furnace, and start cooking meat, burning Logs into Charcoal, and Cobblestone into Stone. $(br2)Before you know it, you'll have a few levels under your belt."
+        }
+    ],
+    "sortnum": "7"
+}

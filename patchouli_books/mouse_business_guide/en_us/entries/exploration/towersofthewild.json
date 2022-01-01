@@ -1,0 +1,12 @@
+{
+    "name": "Towers of the Wild",
+    "icon": "waystones:waystone",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Tall, towering spires can be found dotting the land. They are somewhat difficult to climb, but at the top you can not only find treasure but also a Waystone, making them excellent points of interest and landmarks."
+        }
+    ],
+    "sortnum": "18"
+}

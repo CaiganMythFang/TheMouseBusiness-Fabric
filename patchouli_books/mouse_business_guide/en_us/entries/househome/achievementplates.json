@@ -1,0 +1,12 @@
+{
+    "name": "Achievement Plates",
+    "icon": "achievement_plates:achievement_plate",
+    "category": "patchouli:househome",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Ever want a plaque to put up on the wall when you finish a difficult achievement? With Achievement Plates, every achievement will give you exactly that!"
+        }
+    ],
+    "sortnum": "0"
+}

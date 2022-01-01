@@ -1,0 +1,12 @@
+{
+    "name": "Trinkets",
+    "icon": "xp_storage_trinkets:xp_saver",
+    "category": "patchouli:other",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Trinkets are extra equippable items from various mods. In your inventory, you can see a few extra equipment slots that can hold various Trinkets such as rings, necklaces, and more."
+        }
+    ],
+    "sortnum": "4"
+}

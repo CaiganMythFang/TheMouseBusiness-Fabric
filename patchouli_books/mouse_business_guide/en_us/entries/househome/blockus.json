@@ -1,0 +1,12 @@
+{
+    "name": "Blockus",
+    "icon": "blockus:magenta_futurneo_block",
+    "category": "patchouli:househome",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Blockus adds a wide variety of blocks perfect for constructing all sorts of homes, bases, and more."
+        }
+    ],
+    "sortnum": "5"
+}

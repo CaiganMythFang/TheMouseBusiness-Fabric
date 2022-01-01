@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": 
+    [
+        {
+            "item": "taverns:rawsilvercoin"
+        },
+        {
+            "item": "taverns:rawsilvercoin"
+        },
+        {
+            "item": "taverns:rawsilvercoin"
+        },
+        {
+            "item": "taverns:rawsilvercoin"
+        },
+        {
+            "item": "taverns:rawsilvercoin"
+        }
+    ],
+    "result": {
+      "item": "taverns:rawhalfgoldcoin",
+      "count": 1
+    }
+  }

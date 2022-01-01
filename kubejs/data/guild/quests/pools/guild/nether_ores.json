@@ -1,0 +1,349 @@
+{
+	"name": "guild:nether_ores",
+	"data": [
+		{
+			"type": "item",
+			"name": "minecraft:quartz",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 64
+			},
+			"unit_worth": 25,
+			"unit_time": 40,
+			"unit_exp": 5,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "minecraft:quartz_block",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 32
+			},
+			"unit_worth": 100,
+			"unit_time": 100,
+			"unit_exp": 5,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "minecraft:glowstone_dust",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 64
+			},
+			"unit_worth": 125,
+			"unit_time": 40,
+			"unit_exp": 5,
+			"weight": 80
+		},
+		{
+			"type": "item",
+			"name": "minecraft:glowstone",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 32
+			},
+			"unit_worth": 500,
+			"unit_time": 80,
+			"unit_exp": 5,
+			"weight": 80
+		},
+		{
+			"type": "item",
+			"name": "minecraft:magma_block",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 32
+			},
+			"unit_worth": 300,
+			"unit_time": 70,
+			"unit_exp": 5,
+			"weight": 80
+		},
+		{
+			"type": "item",
+			"name": "more_gems:moissanite",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 125,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "more_gems:moissanite_block",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1125,
+			"unit_time": 130,
+			"unit_exp": 6,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:raw_stormyx",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 8
+			},
+			"unit_worth": 250,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:raw_stormyx_block",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 2250,
+			"unit_time": 130,
+			"unit_exp": 6,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:stormyx_ingot",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 8
+			},
+			"unit_worth": 250,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:stormyx_block",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 2250,
+			"unit_time": 130,
+			"unit_exp": 6,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:raw_midas_gold",
+			"level": {
+				"min": 6
+			},
+			"number": {
+				"min": 1,
+				"max": 8
+			},
+			"unit_worth": 600,
+			"unit_time": 60,
+			"unit_exp": 8,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:raw_midas_gold_block",
+			"level": {
+				"min": 6
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 5400,
+			"unit_time": 130,
+			"unit_exp": 8,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:midas_gold_ingot",
+			"level": {
+				"min": 6
+			},
+			"number": {
+				"min": 1,
+				"max": 8
+			},
+			"unit_worth": 600,
+			"unit_time": 60,
+			"unit_exp": 8,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:midas_gold_block",
+			"level": {
+				"min": 6
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 5400,
+			"unit_time": 130,
+			"unit_exp": 8,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:raw_palladium",
+			"level": {
+				"min": 7
+			},
+			"number": {
+				"min": 1,
+				"max": 4
+			},
+			"unit_worth": 2150,
+			"unit_time": 60,
+			"unit_exp": 10,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:raw_palladium_block",
+			"level": {
+				"min": 7
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 19350,
+			"unit_time": 130,
+			"unit_exp": 10,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:palladium_ingot",
+			"level": {
+				"min": 7
+			},
+			"number": {
+				"min": 1,
+				"max": 4
+			},
+			"unit_worth": 2150,
+			"unit_time": 60,
+			"unit_exp": 10,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:palladium_block",
+			"level": {
+				"min": 7
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 19350,
+			"unit_time": 130,
+			"unit_exp": 10,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "minecraft:ancient_debris",
+			"level": {
+				"min": 8
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 1600,
+			"unit_time": 60,
+			"unit_exp": 12,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "minecraft:netherite_scrap",
+			"level": {
+				"min": 8
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 1600,
+			"unit_time": 130,
+			"unit_exp": 12,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "minecraft:netherite_ingot",
+			"level": {
+				"min": 8
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 8300,
+			"unit_time": 130,
+			"unit_exp": 12,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "minecraft:netherite_block",
+			"level": {
+				"min": 8
+			},
+			"number": {
+				"min": 1
+			},
+			"unit_worth": 74700,
+			"unit_time": 130,
+			"unit_exp": 12,
+			"weight": 40
+		}
+	]
+}

@@ -1,0 +1,359 @@
+
+{
+	"content": [
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:oak_log",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 5
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:birch_log",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 5
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:spruce_log",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 5
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:dark_oak_log",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 5
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:acacia_log",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 5
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:jungle_log",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 5
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:crimson_stem",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 5
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:warped_stem",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 5
+        },
+
+        {
+            "type": "ITEM",
+            "content": "betternether:willow_log",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 5
+        },
+
+        {
+            "type": "ITEM",
+            "content": "betternether:stalagnate_log",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 5
+        },
+
+        {
+            "type": "ITEM",
+            "content": "betternether:rubeus_log",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 5
+        },
+
+        {
+            "type": "ITEM",
+            "content": "betternether:wart_log",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 5
+        },
+
+        {
+            "type": "ITEM",
+            "content": "betternether:mushroom_fir_log",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 5
+        },
+
+        {
+            "type": "ITEM",
+            "content": "betternether:anchor_tree_log",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 5
+        },
+
+        {
+            "type": "ITEM",
+            "content": "betternether:nether_sakura_log",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 5
+        },
+
+        {
+            "type": "ITEM",
+            "content": "bewitchment:juniper_log",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 5
+        },
+
+        {
+            "type": "ITEM",
+            "content": "bewitchment:cypress_log",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 5
+        },
+
+        {
+            "type": "ITEM",
+            "content": "bewitchment:elder_log",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 5
+        },
+
+        {
+            "type": "ITEM",
+            "content": "simple_shelves:oak_shelf",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 7
+        },
+
+        {
+            "type": "ITEM",
+            "content": "simple_shelves:birch_shelf",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 7
+        },
+
+        {
+            "type": "ITEM",
+            "content": "simple_shelves:spruce_shelf",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 7
+        },
+
+        {
+            "type": "ITEM",
+            "content": "simple_shelves:jungle_shelf",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 7
+        },
+
+        {
+            "type": "ITEM",
+            "content": "simple_shelves:acacia_shelf",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 7
+        },
+
+        {
+            "type": "ITEM",
+            "content": "simple_shelves:dark_oak_shelf",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 7
+        },
+
+        {
+            "type": "ITEM",
+            "content": "simple_shelves:crimson_shelf",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 7
+        },
+
+        {
+            "type": "ITEM",
+            "content": "simple_shelves:warped_shelf",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 7
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:chest",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 10
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:barrel",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 10
+        },
+
+        {
+            "type": "ITEM",
+            "content": "exlineawnings:oak_awning",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 6
+        },
+
+        {
+            "type": "ITEM",
+            "content": "exlineawnings:spruce_awning",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 6
+        },
+
+        {
+            "type": "ITEM",
+            "content": "exlineawnings:birch_awning",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 6
+        },
+
+        {
+            "type": "ITEM",
+            "content": "exlineawnings:dark_oak_awning",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 6
+        },
+
+        {
+            "type": "ITEM",
+            "content": "exlineawnings:jungle_awning",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 6
+        },
+
+        {
+            "type": "ITEM",
+            "content": "exlineawnings:crimson_awning",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 6
+        },
+
+        {
+            "type": "ITEM",
+            "content": "exlineawnings:warped_awning",
+            "amount": {
+                "min": 10,
+                "max": 60
+            },
+            "unitWorth": 6
+        }
+
+
+	]
+
+
+}

@@ -1,0 +1,55 @@
+{
+	"content": [
+
+		{
+			"type": "ITEM",
+			"content": "taverns:netheritecoin",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 100000,
+			"weightMult": 0.1
+		},
+
+		{
+			"type": "ITEM",
+			"rarity": "RARE",
+			"content": "lootcrates:epic_crate_key",
+			"amount": {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 13500,
+			"weightMult": 0.25
+		},
+
+		{
+			"type": "ITEM",
+			"rarity": "RARE",
+			"content": "lootcrates:ghost_crate_key",
+			"amount": {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 20000,
+			"weightMult": 0.2
+		},
+
+		{
+			"type": "ITEM",
+			"rarity": "RARE",
+			"content": "lootcrates:blaze_crate_key",
+			"amount": {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 20000,
+			"weightMult": 0.2
+		}
+
+
+	]
+
+
+}

@@ -1,0 +1,1096 @@
+{
+	"name": "guild:overworld_ores",
+	"data": [
+		{
+			"type": "item",
+			"name": "minecraft:coal",
+			"number": {
+				"min": 8,
+				"max": 64
+			},
+			"unit_worth": 50,
+			"unit_time": 60,
+			"unit_exp": 3,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "minecraft:coal_block",
+			"number": {
+				"min": 1,
+				"max": 20
+			},
+			"unit_worth": 450,
+			"unit_time": 100,
+			"unit_exp": 6,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "minecraft:raw_copper",
+			"number": {
+				"min": 5,
+				"max": 64
+			},
+			"unit_worth": 25,
+			"unit_time": 60,
+			"unit_exp": 4,
+			"weight": 80
+		},
+		{
+			"type": "item",
+			"name": "minecraft:raw_copper_block",
+			"number": {
+				"min": 1,
+				"max": 20
+			},
+			"unit_worth": 225,
+			"unit_time": 100,
+			"unit_exp": 4,
+			"weight": 80
+		},
+		{
+			"type": "item",
+			"name": "minecraft:copper_ingot",
+			"number": {
+				"min": 5,
+				"max": 64
+			},
+			"unit_worth": 25,
+			"unit_time": 60,
+			"unit_exp": 4,
+			"weight": 80
+		},
+		{
+			"type": "item",
+			"name": "minecraft:copper_block",
+			"number": {
+				"min": 1,
+				"max": 20
+			},
+			"unit_worth": 225,
+			"unit_time": 100,
+			"unit_exp": 4,
+			"weight": 80
+		},
+		{
+			"type": "item",
+			"name": "minecraft:raw_iron",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 64
+			},
+			"unit_worth": 70,
+			"unit_time": 90,
+			"unit_exp": 5,
+			"weight": 80
+		},
+		{
+			"type": "item",
+			"name": "minecraft:raw_iron_block",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 20
+			},
+			"unit_worth": 630,
+			"unit_time": 90,
+			"unit_exp": 5,
+			"weight": 80
+		},
+		{
+			"type": "item",
+			"name": "minecraft:iron_ingot",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 64
+			},
+			"unit_worth": 70,
+			"unit_time": 90,
+			"unit_exp": 5,
+			"weight": 80
+		},
+		{
+			"type": "item",
+			"name": "minecraft:iron_block",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 20
+			},
+			"unit_worth": 630,
+			"unit_time": 90,
+			"unit_exp": 5,
+			"weight": 80
+		},
+		{
+			"type": "item",
+			"name": "dm:fossil",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 20
+			},
+			"unit_worth": 50,
+			"unit_time": 40,
+			"unit_exp": 5,
+			"weight": 80
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:raw_silver",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 64
+			},
+			"unit_worth": 80,
+			"unit_time": 40,
+			"unit_exp": 5,
+			"weight": 80
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:raw_silver_block",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 20
+			},
+			"unit_worth": 720,
+			"unit_time": 100,
+			"unit_exp": 5,
+			"weight": 80
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:silver_ingot",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 64
+			},
+			"unit_worth": 80,
+			"unit_time": 40,
+			"unit_exp": 5,
+			"weight": 80
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:silver_block",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 20
+			},
+			"unit_worth": 720,
+			"unit_time": 100,
+			"unit_exp": 5,
+			"weight": 80
+		},
+		{
+			"type": "item",
+			"name": "more_gems:sapphire",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 32
+			},
+			"unit_worth": 100,
+			"unit_time": 50,
+			"unit_exp": 5,
+			"weight": 80
+		},
+		{
+			"type": "item",
+			"name": "more_gems:sapphire_block",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 10
+			},
+			"unit_worth": 900,
+			"unit_time": 110,
+			"unit_exp": 5,
+			"weight": 80
+		},
+		{
+			"type": "item",
+			"name": "more_gems:carbonado",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 32
+			},
+			"unit_worth": 125,
+			"unit_time": 50,
+			"unit_exp": 5,
+			"weight": 80
+		},
+		{
+			"type": "item",
+			"name": "more_gems:carbonado_block",
+			"level": {
+				"min": 2
+			},
+			"number": {
+				"min": 1,
+				"max": 10
+			},
+			"unit_worth": 1125,
+			"unit_time": 110,
+			"unit_exp": 5,
+			"weight": 80
+		},
+		{
+			"type": "item",
+			"name": "minecraft:raw_gold",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 64
+			},
+			"unit_worth": 475,
+			"unit_time": 90,
+			"unit_exp": 6,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "minecraft:raw_gold_block",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 20
+			},
+			"unit_worth": 4275,
+			"unit_time": 110,
+			"unit_exp": 6,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "minecraft:gold_ingot",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 64
+			},
+			"unit_worth": 475,
+			"unit_time": 90,
+			"unit_exp": 6,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "minecraft:gold_block",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 20
+			},
+			"unit_worth": 4275,
+			"unit_time": 110,
+			"unit_exp": 6,
+			"weight": 70
+		},
+		{
+			"type": "item",
+			"name": "minecraft:amethyst_shard",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 32
+			},
+			"unit_worth": 25,
+			"unit_time": 100,
+			"unit_exp": 3,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "minecraft:lapis_lazuli",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 64
+			},
+			"unit_worth": 100,
+			"unit_time": 30,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "minecraft:lapis_block",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 20
+			},
+			"unit_worth": 900,
+			"unit_time": 100,
+			"unit_exp": 5,
+			"weight": 50
+		},
+		{
+			"type": "item",
+			"name": "minecraft:redstone",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 64
+			},
+			"unit_worth": 50,
+			"unit_time": 30,
+			"unit_exp": 5,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "minecraft:redstone_block",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 20
+			},
+			"unit_worth": 450,
+			"unit_time": 50,
+			"unit_exp": 5,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:raw_tin",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 64
+			},
+			"unit_worth": 525,
+			"unit_time": 30,
+			"unit_exp": 5,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:raw_tin_block",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 20
+			},
+			"unit_worth": 4725,
+			"unit_time": 50,
+			"unit_exp": 5,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:tin_ingot",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 64
+			},
+			"unit_worth": 525,
+			"unit_time": 30,
+			"unit_exp": 5,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:tin_block",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 20
+			},
+			"unit_worth": 4725,
+			"unit_time": 50,
+			"unit_exp": 5,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:raw_quadrillum",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 64
+			},
+			"unit_worth": 250,
+			"unit_time": 30,
+			"unit_exp": 5,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:raw_quadrillum_block",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 20
+			},
+			"unit_worth": 2250,
+			"unit_time": 50,
+			"unit_exp": 5,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:quadrillum_ingot",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 64
+			},
+			"unit_worth": 250,
+			"unit_time": 30,
+			"unit_exp": 5,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:quadrillum_block",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 20
+			},
+			"unit_worth": 2250,
+			"unit_time": 50,
+			"unit_exp": 5,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "more_gems:corundum",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 20
+			},
+			"unit_worth": 200,
+			"unit_time": 50,
+			"unit_exp": 5,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "more_gems:corundum_block",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 10
+			},
+			"unit_worth": 1800,
+			"unit_time": 30,
+			"unit_exp": 5,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:raw_manganese",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 20
+			},
+			"unit_worth": 275,
+			"unit_time": 30,
+			"unit_exp": 5,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:raw_manganese_block",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 10
+			},
+			"unit_worth": 2475,
+			"unit_time": 50,
+			"unit_exp": 5,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:manganese_ingot",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 20
+			},
+			"unit_worth": 275,
+			"unit_time": 30,
+			"unit_exp": 5,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:manganese_block",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 10
+			},
+			"unit_worth": 2475,
+			"unit_time": 50,
+			"unit_exp": 5,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "more_gems:alexandrite",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 32
+			},
+			"unit_worth": 150,
+			"unit_time": 30,
+			"unit_exp": 5,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "more_gems:alexandrite_block",
+			"level": {
+				"min": 3
+			},
+			"number": {
+				"min": 1,
+				"max": 10
+			},
+			"unit_worth": 1350,
+			"unit_time": 50,
+			"unit_exp": 5,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "more_gems:kunzite",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 550,
+			"unit_time": 30,
+			"unit_exp": 6,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "more_gems:kunzite_block",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 10
+			},
+			"unit_worth": 4950,
+			"unit_time": 50,
+			"unit_exp": 6,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "minecraft:diamond",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 400,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "minecraft:diamond_block",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 3600,
+			"unit_time": 130,
+			"unit_exp": 6,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "more_gems:tourmaline",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 350,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "more_gems:tourmaline_block",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 3150,
+			"unit_time": 130,
+			"unit_exp": 6,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "more_gems:spinel",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 150,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "more_gems:spinel_block",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1350,
+			"unit_time": 130,
+			"unit_exp": 6,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "more_gems:topaz",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 175,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "more_gems:topaz_block",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 1575,
+			"unit_time": 130,
+			"unit_exp": 6,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "more_gems:citrine",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 16
+			},
+			"unit_worth": 500,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "more_gems:citrine_block",
+			"level": {
+				"min": 4
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 4500,
+			"unit_time": 130,
+			"unit_exp": 6,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:raw_platinum",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 8
+			},
+			"unit_worth": 1600,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:raw_platinum_block",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 14400,
+			"unit_time": 130,
+			"unit_exp": 6,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:platinum_ingot",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 8
+			},
+			"unit_worth": 1600,
+			"unit_time": 60,
+			"unit_exp": 6,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:platinum_block",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 14400,
+			"unit_time": 130,
+			"unit_exp": 6,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:raw_banglum",
+			"level": {
+				"min": 6
+			},
+			"number": {
+				"min": 1,
+				"max": 8
+			},
+			"unit_worth": 2150,
+			"unit_time": 60,
+			"unit_exp": 8,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:raw_banglum_block",
+			"level": {
+				"min": 6
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 19350,
+			"unit_time": 130,
+			"unit_exp": 8,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:banglum_ingot",
+			"level": {
+				"min": 6
+			},
+			"number": {
+				"min": 1,
+				"max": 8
+			},
+			"unit_worth": 2150,
+			"unit_time": 60,
+			"unit_exp": 8,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:banglum_block",
+			"level": {
+				"min": 6
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 19350,
+			"unit_time": 130,
+			"unit_exp": 8,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:raw_orichalcum",
+			"level": {
+				"min": 6
+			},
+			"number": {
+				"min": 1,
+				"max": 8
+			},
+			"unit_worth": 2150,
+			"unit_time": 60,
+			"unit_exp": 8,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:raw_orichalcum_block",
+			"level": {
+				"min": 6
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 19350,
+			"unit_time": 130,
+			"unit_exp": 8,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:orichalcum_ingot",
+			"level": {
+				"min": 6
+			},
+			"number": {
+				"min": 1,
+				"max": 8
+			},
+			"unit_worth": 2150,
+			"unit_time": 60,
+			"unit_exp": 8,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:orichalcum_block",
+			"level": {
+				"min": 6
+			},
+			"number": {
+				"min": 1,
+				"max": 3
+			},
+			"unit_worth": 19350,
+			"unit_time": 130,
+			"unit_exp": 8,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:raw_carmot",
+			"level": {
+				"min": 7
+			},
+			"number": {
+				"min": 1,
+				"max": 4
+			},
+			"unit_worth": 3225,
+			"unit_time": 60,
+			"unit_exp": 10,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:raw_carmot_block",
+			"level": {
+				"min": 7
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 29025,
+			"unit_time": 130,
+			"unit_exp": 10,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:carmot_ingot",
+			"level": {
+				"min": 7
+			},
+			"number": {
+				"min": 1,
+				"max": 4
+			},
+			"unit_worth": 3225,
+			"unit_time": 60,
+			"unit_exp": 10,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:carmot_block",
+			"level": {
+				"min": 7
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 29025,
+			"unit_time": 130,
+			"unit_exp": 10,
+			"weight": 40
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:unobtainium",
+			"level": {
+				"min": 8
+			},
+			"number": {
+				"min": 1,
+				"max": 2
+			},
+			"unit_worth": 6450,
+			"unit_time": 60,
+			"unit_exp": 12,
+			"weight": 30
+		},
+		{
+			"type": "item",
+			"name": "mythicmetals:unobtainium_block",
+			"level": {
+				"min": 8
+			},
+			"number": {
+				"min": 1
+			},
+			"unit_worth": 58050,
+			"unit_time": 130,
+			"unit_exp": 12,
+			"weight": 40
+		}
+	]
+}

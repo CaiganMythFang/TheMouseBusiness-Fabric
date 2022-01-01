@@ -1,0 +1,12 @@
+{
+    "name": "Magic Mirror",
+    "icon": "magic_mirror:magic_mirror",
+    "category": "patchouli:magic",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)The Magic Mirror can be used to teleport you back to your Spawn Point.."
+        }
+    ],
+    "sortnum": "10"
+}

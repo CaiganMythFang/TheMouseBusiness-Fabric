@@ -1,0 +1,12 @@
+{
+    "name": "Mythic Metals",
+    "icon": "mythicmetals:adamantite_axe",
+    "category": "patchouli:equipment",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Mythic Metals adds a variety of ores that can be smelted into metals and turned into tools, armor, weapons, etc. $(br2) Many of the ores can be used in the $(l:technology/alloyforgery)Alloy Forge$() to create powerful Alloys."
+        }
+    ],
+    "sortnum": "3"
+}

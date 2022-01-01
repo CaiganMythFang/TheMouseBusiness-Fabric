@@ -1,0 +1,12 @@
+{
+    "name": "Farmer's Delight",
+    "icon": "farmersdelight:sweet_berry_cheesecake",
+    "category": "patchouli:food",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)Farmer's Delight gives you a variety of new foods to craft and eat, and more things to do with your farm. $(br2)Most of the mod's guide is handled through its Achievements, which you can see by pressing L."
+        }
+    ],
+    "sortnum": "5"
+}

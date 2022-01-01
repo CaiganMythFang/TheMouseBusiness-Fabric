@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+      "item": "taverns:rawcoppercoin"
+    },
+    "result": "taverns:coppercoin",
+    "experience": 0.15,
+    "cookingtime": 2500
+  }

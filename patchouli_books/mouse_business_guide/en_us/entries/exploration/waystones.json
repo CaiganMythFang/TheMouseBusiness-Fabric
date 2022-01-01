@@ -1,0 +1,18 @@
+{
+    "name": "Waystones",
+    "icon": "waystones:waystone",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)As covered in the Getting Started section, Waystones can be used as travel points around the world. You can find them in villages, atop the tall towers, and scattered randomly around the world. $(br2)You can also craft Waystones!"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "waystones:warp_stone",
+            "title": "WARP TOOLS",
+            "text": "$(o)You don't need a Waystone to warp to another Waystone. There are multiple types of Scrolls you can create, as well as a Warp Stone, which can be used multiple times to teleport to a Waystone!"
+        }
+    ],
+    "sortnum": "4"
+}

@@ -1,0 +1,710 @@
+{
+	"name": "guild:overworld_hostile_mob_heads",
+	"data": [
+		{
+			"type": "item",
+			"name": "minecraft:zombie_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "minecraft:creeper_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "minecraft:skeleton_skull",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:blaze_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:cave_spider_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:drowned_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:elder_guardian_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:enderman_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:endermite_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:evoker_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:ghast_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:guardian_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:hoglin_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:husk_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:illusioner_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:iron_golem_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:magma_cube_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:phantom_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:piglin_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:ravager_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:shulker_black_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:shulker_blue_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:shulker_brown_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:shulker_cyan_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:shulker_gray_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:shulker_green_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:shulker_light_blue_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:shulker_light_gray_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:shulker_lime_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:shulker_magenta_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:shulker_orange_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:shulker_pink_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:shulker_purple_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:shulker_red_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:shulker_white_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:shulker_yellow_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:silverfish_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:slime_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:spider_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:stray_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:strider_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:vex_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:vindicator_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:wolf_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:zoglin_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:zombie_villager_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		},
+		{
+			"type": "item",
+			"name": "spectrum:zombified_piglin_head",
+			"level": {
+				"min": 5
+			},
+			"number": {
+				"min": 1,
+				"max": 5
+			},
+			"unit_worth": 2000,
+			"unit_time": 3600,
+			"unit_exp": 100,
+			"weight": 3
+		}
+	]
+}

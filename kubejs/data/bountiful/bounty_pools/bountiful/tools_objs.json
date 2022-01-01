@@ -1,0 +1,668 @@
+
+{
+	"content": [
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:iron_pickaxe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 250,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:iron_axe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 250,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:iron_sword",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 175,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:iron_hoe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 175,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:iron_shovel",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 100,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:diamond_pickaxe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1325,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:diamond_axe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1325,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:diamond_sword",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 900,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:diamond_hoe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 900,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:diamond_shovel",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 450,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "boneequipment:bone_pickaxe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 100,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "boneequipment:bone_axe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 100,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "boneequipment:bone_sword",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 75,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "boneequipment:bone_hoe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 75,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "boneequipment:bone_shovel",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 50,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:citrine_pickaxe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1650,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:citrine_axe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1650,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:citrine_sword",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1100,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:citrine_hoe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1100,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:citrine_shovel",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 550,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:kunzite_pickaxe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1825,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:kunzite_axe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1825,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:kunzite_sword",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1225,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:kunzite_hoe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1225,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:kunzite_shovel",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 625,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:topaz_pickaxe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 575,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:topaz_axe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 575,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:topaz_sword",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 400,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:topaz_hoe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 400,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:topaz_shovel",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 200,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:corundum_pickaxe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 675,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:corundum_axe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 675,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:corundum_sword",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 450,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:corundum_hoe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 450,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:corundum_shovel",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 225,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:sapphire_pickaxe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 350,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:sapphire_axe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 350,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:sapphire_sword",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 225,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:sapphire_hoe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 225,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:sapphire_shovel",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 125,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:carbonado_pickaxe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 425,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:carbonado_axe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 425,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:carbonado_sword",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 275,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:carbonado_hoe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 275,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "more_gems:carbonado_shovel",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 150,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "mythicmetals:banglum_pickaxe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 7100,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "mythicmetals:banglum_axe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 7100,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "mythicmetals:banglum_sword",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 4750,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "mythicmetals:banglum_hoe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 4750,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "mythicmetals:banglum_shovel",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 2375,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "mythicmetals:copper_pickaxe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 100,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "mythicmetals:copper_axe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 100,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "mythicmetals:copper_sword",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 75,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "mythicmetals:copper_hoe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 75,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "mythicmetals:copper_shovel",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 50,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "mythicmetals:stormyx_pickaxe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 825,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "mythicmetals:stormyx_axe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 825,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "mythicmetals:stormyx_sword",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 550,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "mythicmetals:stormyx_hoe",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 550,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "mythicmetals:stormyx_shovel",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 275,
+            "nbt": "{Damage:0}"
+        }
+
+	]
+
+
+}

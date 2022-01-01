@@ -1,0 +1,12 @@
+{
+    "name": "More Carpets",
+    "icon": "morecarpets:glass_carpet",
+    "category": "patchouli:househome",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(o)More Carpets adds a variety of carpets based on vanilla blocks, like Glass, Stone, and others."
+        }
+    ],
+    "sortnum": "32"
+}
