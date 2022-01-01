@@ -10,7 +10,7 @@
 4 : '',
 5 : '',
 6 : '',
-7 : '',
+7 : '{Count:1b,id:"hardcorequesting:quest_book"}',
 8 : '{Count:1b,id:"patchouli:guide_book",tag:{"patchouli:book":"patchouli:mouse_business_guide"}}',
 9 : '{Count:1b,id:"origins:orb_of_origin"}',
 10 : '{Count:1b,id:"minecraft:potion",tag:{Potion:"minecraft:night_vision"}}',
