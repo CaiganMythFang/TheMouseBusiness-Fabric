@@ -1,6 +1,6 @@
 {
     "replace": false,
     "skill": "farming",
-    "level": 7,
+    "level": 1,
     "entity": "minecraft:cow"
 }
