@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "$(o)As this is a Research venture, there is a lot of items and things to research and take note of. To that, I have included a Research Journal with your deployment kit.$(br2)$(l)$(#ff0000)COMING SOON, NOT IMPLEMENTED YET!"
+            "text": "$(o)As this is a Research venture, there is a lot of items and things to research and take note of. To that, I have included a Research Journal with your deployment kit.$(br2)$(l)$(#ff0000)WORK IN PROGRESS!"
         },
         {
             "type": "patchouli:spotlight",
