@@ -1,0 +1,41 @@
+{
+  "name": "Research Milestones",
+  "quests": [
+    {
+      "uuid": "53f8733d-847d-44b8-96c2-0dbeb248ffb7",
+      "name": "MILESTONE I",
+      "description": "    You have successfully calibrated the Research Journal. Please proceed with further research.",
+      "x": 22,
+      "y": 22,
+      "icon": {
+        "id": "lootcrates:common_crate_key",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "REPUTATION",
+          "reputation": [
+            {
+              "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+              "inverted": false,
+              "lower": 0,
+              "upper": 3
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "lootcrates:common_crate_key",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": [],
+  "description": "    Here you can track which Milestones you have reached. Each Milestone will give you a reward."
+}

@@ -1,0 +1,275 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = kubejs/assets/kubejs/textures/gui/fabric_background.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-centered
+  x = 91
+  action = movebutton
+  y = -76
+}
+
+customization {
+  identifier = %id=400322%
+  width = 82
+  action = resizebutton
+  height = 39
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400322%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = kubejs\assets\kubejs\textures\gui\multiplayer-hover.png
+  backgroundnormal = kubejs\assets\kubejs\textures\gui\multiplayer.png
+}
+
+customization {
+  identifier = %id=604382%
+  orientation = mid-centered
+  x = 94
+  action = movebutton
+  y = -40
+}
+
+customization {
+  identifier = %id=604382%
+  width = 77
+  action = resizebutton
+  height = 31
+}
+
+customization {
+  identifier = %id=604382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=604382%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = kubejs\assets\kubejs\textures\gui\accessibility-hover.png
+  backgroundnormal = kubejs\assets\kubejs\textures\gui\accessibility.png
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-centered
+  x = 11
+  action = movebutton
+  y = -12
+}
+
+customization {
+  identifier = %id=400382%
+  width = 82
+  action = resizebutton
+  height = 39
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400382%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = kubejs\assets\kubejs\textures\gui\options-hover.png
+  backgroundnormal = kubejs\assets\kubejs\textures\gui\options.png
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = mid-centered
+  x = 91
+  action = movebutton
+  y = -12
+}
+
+customization {
+  identifier = %id=502382%
+  width = 82
+  action = resizebutton
+  height = 39
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=502382%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = kubejs\assets\kubejs\textures\gui\quit-hover.png
+  backgroundnormal = kubejs\assets\kubejs\textures\gui\quit.png
+}
+
+customization {
+  identifier = %id=376382%
+  orientation = mid-centered
+  x = 14
+  action = movebutton
+  y = -40
+}
+
+customization {
+  identifier = %id=376382%
+  width = 77
+  action = resizebutton
+  height = 31
+}
+
+customization {
+  identifier = %id=376382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=376382%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = kubejs\assets\kubejs\textures\gui\language-hover.png
+  backgroundnormal = kubejs\assets\kubejs\textures\gui\language.png
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-centered
+  x = 11
+  action = movebutton
+  y = -76
+}
+
+customization {
+  identifier = %id=400298%
+  width = 82
+  action = resizebutton
+  height = 39
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400298%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = kubejs\assets\kubejs\textures\gui\singleplayer-hover.png
+  backgroundnormal = kubejs\assets\kubejs\textures\gui\singleplayer.png
+}
+
+customization {
+  identifier = %id=400346%
+  action = hidebutton
+}
+
+customization {
+  path = kubejs/assets/kubejs/textures/gui/logo.png
+  orientation = mid-centered
+  x = -174
+  width = 196
+  action = addtexture
+  actionid = df252f37-8c95-466c-9635-ddfba49f7f381640973678177
+  y = -75
+  height = 159
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = kubejs\assets\kubejs\textures\gui\modpack-hover.png
+  label = 
+  loopbackgroundanimations = true
+  x = 50
+  width = 77
+  actionid = 8b4fcaaf-ea1b-457f-99a0-17161ae939f71640977529855
+  action = addbutton
+  y = 25
+  backgroundnormal = kubejs\assets\kubejs\textures\gui\modpack.png
+  value = https://www.curseforge.com/minecraft/modpacks/the-mouse-business-fabric-of-research
+  height = 31
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  x = 47
+  actionid = 4ee1d9a0-9ace-4c6f-9361-60e3f03d505a1640977616642
+  action = addtext
+  y = 58
+  scale = 1.0
+  alignment = left
+  value = PARTNERED WITH
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = kubejs\assets\kubejs\textures\gui\vertical_light_text.png
+  label = 
+  loopbackgroundanimations = true
+  hoverlabel = Click to Check Out!
+  x = 35
+  width = 100
+  actionid = 5f42ad68-c642-46c3-a8ce-b1c02b1cb3ec1640977630566
+  action = addbutton
+  y = 64
+  backgroundnormal = kubejs\assets\kubejs\textures\gui\vertical_light_text.png
+  value = https://bisecthosting.com/ferretbusiness
+  height = 32
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  x = 18
+  actionid = 52a5c882-59d6-4c2d-b2e2-f23a988823e01640977694213
+  action = addtext
+  y = 98
+  scale = 1.0
+  alignment = left
+  value = USE CODE: FERRETBUSINESS
+}
+

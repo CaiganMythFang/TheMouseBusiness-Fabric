@@ -1,0 +1,19 @@
+{
+  "comment-requireStanding": "If the player has to be standing in order to sitdown",
+  "requireStanding": true,
+  "comment-maxDistanceToSit": "The max distance a player can br from a chair in order to sit down (if -1 its ignored)",
+  "maxDistanceToSit": -1.0,
+  "comment-requireEmptyHand": "If the player needs an empty hand in order to sitdown",
+  "requireEmptyHand": true,
+  "comment-noOpaqueBlockAbove": "If the block above a chair has to be air",
+  "noOpaqueBlockAbove": true,
+  "permissions": {
+    "comment-requirePermission": "If the player needs a permission to use /sit",
+    "requirePermission": false,
+    "comment-permission": "The permission needed to use /sit",
+    "permission": {
+      "node": "fabricsit.sit",
+      "level": "default"
+    }
+  }
+}

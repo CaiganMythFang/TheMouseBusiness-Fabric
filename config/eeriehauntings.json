@@ -1,0 +1,22 @@
+{
+  "config": {
+    "baseHauntChance": 5.0,
+    "villagerKillHauntChanceIncrease": 10.0,
+    "playerKillHauntChanceIncrease": 25.0,
+    "golemKillHauntChanceIncrease": 7.5,
+    "petKillHauntChanceIncrease": 12.5,
+    "otherKillHauntChanceIncrease": 1.5,
+    "spiritsPerformMediumStrengthEffects": true,
+    "spiritsPerformStrongStrengthEffects": true,
+    "spiritsCanAffectThePhysicalWorldSometimes": true,
+    "physicalEffectScanRange_HigherIsSpookierButTakesMoreTime": 5,
+    "minimumCooldownInTicksForEvents": 400,
+    "maximumCooldownInTicksForEvents": 700,
+    "boonPotencyAdder": 0,
+    "easyExorcismMode": false,
+    "doSpiritsGetAngry": true,
+    "enableBoons": true,
+    "chalkDurationInDays": 10,
+    "hauntChanceAddedBySoulBallHit": 5.0
+  }
+}

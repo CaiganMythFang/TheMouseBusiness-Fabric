@@ -1,0 +1,16 @@
+{
+	// Here you can change your preferred input methods.
+	"input": {
+		// Sets whether mouse inputs should be pitch and yaw, or pitch and roll
+		"shipRollPriority": false
+	},
+	// Here you can change your rendering preferences.
+	"view": {
+		// Sets the stiffness of ships' third person cameras
+		"shipCameraStiffness": 0.4000000059604645,
+		// Scales the base distance of ships' third person cameras
+		"shipCameraBaseDistance": 1.0,
+		// Scales the speed-varying distance of ships' third person cameras
+		"shipCameraSpeedDistance": 1.0
+	}
+}

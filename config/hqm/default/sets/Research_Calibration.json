@@ -1,0 +1,292 @@
+{
+  "name": "Research Calibration",
+  "quests": [
+    {
+      "uuid": "dbb2f305-6e14-4238-9477-603f97b14171",
+      "name": "Dirt",
+      "description": " ",
+      "x": 19,
+      "y": 11,
+      "icon": {
+        "id": "minecraft:dirt",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:dirt",
+                "Count": 1
+              },
+              "required": 32
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "2f59d133-bf14-4c6f-9086-9082f23f8389",
+      "name": "Oak Plank",
+      "description": " ",
+      "x": 80,
+      "y": 114,
+      "icon": {
+        "id": "minecraft:oak_planks",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:oak_planks",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "8db3d306-493f-4ced-809e-e59f8311a613",
+      "name": "Stick",
+      "description": " ",
+      "x": 143,
+      "y": 114,
+      "icon": {
+        "id": "minecraft:stick",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:stick",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b4d17a64-bb65-40cd-abca-e1c854d289aa",
+      "name": "Cobblestone",
+      "description": " ",
+      "x": 50,
+      "y": 65,
+      "icon": {
+        "id": "minecraft:cobblestone",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:cobblestone",
+                "Count": 1
+              },
+              "required": 32
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "87d8e2b3-7e8f-4fe6-8894-ae10f39ee0e0",
+      "name": "Sand",
+      "description": " ",
+      "x": 80,
+      "y": 12,
+      "icon": {
+        "id": "minecraft:sand",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:sand",
+                "Count": 1
+              },
+              "required": 16
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "65da17fb-7563-486a-be88-7eb01b508198",
+      "name": "Oak Log",
+      "description": " ",
+      "x": 18,
+      "y": 115,
+      "icon": {
+        "id": "minecraft:oak_log",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:oak_log",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "c2170e35-a557-4cc2-b8ed-7889c9b73f9a",
+      "name": "Stone",
+      "description": " ",
+      "x": 110,
+      "y": 65,
+      "icon": {
+        "id": "minecraft:stone",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:stone",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "184f7ff6-272e-423b-8510-0b8389f50ba5",
+      "name": "Gravel",
+      "description": " ",
+      "x": 141,
+      "y": 12,
+      "icon": {
+        "id": "minecraft:gravel",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:gravel",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": [],
+  "description": "    Common objects to calibrate and test Research submissions. Complete the first milestone to unlock the rest of the Research Journal."
+}

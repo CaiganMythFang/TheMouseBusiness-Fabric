@@ -1,0 +1,113 @@
+{
+  "name": "Research Notes",
+  "quests": [
+    {
+      "uuid": "70148c2c-d3e6-4109-a8c5-86cf6a9ed1b1",
+      "name": "First Milestone",
+      "description": "Unnamed quest",
+      "x": 158,
+      "y": 192,
+      "trigger": "QUEST_TRIGGER",
+      "prerequisites": [
+        "53f8733d-847d-44b8-96c2-0dbeb248ffb7"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "750fcef6-f220-481c-bb4a-46264d2435b5",
+      "name": "Mouse Business Guide",
+      "description": "    In case you lost yours.",
+      "x": 17,
+      "y": 10,
+      "icon": {
+        "id": "patchouli:guide_book",
+        "Count": 1,
+        "tag": {
+          "patchouli:book": "patchouli:mouse_business_guide"
+        }
+      },
+      "repeat": {
+        "type": "INSTANT"
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "70148c2c-d3e6-4109-a8c5-86cf6a9ed1b1"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "patchouli:guide_book",
+          "Count": 1,
+          "tag": {
+            "patchouli:book": "patchouli:mouse_business_guide"
+          }
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "69f1d899-7ecf-4bf2-88d2-b94cf6fdfddc",
+      "name": "AdventureZ Handbook",
+      "description": " ",
+      "x": 32,
+      "y": 33,
+      "icon": {
+        "id": "patchouli:guide_book",
+        "Count": 1,
+        "tag": {
+          "patchouli:book": "adventurez:adventurez"
+        }
+      },
+      "repeat": {
+        "type": "INSTANT"
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "70148c2c-d3e6-4109-a8c5-86cf6a9ed1b1"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "patchouli:guide_book",
+          "Count": 1,
+          "tag": {
+            "patchouli:book": "adventurez:adventurez"
+          }
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": [],
+  "description": "    Here you can find various bits of documentation about the dimension you are in.\n    These will cost you Coins, but are repeatable in case you lose them."
+}

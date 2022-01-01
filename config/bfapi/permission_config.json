@@ -1,0 +1,6 @@
+{
+  "comment-enabled": "If the default permission handler should be registered, you may want to turn this off if you have a different handler registered",
+  "EnableDefaultPermissionHandler": false,
+  "comment-dbName": "The path the default permission handler should be registered under, should only use a-z0-9",
+  "DefaultPermissionHandlerID": "default_handler"
+}

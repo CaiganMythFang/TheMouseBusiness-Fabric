@@ -1,0 +1,25 @@
+[
+  {
+    "id": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+    "name": "Research Progress",
+    "neutral": "No Research Yet",
+    "markers": [
+      {
+        "name": "Milestone I",
+        "value": 10
+      },
+      {
+        "name": "Milestone II",
+        "value": 25
+      },
+      {
+        "name": "Milestone III",
+        "value": 100
+      },
+      {
+        "name": "MILESTONE FINAL",
+        "value": 10000
+      }
+    ]
+  }
+]
