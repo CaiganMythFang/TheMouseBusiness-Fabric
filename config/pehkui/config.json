@@ -62,7 +62,7 @@
 	"defense.maximum": 3.4028234663852886E38,
 	"health.minimum": 1.401298464324817E-45,
 	"health.maximum": 3.4028234663852886E38,
-	"drops.minimum": 1.401298464324817E-45,
+	"drops.minimum": 2.401298464324817E-45,
 	"drops.maximum": 3.4028234663852886E38,
 	"held_item.minimum": 1.401298464324817E-45,
 	"held_item.maximum": 3.4028234663852886E38,
