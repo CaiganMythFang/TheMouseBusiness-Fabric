@@ -1,5 +1,5 @@
 {
-	"maxLevel": 20,
+	"maxLevel": 30,
 	// Applies if bonus chest world setting is enabled
 	"startPoints": 5,
 	// If true will reset stats on death
@@ -8,7 +8,7 @@
 	"dropPlayerXP": true,
 	"disableMobFarms": false,
 	"disableFurnaceXP": false,
-	"xpBaseCost": 50,
+	"xpBaseCost": 20,
 	// XP equation: lvl^2 * multiplicator + base
 	"xpCostMultiplicator": 0.10000000149011612,
 	// Attribute values - Bonus for each lvl
