@@ -135,21 +135,6 @@
 		},
 		{
 			"type": "item",
-			"name": "dm:fossil",
-			"level": {
-				"min": 2
-			},
-			"number": {
-				"min": 1,
-				"max": 20
-			},
-			"unit_worth": 50,
-			"unit_time": 40,
-			"unit_exp": 5,
-			"weight": 80
-		},
-		{
-			"type": "item",
 			"name": "mythicmetals:raw_silver",
 			"level": {
 				"min": 2
