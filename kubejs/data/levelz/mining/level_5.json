@@ -2,8 +2,9 @@
     "replace": false,
     "level": 5,
     "block": [
-        "minecraft:coal_ore",
-        "minecraft:coal_block",
+		"minecraft:iron_bars",
+		"minecraft:iron_door",
+		"minecraft:iron_trapdoor",
         "minecraft:deepslate_coal_ore"
     ]
 }
