@@ -36,7 +36,7 @@
 	"motion.maximum": 3.4028234663852886E38,
 	"falling.minimum": 1.401298464324817E-45,
 	"falling.maximum": 3.4028234663852886E38,
-	"step_height.minimum": 1.401298464324817E-45,
+	"step_height.minimum": 3.001298464324817E-45,
 	"step_height.maximum": 3.4028234663852886E38,
 	"view_bobbing.minimum": 1.401298464324817E-45,
 	"view_bobbing.maximum": 3.4028234663852886E38,
