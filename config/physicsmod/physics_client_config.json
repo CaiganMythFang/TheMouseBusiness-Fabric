@@ -31,6 +31,9 @@
   "enderpearlModel": 0,
   "enderpearlImpact": 0,
   "enderpearlShade": false,
+  "eggModel": 0,
+  "eggImpact": 0,
+  "eggShade": false,
   "crackPhysicsParticles": true,
   "liquidPhysics": true,
   "liquidSourceDistance": 6.0,
@@ -38,6 +41,8 @@
   "bannerPhysicsRange": 48.0,
   "impactSounds": true,
   "soundVolume": 1.0,
+  "blockPhysicsRange": 96.0,
+  "waterDensity": 3,
   "customizedGravities": [
     "minecraft:overworld",
     0.0,
