@@ -7,7 +7,9 @@
     "perChunk": 1,
     "bottom": -52,
     "top": 12,
-    "discardChance": 0.125
+    "discardChance": 0.125,
+    "offset": false,
+    "trapezoid": false
   },
   "aquarium": {
     "enabled": true,
@@ -15,7 +17,9 @@
     "perChunk": 4,
     "bottom": 39,
     "top": 63,
-    "discardChance": 0.0
+    "discardChance": 0.0,
+    "offset": false,
+    "trapezoid": false
   },
   "banglum": {
     "enabled": true,
@@ -23,7 +27,9 @@
     "perChunk": 3,
     "bottom": 42,
     "top": 65,
-    "discardChance": 0.125
+    "discardChance": 0.125,
+    "offset": false,
+    "trapezoid": false
   },
   "carmot": {
     "enabled": true,
@@ -31,7 +37,9 @@
     "perChunk": 2,
     "bottom": 4,
     "top": 36,
-    "discardChance": 0.125
+    "discardChance": 0.125,
+    "offset": false,
+    "trapezoid": false
   },
   "kyber": {
     "enabled": true,
@@ -43,7 +51,9 @@
     "veinSizeVariant": 15,
     "perChunkVariant": 40,
     "bottomVariant": -62,
-    "topVariant": 40
+    "topVariant": 40,
+    "offset": false,
+    "trapezoid": false
   },
   "manganese": {
     "enabled": true,
@@ -51,7 +61,9 @@
     "perChunk": 2,
     "bottom": 28,
     "top": 48,
-    "discardChance": 0.25
+    "discardChance": 0.25,
+    "offset": false,
+    "trapezoid": false
   },
   "midas_gold": {
     "enabled": true,
@@ -59,7 +71,9 @@
     "perChunk": 7,
     "bottom": 10,
     "top": 128,
-    "discardChance": 0.125
+    "discardChance": 0.125,
+    "offset": false,
+    "trapezoid": false
   },
   "mythril": {
     "enabled": true,
@@ -67,7 +81,9 @@
     "perChunk": 1,
     "bottom": -36,
     "top": 16,
-    "discardChance": 0.125
+    "discardChance": 0.125,
+    "offset": false,
+    "trapezoid": false
   },
   "orichalcum": {
     "enabled": true,
@@ -75,7 +91,9 @@
     "perChunk": 1,
     "bottom": 8,
     "top": 24,
-    "discardChance": 0.125
+    "discardChance": 0.125,
+    "offset": false,
+    "trapezoid": false
   },
   "osmium": {
     "enabled": true,
@@ -83,7 +101,9 @@
     "perChunk": 5,
     "bottom": 20,
     "top": 40,
-    "discardChance": 0.25
+    "discardChance": 0.25,
+    "offset": false,
+    "trapezoid": false
   },
   "overworld_nether_ores": {
     "enabled": true,
@@ -91,7 +111,9 @@
     "perChunk": 2,
     "bottom": 40,
     "top": 70,
-    "discardChance": 0.125
+    "discardChance": 0.125,
+    "offset": false,
+    "trapezoid": false
   },
   "palladium": {
     "enabled": true,
@@ -99,7 +121,9 @@
     "perChunk": 2,
     "bottom": 16,
     "top": 40,
-    "discardChance": 0.0
+    "discardChance": 0.0,
+    "offset": false,
+    "trapezoid": false
   },
   "platinum": {
     "enabled": true,
@@ -107,7 +131,9 @@
     "perChunk": 2,
     "bottom": 8,
     "top": 32,
-    "discardChance": 0.0
+    "discardChance": 0.0,
+    "offset": false,
+    "trapezoid": false
   },
   "prometheum": {
     "enabled": true,
@@ -115,7 +141,9 @@
     "perChunk": 4,
     "bottom": 30,
     "top": 48,
-    "discardChance": 0.0
+    "discardChance": 0.0,
+    "offset": false,
+    "trapezoid": false
   },
   "quadrillum": {
     "enabled": true,
@@ -123,7 +151,9 @@
     "perChunk": 2,
     "bottom": 16,
     "top": 44,
-    "discardChance": 0.25
+    "discardChance": 0.25,
+    "offset": false,
+    "trapezoid": false
   },
   "runite": {
     "enabled": true,
@@ -131,7 +161,9 @@
     "perChunk": 2,
     "bottom": 9,
     "top": 39,
-    "discardChance": 0.0
+    "discardChance": 0.0,
+    "offset": false,
+    "trapezoid": false
   },
   "silver": {
     "enabled": true,
@@ -139,7 +171,9 @@
     "perChunk": 12,
     "bottom": -20,
     "top": 40,
-    "discardChance": 0.25
+    "discardChance": 0.25,
+    "offset": false,
+    "trapezoid": false
   },
   "starrite": {
     "enabled": true,
@@ -151,7 +185,9 @@
     "veinSizeVariant": 7,
     "perChunkVariant": 2,
     "bottomVariant": 40,
-    "topVariant": 20
+    "topVariant": 20,
+    "offset": false,
+    "trapezoid": false
   },
   "stormyx": {
     "enabled": true,
@@ -159,7 +195,9 @@
     "perChunk": 3,
     "bottom": 4,
     "top": 116,
-    "discardChance": 0.0
+    "discardChance": 0.0,
+    "offset": false,
+    "trapezoid": false
   },
   "unobtainium": {
     "enabled": true,
@@ -167,7 +205,9 @@
     "perChunk": 1,
     "bottom": -60,
     "top": 12,
-    "discardChance": 0.25
+    "discardChance": 0.25,
+    "offset": false,
+    "trapezoid": false
   },
   "tin": {
     "enabled": true,
@@ -175,7 +215,9 @@
     "perChunk": 4,
     "bottom": 44,
     "top": 72,
-    "discardChance": 0.25
+    "discardChance": 0.25,
+    "offset": false,
+    "trapezoid": false
   },
   "vermiculite": {
     "enabled": true,
@@ -183,7 +225,9 @@
     "perChunk": 4,
     "bottom": 64,
     "top": 108,
-    "discardChance": 0.25
+    "discardChance": 0.25,
+    "offset": false,
+    "trapezoid": false
   },
   "configVersion": 2,
   "blacklist": []
