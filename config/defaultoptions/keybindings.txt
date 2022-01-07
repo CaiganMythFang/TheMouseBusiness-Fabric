@@ -34,7 +34,6 @@ key_key.hotbar.8:key.keyboard.8:NONE
 key_key.hotbar.9:key.keyboard.9:NONE
 key_Reload Menu | CTRL + ALT + :key.keyboard.r:NONE
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c:NONE
-key_key.signtools.copysign:key.keyboard.keypad.add:NONE
 key_key.adventurez.activatearmor:key.keyboard.unknown:NONE
 key_key.adventurez.dragonflydown:key.keyboard.left.alt:NONE
 key_key.adventurez.dragonfirebreath:key.keyboard.grave.accent:NONE
@@ -92,10 +91,10 @@ key_key.push_to_talk:key.keyboard.caps.lock:NONE
 key_key.whisper:key.keyboard.unknown:NONE
 key_key.mute_microphone:key.keyboard.m:NONE
 key_key.disable_voice_chat:key.keyboard.n:NONE
-key_key.hide_icons:key.keyboard.unknown:NONE
+key_key.hide_icons:key.keyboard.h:NONE
 key_key.voice_chat:key.keyboard.v:NONE
 key_key.voice_chat_settings:key.keyboard.unknown:NONE
-key_key.voice_chat_group:key.keyboard.insert:NONE
+key_key.voice_chat_group:key.keyboard.semicolon:NONE
 key_key.voice_chat_toggle_recording:key.keyboard.unknown:NONE
 key_key.waila.config:key.keyboard.keypad.0:NONE
 key_key.waila.show_overlay:key.keyboard.keypad.1:NONE
