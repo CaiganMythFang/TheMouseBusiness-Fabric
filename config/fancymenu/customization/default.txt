@@ -210,7 +210,7 @@ customization {
   width = 196
   action = addtexture
   actionid = df252f37-8c95-466c-9635-ddfba49f7f381640973678177
-  y = -75
+  y = -76
   height = 159
 }
 
@@ -271,5 +271,53 @@ customization {
   scale = 1.0
   alignment = left
   value = USE CODE: FERRETBUSINESS
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  x = -80
+  actionid = ede7d764-73c1-40b1-bee8-9bfcfa5681bc1641060522428
+  action = addtext
+  y = 73
+  scale = 1.0
+  alignment = centered
+  value = Version 1.0.2 - Research Corrections
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  x = -158
+  actionid = ac018781-2001-4981-97ff-e67192c4ce1a1641572659461
+  action = addtext
+  y = 84
+  scale = 1.0
+  alignment = left
+  value = [] Many Crash Fixes
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  x = -158
+  actionid = f7143192-e95d-46f8-bda6-157c8b0b52b81641572720177
+  action = addtext
+  y = 94
+  scale = 1.0
+  alignment = left
+  value = [] More Research Available
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  x = -158
+  actionid = fad911f2-c583-45fd-8b4c-95b00aec1f701641583514666
+  action = addtext
+  y = 104
+  scale = 1.0
+  alignment = left
+  value = [] Villager Quests Temp Removed
 }
 
