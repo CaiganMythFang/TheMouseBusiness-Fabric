@@ -215,6 +215,74 @@
       "commandrewards": []
     },
     {
+      "uuid": "761b5126-7b3b-483c-a471-0241067b894a",
+      "name": "Zombie",
+      "description": " ",
+      "x": 235,
+      "y": 11,
+      "icon": {
+        "id": "minecraft:zombie_spawn_egg",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "KILL",
+          "mobs": [
+            {
+              "name": "Kill Zombie (Vanilla)",
+              "mob": "minecraft:zombie",
+              "kills": 1
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "1d07747a-5955-4fd6-87b3-6ffe311125d9",
+      "name": "Skeleton",
+      "description": " ",
+      "x": 297,
+      "y": 11,
+      "icon": {
+        "id": "minecraft:skeleton_spawn_egg",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "KILL",
+          "mobs": [
+            {
+              "name": "Kill Skeleton (Vanilla)",
+              "mob": "minecraft:skeleton",
+              "kills": 1
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
       "uuid": "c2170e35-a557-4cc2-b8ed-7889c9b73f9a",
       "name": "Stone",
       "description": " ",
@@ -285,8 +353,42 @@
       "reward": [],
       "rewardchoice": [],
       "commandrewards": []
+    },
+    {
+      "uuid": "8b024c4f-00cc-4bb5-9b39-36a10233aff0",
+      "name": "Cow",
+      "description": " ",
+      "x": 173,
+      "y": 12,
+      "icon": {
+        "id": "minecraft:cow_spawn_egg",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "KILL",
+          "mobs": [
+            {
+              "name": "Kill Cow (Vanilla)",
+              "mob": "minecraft:cow",
+              "kills": 1
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
     }
   ],
   "reputationBar": [],
-  "description": "    Common objects to calibrate and test Research submissions. Complete the first milestone to unlock the rest of the Research Journal."
+  "description": "    Common objects to calibrate and test Research submissions. Complete the first milestone to unlock the rest of the Research Journal.\n\nTotal Research Points : 16"
 }
