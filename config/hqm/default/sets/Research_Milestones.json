@@ -2,6 +2,42 @@
   "name": "Research Milestones",
   "quests": [
     {
+      "uuid": "f66f0dd0-64f3-4aa1-859f-07cafaaacd53",
+      "name": "MILESTONE II",
+      "description": "    Your journey of Research has only begun. This Iron Ore should assist in your survival.",
+      "x": 53,
+      "y": 22,
+      "icon": {
+        "id": "minecraft:raw_iron",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "REPUTATION",
+          "reputation": [
+            {
+              "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+              "inverted": false,
+              "lower": 1,
+              "upper": 4
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "53f8733d-847d-44b8-96c2-0dbeb248ffb7"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:raw_iron",
+          "Count": 10
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
       "uuid": "53f8733d-847d-44b8-96c2-0dbeb248ffb7",
       "name": "MILESTONE I",
       "description": "    You have successfully calibrated the Research Journal. Please proceed with further research.",
@@ -19,7 +55,7 @@
               "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
               "inverted": false,
               "lower": 0,
-              "upper": 3
+              "upper": 4
             }
           ]
         }
@@ -30,6 +66,66 @@
         {
           "id": "lootcrates:common_crate_key",
           "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "6044cd78-1196-4c2d-b973-fbca3755d862",
+      "name": "MILESTONE IV",
+      "description": "You are steadily making Research progress. Here are two Origin Orbs in case you want to try different things.",
+      "x": 126,
+      "y": 22,
+      "icon": {
+        "id": "origins:orb_of_origin",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "REPUTATION",
+          "reputation": []
+        }
+      ],
+      "prerequisites": [
+        "99bda412-0b8a-4459-92b6-35f914e6285b"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "99bda412-0b8a-4459-92b6-35f914e6285b",
+      "name": "MILESTONE III",
+      "description": "    Thank you for continuing your Research. ",
+      "x": 88,
+      "y": 22,
+      "icon": {
+        "id": "lootcrates:common_crate_key",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "REPUTATION",
+          "reputation": [
+            {
+              "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+              "inverted": false,
+              "lower": 2,
+              "upper": 4
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "f66f0dd0-64f3-4aa1-859f-07cafaaacd53"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "lootcrates:common_crate_key",
+          "Count": 2
         }
       ],
       "rewardchoice": [],
