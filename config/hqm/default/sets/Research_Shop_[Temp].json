@@ -1,0 +1,3442 @@
+{
+  "name": "Research Shop [Temp]",
+  "quests": [
+    {
+      "uuid": "cad7ade6-0ff9-41c2-8367-1275cfcd6456",
+      "name": "Magma Block",
+      "description": " ",
+      "x": 130,
+      "y": 120,
+      "icon": {
+        "id": "minecraft:magma_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 3
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c477887e-5a7b-438c-8eea-f4487d0ee3a4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:magma_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "1ebbf243-f12a-4a90-8cf7-729fbf185137",
+      "name": "Alexandrite Block",
+      "description": " ",
+      "x": 30,
+      "y": 76,
+      "icon": {
+        "id": "more_gems:alexandrite_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 5
+            },
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 4
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "68b5c2cb-cb36-48ad-aec4-dff9d0800a5f"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "more_gems:alexandrite_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "64d2b8f4-a073-4c86-827d-e901bfad3e07",
+      "name": "Raw Stormyx Block",
+      "description": " ",
+      "x": 80,
+      "y": 32,
+      "icon": {
+        "id": "mythicmetals:raw_stormyx_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 9
+            },
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "9f11dd66-954a-414a-b9de-7e35b3cd5fda"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "mythicmetals:raw_stormyx_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "6b6aaec1-507c-4271-b150-962d2edbf787",
+      "name": "Block of Raw Silver",
+      "description": " ",
+      "x": 117,
+      "y": 10,
+      "icon": {
+        "id": "bewitchment:raw_silver_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 2
+            },
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 9
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "33d9a236-f0fd-4b82-b68f-7013ac99aa0b"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "bewitchment:raw_silver_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "68b5c2cb-cb36-48ad-aec4-dff9d0800a5f",
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 115,
+      "y": 188,
+      "trigger": "QUEST_TRIGGER",
+      "prerequisites": [
+        "f66f0dd0-64f3-4aa1-859f-07cafaaacd53"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "c6b23e25-d2bf-4002-aac7-a641f155cf70",
+      "name": "Rabbit Hide",
+      "description": " ",
+      "x": 298,
+      "y": 10,
+      "icon": {
+        "id": "minecraft:rabbit_hide",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c477887e-5a7b-438c-8eea-f4487d0ee3a4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:rabbit_hide",
+          "Count": 10
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "4468a603-0575-4bf3-b734-a8e23cfc8e4c",
+      "name": "Axolotl Spawn Egg",
+      "description": " ",
+      "x": 197,
+      "y": 156,
+      "icon": {
+        "id": "minecraft:axolotl_spawn_egg",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "9f11dd66-954a-414a-b9de-7e35b3cd5fda"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:axolotl_spawn_egg",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "9f11dd66-954a-414a-b9de-7e35b3cd5fda",
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 279,
+      "y": 189,
+      "trigger": "QUEST_TRIGGER",
+      "prerequisites": [
+        "6044cd78-1196-4c2d-b973-fbca3755d862"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "20d54519-27fa-4410-a622-d3d2491b5e42",
+      "name": "Sheep Spawn Egg",
+      "description": " ",
+      "x": 235,
+      "y": 134,
+      "icon": {
+        "id": "minecraft:sheep_spawn_egg",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "68b5c2cb-cb36-48ad-aec4-dff9d0800a5f"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:sheep_spawn_egg",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "e06a4451-0122-4e39-a431-60710ef31a02",
+      "name": "Raw Platinum Block",
+      "description": " ",
+      "x": 67,
+      "y": 54,
+      "icon": {
+        "id": "mythicmetals:raw_platinum_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:goldcoin",
+                "Count": 1
+              },
+              "required": 5
+            },
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 7
+            },
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 6
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "33d9a236-f0fd-4b82-b68f-7013ac99aa0b"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "mythicmetals:raw_platinum_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "914118b1-e79c-47e5-a413-59e064b9ff52",
+      "name": "Orange",
+      "description": " ",
+      "x": 272,
+      "y": 98,
+      "icon": {
+        "id": "croptopia:orange",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c477887e-5a7b-438c-8eea-f4487d0ee3a4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:orange",
+          "Count": 25
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "44bbe320-0e95-4307-82a6-9859595708b2",
+      "name": "Bell Pepper",
+      "description": " ",
+      "x": 172,
+      "y": 98,
+      "icon": {
+        "id": "croptopia:bellpepper",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c477887e-5a7b-438c-8eea-f4487d0ee3a4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:bellpepper",
+          "Count": 25
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "82cdae9e-ebc5-413a-9915-73dd0f3266c3",
+      "name": "Cow Spawn Egg",
+      "description": " ",
+      "x": 210,
+      "y": 134,
+      "icon": {
+        "id": "minecraft:cow_spawn_egg",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c477887e-5a7b-438c-8eea-f4487d0ee3a4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:cow_spawn_egg",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "0bafc2fb-9395-4ec0-97dd-c4e6ed5b6af7",
+      "name": "Parrot Spawn Egg",
+      "description": " ",
+      "x": 172,
+      "y": 156,
+      "icon": {
+        "id": "minecraft:parrot_spawn_egg",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "33d9a236-f0fd-4b82-b68f-7013ac99aa0b"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:parrot_spawn_egg",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "f546c4d9-6142-4bbe-b0f7-72b42137ad80",
+      "name": "Raw Porkchop",
+      "description": " ",
+      "x": 235,
+      "y": 32,
+      "icon": {
+        "id": "minecraft:porkchop",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c477887e-5a7b-438c-8eea-f4487d0ee3a4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:porkchop",
+          "Count": 10
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "f063fb82-084d-4c72-9438-733a38fabbb1",
+      "name": "Origin Orb",
+      "description": " ",
+      "x": 81,
+      "y": 163,
+      "icon": {
+        "id": "origins:orb_of_origin",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 2
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c477887e-5a7b-438c-8eea-f4487d0ee3a4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "origins:orb_of_origin",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "50dd212f-4a9a-4c99-9b4f-ca7d6052cc89",
+      "name": "Block of Lapis Lazuli",
+      "description": " ",
+      "x": 55,
+      "y": 120,
+      "icon": {
+        "id": "minecraft:lapis_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 3
+            },
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 6
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "68b5c2cb-cb36-48ad-aec4-dff9d0800a5f"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:lapis_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "9534179c-062c-4cea-947b-438a1e905d97",
+      "name": "Creeper Head",
+      "description": " ",
+      "x": 223,
+      "y": 54,
+      "icon": {
+        "id": "minecraft:creeper_head",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "33d9a236-f0fd-4b82-b68f-7013ac99aa0b"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:creeper_head",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "1f372e80-bd6d-4548-9730-a975a51d7bd6",
+      "name": "Raw Banglum Block",
+      "description": " ",
+      "x": 92,
+      "y": 54,
+      "icon": {
+        "id": "mythicmetals:raw_banglum_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:goldcoin",
+                "Count": 1
+              },
+              "required": 7
+            },
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 7
+            },
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 4
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "33d9a236-f0fd-4b82-b68f-7013ac99aa0b"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "mythicmetals:raw_banglum_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "2c17a333-c22b-4908-8125-9869b5bc05ea",
+      "name": "Amethyst Shard",
+      "description": " ",
+      "x": 68,
+      "y": 142,
+      "icon": {
+        "id": "minecraft:amethyst_shard",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 3
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "68b5c2cb-cb36-48ad-aec4-dff9d0800a5f"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:amethyst_shard",
+          "Count": 6
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "33d9a236-f0fd-4b82-b68f-7013ac99aa0b",
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 191,
+      "y": 189,
+      "trigger": "QUEST_TRIGGER",
+      "prerequisites": [
+        "99bda412-0b8a-4459-92b6-35f914e6285b"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "0b436373-aa72-4b06-b37c-e0b508a94ebb",
+      "name": "Moissanite Block",
+      "description": " ",
+      "x": 67,
+      "y": 98,
+      "icon": {
+        "id": "more_gems:moissanite_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 4
+            },
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "68b5c2cb-cb36-48ad-aec4-dff9d0800a5f"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "more_gems:moissanite_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "aa611430-3145-4233-90e6-f504b9053360",
+      "name": "Feather",
+      "description": " ",
+      "x": 173,
+      "y": 10,
+      "icon": {
+        "id": "minecraft:feather",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c477887e-5a7b-438c-8eea-f4487d0ee3a4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:feather",
+          "Count": 10
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "ebfdaa34-5b5a-420e-9e4f-d7f485877207",
+      "name": "Tourmaline Block",
+      "description": " ",
+      "x": 105,
+      "y": 76,
+      "icon": {
+        "id": "more_gems:tourmaline_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:goldcoin",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 2
+            },
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 6
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "68b5c2cb-cb36-48ad-aec4-dff9d0800a5f"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "more_gems:tourmaline_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "dac327d2-ccd9-4ff6-ac6d-033f54d2d615",
+      "name": "Raw Midas Gold Block",
+      "description": " ",
+      "x": 54,
+      "y": 32,
+      "icon": {
+        "id": "mythicmetals:raw_midas_gold_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:goldcoin",
+                "Count": 1
+              },
+              "required": 2
+            },
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 6
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "9f11dd66-954a-414a-b9de-7e35b3cd5fda"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "mythicmetals:raw_midas_gold_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "71095bd1-515e-4a8d-b123-6a2df600412b",
+      "name": "Block of Raw Gold",
+      "description": " ",
+      "x": 92,
+      "y": 10,
+      "icon": {
+        "id": "minecraft:raw_gold_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:goldcoin",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 7
+            },
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "33d9a236-f0fd-4b82-b68f-7013ac99aa0b"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:raw_gold_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "8d6dc593-5e24-4e1b-8c1c-cbc5b5952b22",
+      "name": "Rice",
+      "description": " ",
+      "x": 247,
+      "y": 98,
+      "icon": {
+        "id": "croptopia:rice",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c477887e-5a7b-438c-8eea-f4487d0ee3a4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:rice",
+          "Count": 25
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "36aaaf49-995b-4038-a068-b0eff0cdc3f9",
+      "name": "Chicken Spawn Egg",
+      "description": " ",
+      "x": 260,
+      "y": 134,
+      "icon": {
+        "id": "minecraft:chicken_spawn_egg",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "68b5c2cb-cb36-48ad-aec4-dff9d0800a5f"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:chicken_spawn_egg",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "babf0484-1d75-48d8-8ae3-c855fb37412f",
+      "name": "Garlic",
+      "description": " ",
+      "x": 222,
+      "y": 98,
+      "icon": {
+        "id": "bewitchment:garlic",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c477887e-5a7b-438c-8eea-f4487d0ee3a4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "bewitchment:garlic",
+          "Count": 25
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "709bc5c8-e6d7-4456-aab6-3fdcec12ac13",
+      "name": "Coffee Beans",
+      "description": " ",
+      "x": 197,
+      "y": 98,
+      "icon": {
+        "id": "croptopia:coffee_beans",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c477887e-5a7b-438c-8eea-f4487d0ee3a4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:coffee_beans",
+          "Count": 25
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "4dd342e3-957c-46fd-a50d-4e3ba47c7740",
+      "name": "Carrot",
+      "description": " ",
+      "x": 234,
+      "y": 76,
+      "icon": {
+        "id": "minecraft:carrot",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c477887e-5a7b-438c-8eea-f4487d0ee3a4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:carrot",
+          "Count": 25
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "62538222-64b6-4177-9296-56ec1239a64f",
+      "name": "Block of Diamond",
+      "description": " ",
+      "x": 80,
+      "y": 76,
+      "icon": {
+        "id": "minecraft:diamond_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:goldcoin",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 4
+            },
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 4
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "33d9a236-f0fd-4b82-b68f-7013ac99aa0b"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:diamond_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "91afee93-bbda-4edb-91c3-83f05868f258",
+      "name": "Citrine Block",
+      "description": " ",
+      "x": 142,
+      "y": 98,
+      "icon": {
+        "id": "more_gems:citrine_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:goldcoin",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 8
+            },
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "68b5c2cb-cb36-48ad-aec4-dff9d0800a5f"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "more_gems:citrine_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b15363af-05a7-4e41-b1ab-27ad9104cd5a",
+      "name": "Villager Spawn Egg",
+      "description": " ",
+      "x": 185,
+      "y": 134,
+      "icon": {
+        "id": "minecraft:villager_spawn_egg",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "68b5c2cb-cb36-48ad-aec4-dff9d0800a5f"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:villager_spawn_egg",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "85402552-4d17-404e-9cf7-54048e784683",
+      "name": "Raw Tin Block",
+      "description": " ",
+      "x": 142,
+      "y": 10,
+      "icon": {
+        "id": "mythicmetals:raw_tin_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:goldcoin",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 8
+            },
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 9
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "68b5c2cb-cb36-48ad-aec4-dff9d0800a5f"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "mythicmetals:raw_tin_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "138bd6a8-ab1b-4d49-8be3-4209cd167ec9",
+      "name": "Fox Spawn Egg",
+      "description": " ",
+      "x": 222,
+      "y": 156,
+      "icon": {
+        "id": "minecraft:fox_spawn_egg",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "9f11dd66-954a-414a-b9de-7e35b3cd5fda"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:fox_spawn_egg",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "aa18a84d-648d-4af7-8c5a-7fcddcf9c607",
+      "name": "Raw Beef",
+      "description": " ",
+      "x": 210,
+      "y": 32,
+      "icon": {
+        "id": "minecraft:beef",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c477887e-5a7b-438c-8eea-f4487d0ee3a4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:beef",
+          "Count": 10
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "618c225b-41ad-4672-a2cd-b373cdfbb285",
+      "name": "Raw Chicken",
+      "description": " ",
+      "x": 185,
+      "y": 32,
+      "icon": {
+        "id": "minecraft:chicken",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c477887e-5a7b-438c-8eea-f4487d0ee3a4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:chicken",
+          "Count": 10
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "556f552b-ac0e-4160-a031-4f232a84a9f5",
+      "name": "Block of Raw Iron",
+      "description": " ",
+      "x": 67,
+      "y": 10,
+      "icon": {
+        "id": "minecraft:raw_iron_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 2
+            },
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "68b5c2cb-cb36-48ad-aec4-dff9d0800a5f"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:raw_iron_block",
+          "Count": 5
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "870d40d5-0ac7-4c5a-8173-c59688b63edf",
+      "name": "Topaz Block",
+      "description": " ",
+      "x": 42,
+      "y": 98,
+      "icon": {
+        "id": "more_gems:topaz_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 6
+            },
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 3
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "68b5c2cb-cb36-48ad-aec4-dff9d0800a5f"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "more_gems:topaz_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "e6eb49e8-e52c-417c-86ca-04a16c383b4c",
+      "name": "Glowstone",
+      "description": " ",
+      "x": 17,
+      "y": 98,
+      "icon": {
+        "id": "minecraft:glowstone",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 2
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "68b5c2cb-cb36-48ad-aec4-dff9d0800a5f"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:glowstone",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "774afc7e-e359-421b-8ab9-a682dda61ca6",
+      "name": "Ink Sac",
+      "description": " ",
+      "x": 223,
+      "y": 10,
+      "icon": {
+        "id": "minecraft:ink_sac",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c477887e-5a7b-438c-8eea-f4487d0ee3a4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:ink_sac",
+          "Count": 10
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "05fcdbee-e876-4a79-a87a-d37aa66020b0",
+      "name": "Raw Palladium Block",
+      "description": " ",
+      "x": 29,
+      "y": 32,
+      "icon": {
+        "id": "mythicmetals:raw_palladium_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:goldcoin",
+                "Count": 1
+              },
+              "required": 2
+            },
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "9f11dd66-954a-414a-b9de-7e35b3cd5fda"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "mythicmetals:raw_palladium_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "7187a782-4122-4271-a7d8-705ac0c889d1",
+      "name": "Apple",
+      "description": " ",
+      "x": 209,
+      "y": 76,
+      "icon": {
+        "id": "minecraft:apple",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c477887e-5a7b-438c-8eea-f4487d0ee3a4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:apple",
+          "Count": 25
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "878e1e08-6a0f-40a1-944f-160e2d2b2290",
+      "name": "Block of Raw Copper",
+      "description": " ",
+      "x": 42,
+      "y": 10,
+      "icon": {
+        "id": "minecraft:raw_copper_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 9
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c477887e-5a7b-438c-8eea-f4487d0ee3a4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:raw_copper_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "ddbf7789-2df8-4f84-8b76-70b7dcc3059a",
+      "name": "Raw Quadrillum Block",
+      "description": " ",
+      "x": 17,
+      "y": 54,
+      "icon": {
+        "id": "mythicmetals:raw_quadrillum_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 9
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "33d9a236-f0fd-4b82-b68f-7013ac99aa0b"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "mythicmetals:raw_quadrillum_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "002748a9-8802-4c58-8e27-5d4fb174e41e",
+      "name": "Block of Quartz",
+      "description": " ",
+      "x": 80,
+      "y": 120,
+      "icon": {
+        "id": "minecraft:quartz_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 4
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "68b5c2cb-cb36-48ad-aec4-dff9d0800a5f"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:quartz_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "a7d64610-772a-4d68-8c07-58060a62eebf",
+      "name": "Block of Redstone",
+      "description": " ",
+      "x": 105,
+      "y": 120,
+      "icon": {
+        "id": "minecraft:redstone_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 8
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c477887e-5a7b-438c-8eea-f4487d0ee3a4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:redstone_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "1c12cd5b-8f02-4e8f-a0ad-035ca4e0798d",
+      "name": "Skeleton Skull",
+      "description": " ",
+      "x": 248,
+      "y": 54,
+      "icon": {
+        "id": "minecraft:skeleton_skull",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "33d9a236-f0fd-4b82-b68f-7013ac99aa0b"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:skeleton_skull",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "84bbba8a-94be-46bd-aef6-b974dc29f9c0",
+      "name": "White Wool",
+      "description": " ",
+      "x": 198,
+      "y": 10,
+      "icon": {
+        "id": "minecraft:white_wool",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c477887e-5a7b-438c-8eea-f4487d0ee3a4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:white_wool",
+          "Count": 10
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "eb9b9bed-76b5-46cb-abad-afff00943e90",
+      "name": "Gunpowder",
+      "description": " ",
+      "x": 285,
+      "y": 32,
+      "icon": {
+        "id": "minecraft:gunpowder",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "68b5c2cb-cb36-48ad-aec4-dff9d0800a5f"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:gunpowder",
+          "Count": 10
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b5528b6a-f95d-4944-813d-b56820c6daed",
+      "name": "Raw Rabbit",
+      "description": " ",
+      "x": 260,
+      "y": 32,
+      "icon": {
+        "id": "minecraft:rabbit",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c477887e-5a7b-438c-8eea-f4487d0ee3a4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:rabbit",
+          "Count": 10
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "031cebf0-91b8-49e2-a7e2-87fde89d2155",
+      "name": "Beetroot",
+      "description": " ",
+      "x": 284,
+      "y": 76,
+      "icon": {
+        "id": "minecraft:beetroot",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c477887e-5a7b-438c-8eea-f4487d0ee3a4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:beetroot",
+          "Count": 25
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "d2e7dd27-3855-4872-b9e9-0b3b791e6aca",
+      "name": "Ocelot Spawn Egg",
+      "description": " ",
+      "x": 273,
+      "y": 155,
+      "icon": {
+        "id": "minecraft:ocelot_spawn_egg",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "33d9a236-f0fd-4b82-b68f-7013ac99aa0b"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:ocelot_spawn_egg",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "029106d6-e0c9-4bc1-a38c-858979c0336c",
+      "name": "Block of Coal",
+      "description": " ",
+      "x": 17,
+      "y": 10,
+      "icon": {
+        "id": "minecraft:coal_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 8
+            },
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c477887e-5a7b-438c-8eea-f4487d0ee3a4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:coal_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "a1cc9480-39fe-4670-97f9-899a3fbebd77",
+      "name": "Pig Spawn Egg",
+      "description": " ",
+      "x": 285,
+      "y": 134,
+      "icon": {
+        "id": "minecraft:pig_spawn_egg",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c477887e-5a7b-438c-8eea-f4487d0ee3a4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:pig_spawn_egg",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "23c83d75-61d3-4b75-a781-4487e00b73ff",
+      "name": "Zombie Head",
+      "description": " ",
+      "x": 198,
+      "y": 54,
+      "icon": {
+        "id": "minecraft:zombie_head",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "33d9a236-f0fd-4b82-b68f-7013ac99aa0b"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:zombie_head",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "01c8e8f7-ba95-44c9-b3a9-f3fbca456719",
+      "name": "Horse Spawn Egg",
+      "description": " ",
+      "x": 247,
+      "y": 156,
+      "icon": {
+        "id": "minecraft:horse_spawn_egg",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "9f11dd66-954a-414a-b9de-7e35b3cd5fda"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:horse_spawn_egg",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b9c8a91b-cf52-4152-97f2-8ccee5259ea4",
+      "name": "Ancient Debris",
+      "description": " ",
+      "x": 105,
+      "y": 32,
+      "icon": {
+        "id": "minecraft:ancient_debris",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 6
+            },
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 4
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "9f11dd66-954a-414a-b9de-7e35b3cd5fda"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:ancient_debris",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "3f75daac-8332-4c1e-b438-d883d29f6d3f",
+      "name": "Wheat",
+      "description": " ",
+      "x": 184,
+      "y": 76,
+      "icon": {
+        "id": "minecraft:wheat",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c477887e-5a7b-438c-8eea-f4487d0ee3a4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:wheat",
+          "Count": 25
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "fa0b4ea5-4222-416e-8bfc-10b3c90f93d2",
+      "name": "Raw Manganese Block",
+      "description": " ",
+      "x": 42,
+      "y": 54,
+      "icon": {
+        "id": "mythicmetals:raw_manganese_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 9
+            },
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 9
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "33d9a236-f0fd-4b82-b68f-7013ac99aa0b"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "mythicmetals:raw_manganese_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "29285a73-b1fe-470e-abd9-af7014adc55b",
+      "name": "Raw Carmot Block",
+      "description": " ",
+      "x": 142,
+      "y": 54,
+      "icon": {
+        "id": "mythicmetals:raw_carmot_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:netheritecoin",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "taverns:goldcoin",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 6
+            },
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "9f11dd66-954a-414a-b9de-7e35b3cd5fda"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "mythicmetals:raw_carmot_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "82c0eaca-455d-48b7-978f-1c399248d76a",
+      "name": "Bone",
+      "description": " ",
+      "x": 273,
+      "y": 54,
+      "icon": {
+        "id": "minecraft:bone",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c477887e-5a7b-438c-8eea-f4487d0ee3a4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:bone",
+          "Count": 10
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "aa8402cf-0d3b-49d4-a8a6-301b5f5ff133",
+      "name": "Potato",
+      "description": " ",
+      "x": 259,
+      "y": 76,
+      "icon": {
+        "id": "minecraft:potato",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c477887e-5a7b-438c-8eea-f4487d0ee3a4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:potato",
+          "Count": 25
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "065701f4-4851-40fd-961b-049b90ea8d93",
+      "name": "Mango",
+      "description": " ",
+      "x": 297,
+      "y": 98,
+      "icon": {
+        "id": "croptopia:mango",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c477887e-5a7b-438c-8eea-f4487d0ee3a4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "croptopia:mango",
+          "Count": 25
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b17589f4-33ed-437d-8b48-58260be289eb",
+      "name": "Rabbit Spawn Egg",
+      "description": " ",
+      "x": 235,
+      "y": 178,
+      "icon": {
+        "id": "minecraft:rabbit_spawn_egg",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "68b5c2cb-cb36-48ad-aec4-dff9d0800a5f"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:rabbit_spawn_egg",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "c477887e-5a7b-438c-8eea-f4487d0ee3a4",
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 50,
+      "y": 190,
+      "trigger": "QUEST_TRIGGER",
+      "prerequisites": [
+        "53f8733d-847d-44b8-96c2-0dbeb248ffb7"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "d38eaeef-10d4-4914-9d65-e25e92a49549",
+      "name": "Carbonado Block",
+      "description": " ",
+      "x": 30,
+      "y": 120,
+      "icon": {
+        "id": "more_gems:carbonado_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 4
+            },
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "68b5c2cb-cb36-48ad-aec4-dff9d0800a5f"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "344e22c1-ee06-484d-9590-bea856a442a0",
+      "name": "Block of Corundum",
+      "description": " ",
+      "x": 92,
+      "y": 98,
+      "icon": {
+        "id": "more_gems:corundum_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 7
+            },
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 2
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "68b5c2cb-cb36-48ad-aec4-dff9d0800a5f"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "more_gems:corundum_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "7211c3b3-2858-43d9-9bdc-2937feeea15e",
+      "name": "Ender Pearl",
+      "description": " ",
+      "x": 93,
+      "y": 142,
+      "icon": {
+        "id": "minecraft:ender_pearl",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "68b5c2cb-cb36-48ad-aec4-dff9d0800a5f"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:ender_pearl",
+          "Count": 3
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "d472c150-f3d4-4148-9687-fb0e331bef55",
+      "name": "Unobtainium Block",
+      "description": " ",
+      "x": 130,
+      "y": 32,
+      "icon": {
+        "id": "mythicmetals:unobtainium_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:netheritecoin",
+                "Count": 1
+              },
+              "required": 2
+            },
+            {
+              "item": {
+                "id": "taverns:goldcoin",
+                "Count": 1
+              },
+              "required": 3
+            },
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 2
+            },
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 2
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "9f11dd66-954a-414a-b9de-7e35b3cd5fda"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "mythicmetals:unobtainium_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "e29cfea4-ea19-42f3-aa29-710ce25ed552",
+      "name": "Raw Orichalcum Block",
+      "description": " ",
+      "x": 117,
+      "y": 54,
+      "icon": {
+        "id": "mythicmetals:raw_orichalcum_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:goldcoin",
+                "Count": 1
+              },
+              "required": 7
+            },
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 7
+            },
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 4
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "33d9a236-f0fd-4b82-b68f-7013ac99aa0b"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "mythicmetals:raw_orichalcum_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "c0b41d8b-044f-4ab9-8d5b-af3fa1aaa77b",
+      "name": "Leather",
+      "description": " ",
+      "x": 248,
+      "y": 10,
+      "icon": {
+        "id": "minecraft:leather",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c477887e-5a7b-438c-8eea-f4487d0ee3a4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:leather",
+          "Count": 10
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "1bfd8ef3-98e9-46fa-9eb7-62c6fda00131",
+      "name": "Sapphire Block",
+      "description": " ",
+      "x": 117,
+      "y": 98,
+      "icon": {
+        "id": "more_gems:sapphire_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 3
+            },
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 9
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "68b5c2cb-cb36-48ad-aec4-dff9d0800a5f"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "more_gems:sapphire_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "8bc1955f-b7f1-4d3a-8996-2d0d0adfbbec",
+      "name": "Kunzite Block",
+      "description": " ",
+      "x": 55,
+      "y": 76,
+      "icon": {
+        "id": "more_gems:kunzite_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:goldcoin",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 9
+            },
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 8
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "68b5c2cb-cb36-48ad-aec4-dff9d0800a5f"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "more_gems:kunzite_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "359a2cf9-7075-4ced-95cc-67eca9a61300",
+      "name": "Spinel Block",
+      "description": " ",
+      "x": 130,
+      "y": 76,
+      "icon": {
+        "id": "more_gems:spinel_block",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 5
+            },
+            {
+              "item": {
+                "id": "taverns:coppercoin",
+                "Count": 1
+              },
+              "required": 4
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "68b5c2cb-cb36-48ad-aec4-dff9d0800a5f"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "more_gems:spinel_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "0ca9e07a-6582-41b5-8d58-917a164bfef3",
+      "name": "Glow Ink Sac",
+      "description": " ",
+      "x": 273,
+      "y": 10,
+      "icon": {
+        "id": "minecraft:glow_ink_sac",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "68b5c2cb-cb36-48ad-aec4-dff9d0800a5f"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:glow_ink_sac",
+          "Count": 10
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "0a5eda4f-03d8-448b-bb37-177530062cf8",
+      "name": "Wolf Spawn Egg",
+      "description": " ",
+      "x": 298,
+      "y": 155,
+      "icon": {
+        "id": "minecraft:wolf_spawn_egg",
+        "Count": 1
+      },
+      "repeat": {
+        "type": "TIME",
+        "days": 7,
+        "hours": 0
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "taverns:silvercoin",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "33d9a236-f0fd-4b82-b68f-7013ac99aa0b"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:wolf_spawn_egg",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": [],
+  "description": "    Coins are obtained by doing Guild and Bountiful quests. Normally you would find Villagers to trade Coins for Goods, but currently that has issues.\n    This is a temporary workaround. Reach Milestones to unlock new trades. Every trade has a cooldown."
+}
