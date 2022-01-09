@@ -1,0 +1,2786 @@
+{
+  "name": "Vanilla Minecraft",
+  "quests": [
+    {
+      "uuid": "cf2c7b65-77f4-4664-b414-10b2cba69c59",
+      "name": "Egg",
+      "description": " ",
+      "x": 111,
+      "y": 80,
+      "icon": {
+        "id": "minecraft:egg",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:egg",
+                "Count": 1
+              },
+              "required": 16
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "34ed12ec-1227-49b7-88af-80d4f62226cc",
+      "name": "Scute",
+      "description": " ",
+      "x": 122,
+      "y": 113,
+      "icon": {
+        "id": "minecraft:scute",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:scute",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 3
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "a3253ada-b78c-445f-b57d-c9d35beb6dec",
+      "name": "Nether Star",
+      "description": " ",
+      "x": 145,
+      "y": 152,
+      "icon": {
+        "id": "minecraft:nether_star",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:nether_star",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 5
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "5156894e-66f4-4ef9-becf-94a3a5340e45",
+      "name": "Netherite Scrap",
+      "description": " ",
+      "x": 274,
+      "y": 30,
+      "icon": {
+        "id": "minecraft:netherite_scrap",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:netherite_scrap",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 4
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "a21486ca-4495-40bf-befd-1d5e6b837bdc",
+      "name": "Nether Wart",
+      "description": " ",
+      "x": 134,
+      "y": 81,
+      "icon": {
+        "id": "minecraft:nether_wart",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:nether_wart",
+                "Count": 1
+              },
+              "required": 16
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "0f3867af-df46-49f2-a59f-ec61a5c04d94",
+      "name": "Banner",
+      "description": " ",
+      "x": 258,
+      "y": 131,
+      "icon": {
+        "id": "minecraft:white_banner",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:white_banner",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "84397483-dade-490a-bb3d-bf948341210a",
+      "name": "Cooked Porkchop",
+      "description": " ",
+      "x": 62,
+      "y": 82,
+      "icon": {
+        "id": "minecraft:cooked_porkchop",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:cooked_porkchop",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "19b04873-5aa2-4b5e-b5e9-f69a909d4e5c",
+      "name": "Melon",
+      "description": " ",
+      "x": 145,
+      "y": 61,
+      "icon": {
+        "id": "minecraft:melon_slice",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:melon_slice",
+                "Count": 1
+              },
+              "required": 32
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "d88f8334-5ca2-4045-9b7a-b38916560d76",
+      "name": "Lime Bed",
+      "description": " ",
+      "x": 246,
+      "y": 150,
+      "icon": {
+        "id": "minecraft:lime_bed",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:lime_bed",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "d476d142-c5e4-46b1-a786-64373d49e789",
+      "name": "Axolotl Bucket",
+      "description": " ",
+      "x": 111,
+      "y": 133,
+      "icon": {
+        "id": "minecraft:axolotl_bucket",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:axolotl_bucket",
+                "Count": 1
+              },
+              "required": 2
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 3
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "2f536fd2-ab85-42b1-8b65-ac3be656ea2d",
+      "name": "Tropical Fish",
+      "description": " ",
+      "x": 27,
+      "y": 63,
+      "icon": {
+        "id": "minecraft:tropical_fish",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:tropical_fish",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "35e14883-f2a7-4d92-8566-a51616949a20",
+      "name": "Emerald",
+      "description": " ",
+      "x": 273,
+      "y": 79,
+      "icon": {
+        "id": "minecraft:emerald",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:emerald",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "60337576-9d94-4b6b-92fa-ddb888cab927",
+      "name": "Slime Block",
+      "description": " ",
+      "x": 145,
+      "y": 113,
+      "icon": {
+        "id": "minecraft:slime_block",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:slime_block",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 3
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "eb6641bd-7aa2-4d2d-8a43-db4680973ddb",
+      "name": "Purple Glazed Terracotta",
+      "description": " ",
+      "x": 236,
+      "y": 130,
+      "icon": {
+        "id": "minecraft:purple_glazed_terracotta",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:purple_glazed_terracotta",
+                "Count": 1
+              },
+              "required": 16
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b9ce0679-df45-40f5-a322-316ed415fd40",
+      "name": "Torch",
+      "description": " ",
+      "x": 39,
+      "y": 145,
+      "icon": {
+        "id": "minecraft:torch",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:torch",
+                "Count": 1
+              },
+              "required": 32
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "56522efe-a39f-4e6f-80b9-3c5d20dc3ec4",
+      "name": "Sandstone",
+      "description": " ",
+      "x": 304,
+      "y": 154,
+      "icon": {
+        "id": "minecraft:sandstone",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:sandstone",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "9f0b2488-f076-47dd-bd76-f83fea7472b5",
+      "name": "Conduit",
+      "description": " ",
+      "x": 186,
+      "y": 146,
+      "icon": {
+        "id": "minecraft:conduit",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:conduit",
+                "Count": 1
+              },
+              "required": 2
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 5
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "c1ccda40-4a70-4b1e-9b8b-3dc6cb767d79",
+      "name": "Raw Iron",
+      "description": " ",
+      "x": 251,
+      "y": 29,
+      "icon": {
+        "id": "minecraft:raw_iron",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:raw_iron",
+                "Count": 1
+              },
+              "required": 16
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "ef19cd7a-b056-4017-ba4f-491ee03b186a",
+      "name": "Crafting Table",
+      "description": " ",
+      "x": 196,
+      "y": 89,
+      "icon": {
+        "id": "minecraft:crafting_table",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:crafting_table",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "602b1f97-b6f6-4605-9f1d-21ccbec5ddf9",
+      "name": "Blaze Rod",
+      "description": " ",
+      "x": 123,
+      "y": 152,
+      "icon": {
+        "id": "minecraft:blaze_rod",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:blaze_rod",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 3
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "561eb739-c31a-4111-8d36-291f7d750ed3",
+      "name": "Redstone Dust",
+      "description": " ",
+      "x": 251,
+      "y": 80,
+      "icon": {
+        "id": "minecraft:redstone",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:redstone",
+                "Count": 1
+              },
+              "required": 32
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "cb74ce87-c658-4571-93bc-c3a4d73b2e5d",
+      "name": "Apple",
+      "description": " ",
+      "x": 123,
+      "y": 61,
+      "icon": {
+        "id": "minecraft:apple",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:apple",
+                "Count": 1
+              },
+              "required": 32
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "55b833e1-a3dc-479f-beae-4cce990d87d1",
+      "name": "Dried Kelp Block",
+      "description": " ",
+      "x": 101,
+      "y": 61,
+      "icon": {
+        "id": "minecraft:dried_kelp_block",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:dried_kelp_block",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "40e954d8-90b4-4191-af59-64a15a36c673",
+      "name": "Lapis Lazuli",
+      "description": " ",
+      "x": 262,
+      "y": 60,
+      "icon": {
+        "id": "minecraft:lapis_lazuli",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:lapis_lazuli",
+                "Count": 1
+              },
+              "required": 16
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "a1ba17ae-b468-481c-a868-8e7648fdd9aa",
+      "name": "Stone Sword",
+      "description": " ",
+      "x": 188,
+      "y": 12,
+      "icon": {
+        "id": "minecraft:stone_sword",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:stone_sword",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "d0ee1077-b146-497d-8d48-1b9288e4d3b6",
+      "name": "Raw Gold",
+      "description": " ",
+      "x": 263,
+      "y": 10,
+      "icon": {
+        "id": "minecraft:raw_gold",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:raw_gold",
+                "Count": 1
+              },
+              "required": 16
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 3
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "7133283d-8807-445c-bc1f-4770a56a54fa",
+      "name": "Pumpkin Pie",
+      "description": " ",
+      "x": 40,
+      "y": 111,
+      "icon": {
+        "id": "minecraft:pumpkin_pie",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:pumpkin_pie",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "4fa3e35e-18ae-45b3-9aee-489641313e07",
+      "name": "Cooked Chicken",
+      "description": " ",
+      "x": 39,
+      "y": 82,
+      "icon": {
+        "id": "minecraft:cooked_chicken",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:cooked_chicken",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "526ad183-0393-4752-b728-e996239a7cbd",
+      "name": "Lightning Rod",
+      "description": " ",
+      "x": 208,
+      "y": 107,
+      "icon": {
+        "id": "minecraft:lightning_rod",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:lightning_rod",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "e61eccb1-7418-435d-89cf-55f5107f741d",
+      "name": "Purple Candle",
+      "description": " ",
+      "x": 50,
+      "y": 164,
+      "icon": {
+        "id": "minecraft:purple_candle",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:purple_candle",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "485b17cd-2adb-4429-9d20-b4345e9382d5",
+      "name": "Amethyst Shard",
+      "description": " ",
+      "x": 229,
+      "y": 79,
+      "icon": {
+        "id": "minecraft:amethyst_shard",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:amethyst_shard",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "22d0c469-7638-4846-96ff-a3484f8f4746",
+      "name": "Dandelion",
+      "description": " ",
+      "x": 61,
+      "y": 30,
+      "icon": {
+        "id": "minecraft:dandelion",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:dandelion",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "bbc03954-3116-4913-b948-a23aacd1f88e",
+      "name": "Jukebox",
+      "description": " ",
+      "x": 286,
+      "y": 101,
+      "icon": {
+        "id": "minecraft:jukebox",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:jukebox",
+                "Count": 1
+              },
+              "required": 2
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 3
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "229415d2-044e-498f-8862-b4ff5ab6ac10",
+      "name": "Bone",
+      "description": " ",
+      "x": 134,
+      "y": 132,
+      "icon": {
+        "id": "minecraft:bone",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:bone",
+                "Count": 1
+              },
+              "required": 16
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "cc170fc2-32e9-432c-bde8-b84d3fc18e49",
+      "name": "Lodestone",
+      "description": " ",
+      "x": 174,
+      "y": 127,
+      "icon": {
+        "id": "minecraft:lodestone",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:lodestone",
+                "Count": 1
+              },
+              "required": 2
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 5
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "f809e06e-b906-4d2a-b2a8-301ce6c75686",
+      "name": "Black Concrete",
+      "description": " ",
+      "x": 248,
+      "y": 111,
+      "icon": {
+        "id": "minecraft:black_concrete",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:black_concrete",
+                "Count": 1
+              },
+              "required": 16
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "63ac27a9-3a97-4c1a-bd65-1a09cff395d5",
+      "name": "Red Mushroom",
+      "description": " ",
+      "x": 83,
+      "y": 30,
+      "icon": {
+        "id": "minecraft:red_mushroom",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:red_mushroom",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "0694ac6d-047f-473e-bc2b-7bc754af22b8",
+      "name": "Sunflower",
+      "description": " ",
+      "x": 72,
+      "y": 11,
+      "icon": {
+        "id": "minecraft:sunflower",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:sunflower",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "a8adbf9d-dd78-4a0d-b325-82eeaadff996",
+      "name": "Beacon",
+      "description": " ",
+      "x": 197,
+      "y": 127,
+      "icon": {
+        "id": "minecraft:beacon",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:beacon",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 5
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "7f5af2ad-ae57-4370-8100-57901f74b87c",
+      "name": "Ender Pearl",
+      "description": " ",
+      "x": 134,
+      "y": 171,
+      "icon": {
+        "id": "minecraft:ender_pearl",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:ender_pearl",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 3
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "c0b588d1-db8d-40d2-a089-c23bc0a82268",
+      "name": "Golden Apple",
+      "description": " ",
+      "x": 86,
+      "y": 111,
+      "icon": {
+        "id": "minecraft:golden_apple",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:golden_apple",
+                "Count": 1
+              },
+              "required": 2
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 3
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "dbc85c49-60c8-437f-b058-507f261b0ec1",
+      "name": "Compass",
+      "description": " ",
+      "x": 207,
+      "y": 185,
+      "icon": {
+        "id": "minecraft:compass",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:compass",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "4063a6f5-e47d-4cec-b466-6c21c019cd95",
+      "name": "Ender Chest",
+      "description": " ",
+      "x": 298,
+      "y": 120,
+      "icon": {
+        "id": "minecraft:ender_chest",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:ender_chest",
+                "Count": 1
+              },
+              "required": 2
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 3
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "91c51b7e-6c44-48de-b3ad-a41e1a02fcc0",
+      "name": "Brick Wall",
+      "description": " ",
+      "x": 288,
+      "y": 157,
+      "icon": {
+        "id": "minecraft:brick_wall",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:brick_wall",
+                "Count": 1
+              },
+              "required": 16
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "13290d32-6774-4a23-8be9-1b46634c50fe",
+      "name": "White Wool",
+      "description": " ",
+      "x": 100,
+      "y": 153,
+      "icon": {
+        "id": "minecraft:white_wool",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:white_wool",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "6b9b7161-b32d-4319-8e7b-09ded7d16a6b",
+      "name": "Diamond",
+      "description": " ",
+      "x": 240,
+      "y": 60,
+      "icon": {
+        "id": "minecraft:diamond",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:diamond",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 5
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "366a0482-fe25-4b03-ad99-541ccde90b70",
+      "name": "Redstone Lamp",
+      "description": " ",
+      "x": 62,
+      "y": 183,
+      "icon": {
+        "id": "minecraft:redstone_lamp",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:redstone_lamp",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 3
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "7ec14293-d784-4228-8700-83ca78d69130",
+      "name": "Diamond Sword",
+      "description": " ",
+      "x": 189,
+      "y": 51,
+      "icon": {
+        "id": "minecraft:diamond_sword",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:diamond_sword",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "required": 3
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 5
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "4bf128f6-8f2a-4d5a-a80d-0722bda5f62b",
+      "name": "Piston",
+      "description": " ",
+      "x": 185,
+      "y": 108,
+      "icon": {
+        "id": "minecraft:piston",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:piston",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "de7515d8-21f8-4953-bbb6-ae8094ea8d8d",
+      "name": "Honey Block",
+      "description": " ",
+      "x": 63,
+      "y": 111,
+      "icon": {
+        "id": "minecraft:honey_block",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:honey_block",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "65df254e-3adf-4154-8570-45b2585c70d3",
+      "name": "Spyglass",
+      "description": " ",
+      "x": 230,
+      "y": 185,
+      "icon": {
+        "id": "minecraft:spyglass",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:spyglass",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "5822804f-edb0-4544-99f3-2aa175cd01de",
+      "name": "Gold Sword",
+      "description": " ",
+      "x": 200,
+      "y": 31,
+      "icon": {
+        "id": "minecraft:golden_sword",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:golden_sword",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 3
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "7c4a616b-b092-4a9f-8ec1-3438ff0f1482",
+      "name": "Raw Cod",
+      "description": " ",
+      "x": 50,
+      "y": 63,
+      "icon": {
+        "id": "minecraft:cod",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:cod",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "54f2166d-3729-4c26-a290-e16a16b48907",
+      "name": "Crossbow",
+      "description": " ",
+      "x": 211,
+      "y": 51,
+      "icon": {
+        "id": "minecraft:crossbow",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:crossbow",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b7073a91-a046-42af-b79f-40583a2f3fcb",
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 157,
+      "y": 189,
+      "trigger": "QUEST_TRIGGER",
+      "prerequisites": [
+        "53f8733d-847d-44b8-96c2-0dbeb248ffb7"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "2856caca-0e62-4d54-a7a7-cb32404c9baf",
+      "name": "Sea Lantern",
+      "description": " ",
+      "x": 27,
+      "y": 165,
+      "icon": {
+        "id": "minecraft:sea_lantern",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:sea_lantern",
+                "Count": 1
+              },
+              "required": 4
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 3
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "d4dba500-81e6-4cdb-9a1f-a7d7aec2e330",
+      "name": "Hopper",
+      "description": " ",
+      "x": 174,
+      "y": 164,
+      "icon": {
+        "id": "minecraft:hopper",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:hopper",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "fc35afb0-6112-4516-b118-88d723d7b6c5",
+      "name": "Armor Stand",
+      "description": " ",
+      "x": 223,
+      "y": 149,
+      "icon": {
+        "id": "minecraft:armor_stand",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:armor_stand",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "dbc028b9-3de3-4c3b-9c4b-09cc35c3f4b8",
+      "name": "Pumpkin",
+      "description": " ",
+      "x": 134,
+      "y": 41,
+      "icon": {
+        "id": "minecraft:pumpkin",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:pumpkin",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b13d03df-ee59-4872-a084-03fb2eea8182",
+      "name": "Shulker Box",
+      "description": " ",
+      "x": 286,
+      "y": 139,
+      "icon": {
+        "id": "minecraft:shulker_box",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:shulker_box",
+                "Count": 1
+              },
+              "required": 2
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 4
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "7d91e800-3ca8-4549-a684-93a0f5266592",
+      "name": "Oak Sapling",
+      "description": " ",
+      "x": 27,
+      "y": 10,
+      "icon": {
+        "id": "minecraft:oak_sapling",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:oak_sapling",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "03475dc4-fc07-464e-ac87-763dcae6e6f3",
+      "name": "Warped Fungus",
+      "description": " ",
+      "x": 116,
+      "y": 11,
+      "icon": {
+        "id": "minecraft:warped_fungus",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:warped_fungus",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "a9efaeb3-37b8-4e2d-a43f-41f26d8673e5",
+      "name": "Poppy",
+      "description": " ",
+      "x": 49,
+      "y": 11,
+      "icon": {
+        "id": "minecraft:poppy",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:poppy",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b182f545-3965-4dad-9e9f-89c1d8c47e72",
+      "name": "Iron Sword",
+      "description": " ",
+      "x": 177,
+      "y": 32,
+      "icon": {
+        "id": "minecraft:iron_sword",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:iron_sword",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "6f76ac91-786c-40ab-b14c-010f9671aefb",
+      "name": "Brown Mushroom",
+      "description": " ",
+      "x": 94,
+      "y": 11,
+      "icon": {
+        "id": "minecraft:brown_mushroom",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:brown_mushroom",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "f94b3188-6cde-46f9-b841-e4b43974920e",
+      "name": "Glowstone",
+      "description": " ",
+      "x": 40,
+      "y": 184,
+      "icon": {
+        "id": "minecraft:glowstone",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:glowstone",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 3
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "a7742062-f355-4649-bf43-1291345d3de9",
+      "name": "Raw Copper",
+      "description": " ",
+      "x": 240,
+      "y": 10,
+      "icon": {
+        "id": "minecraft:raw_copper",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:raw_copper",
+                "Count": 1
+              },
+              "required": 16
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "45a15c6b-951f-4a48-a698-75436dd91bf3",
+      "name": "Bread",
+      "description": " ",
+      "x": 17,
+      "y": 111,
+      "icon": {
+        "id": "minecraft:bread",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:bread",
+                "Count": 1
+              },
+              "required": 16
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "949a2cac-2a9e-4224-9bb6-af7c242f2784",
+      "name": "Oak Boat",
+      "description": " ",
+      "x": 253,
+      "y": 185,
+      "icon": {
+        "id": "minecraft:oak_boat",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:oak_boat",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "0633a8c3-9eb3-45df-bf5b-415ffae15b89",
+      "name": "Soul Torch",
+      "description": " ",
+      "x": 62,
+      "y": 145,
+      "icon": {
+        "id": "minecraft:soul_torch",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:soul_torch",
+                "Count": 1
+              },
+              "required": 16
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "301bdfd4-65c0-4f44-adc7-f68a6e2ef15f",
+      "name": "Jungle Sapling",
+      "description": " ",
+      "x": 15,
+      "y": 30,
+      "icon": {
+        "id": "minecraft:jungle_sapling",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:jungle_sapling",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "55a79b38-59e6-4a53-8056-a98d45110717",
+      "name": "Crimson Fungus",
+      "description": " ",
+      "x": 105,
+      "y": 30,
+      "icon": {
+        "id": "minecraft:crimson_fungus",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:crimson_fungus",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "e0172bf0-7478-4714-b22a-13eba4b51504",
+      "name": "Dark Oak Sapling",
+      "description": " ",
+      "x": 38,
+      "y": 30,
+      "icon": {
+        "id": "minecraft:dark_oak_sapling",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:dark_oak_sapling",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "b7073a91-a046-42af-b79f-40583a2f3fcb"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": [],
+  "description": "Total Research Points : 160"
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Metals Research",
+  "quests": [
+    {
+      "uuid": "a2b266ae-2d4c-4038-8fb2-c16c30877c37",
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 158,
+      "y": 191,
+      "trigger": "QUEST_TRIGGER",
+      "prerequisites": [
+        "53f8733d-847d-44b8-96c2-0dbeb248ffb7"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "8d085e4b-38de-4ee2-81cb-79724ccf29b3",
+      "name": "Polished Blackstone Forge Controller",
+      "description": " ",
+      "x": 39,
+      "y": 15,
+      "icon": {
+        "id": "alloy_forgery:polished_blackstone_forge_controller",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "longDescription": " ",
+          "items": [
+            {
+              "item": {
+                "id": "alloy_forgery:polished_blackstone_forge_controller",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 3
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "3f0395e8-7a00-4c57-b2fd-51d6698246a9",
+      "name": "Brick Forge Controller",
+      "description": " ",
+      "x": 16,
+      "y": 15,
+      "icon": {
+        "id": "alloy_forgery:bricks_forge_controller",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "alloy_forgery:bricks_forge_controller",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": [],
+  "description": "    Contains Research for Alloy Forgery, \n\nTotal Research Points : 5"
+}

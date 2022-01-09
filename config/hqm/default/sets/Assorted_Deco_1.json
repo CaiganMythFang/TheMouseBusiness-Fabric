@@ -1,0 +1,630 @@
+{
+  "name": "Assorted Deco 1",
+  "quests": [
+    {
+      "uuid": "390f7802-8674-42f5-82f9-5f750b58ba99",
+      "name": "Acacia Post",
+      "description": " ",
+      "x": 41,
+      "y": 85,
+      "icon": {
+        "id": "adorn:acacia_post",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "adorn:acacia_post",
+                "Count": 1
+              },
+              "required": 16
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "8c8680fa-8ce2-4c4a-8d9d-5a8beba54a8a"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "4ca56cae-2380-40ba-b5fd-a82149ed3d22",
+      "name": "Brick Chimney",
+      "description": " ",
+      "x": 81,
+      "y": 164,
+      "icon": {
+        "id": "adorn:brick_chimney",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "adorn:brick_chimney",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "8c8680fa-8ce2-4c4a-8d9d-5a8beba54a8a"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "68ca7b3b-41cd-48df-a65b-a7a410b71b69",
+      "name": "Oak Kitchen Sink",
+      "description": " ",
+      "x": 284,
+      "y": 35,
+      "icon": {
+        "id": "adorn:oak_kitchen_sink",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "adorn:oak_kitchen_sink",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "8c8680fa-8ce2-4c4a-8d9d-5a8beba54a8a"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "469acdc8-8dbd-4853-92f4-83362c11ba2c",
+      "name": "Oak Bench",
+      "description": " ",
+      "x": 104,
+      "y": 164,
+      "icon": {
+        "id": "adorn:oak_bench",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "adorn:oak_bench",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "8c8680fa-8ce2-4c4a-8d9d-5a8beba54a8a"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "45d9716e-3bb6-4766-a992-e4950118d1bc",
+      "name": "Crimson Crate",
+      "description": " ",
+      "x": 40,
+      "y": 11,
+      "icon": {
+        "id": "marketcrates:crimson_crate",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "marketcrates:crimson_crate",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "8c8680fa-8ce2-4c4a-8d9d-5a8beba54a8a"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "be17fdd1-70f9-4883-b3a9-b9f1011b93ba",
+      "name": "Spruce Step",
+      "description": " ",
+      "x": 53,
+      "y": 104,
+      "icon": {
+        "id": "adorn:spruce_step",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "adorn:spruce_step",
+                "Count": 1
+              },
+              "required": 16
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "8c8680fa-8ce2-4c4a-8d9d-5a8beba54a8a"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b036b3e2-3877-47a7-8d89-c311e0721e88",
+      "name": "Purple Table Lamp",
+      "description": " ",
+      "x": 139,
+      "y": 73,
+      "icon": {
+        "id": "adorn:purple_table_lamp",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "adorn:purple_table_lamp",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "8c8680fa-8ce2-4c4a-8d9d-5a8beba54a8a"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "5d2debbd-676b-4b1f-a303-ac9ace50b501",
+      "name": "Acacia Chair",
+      "description": " ",
+      "x": 106,
+      "y": 53,
+      "icon": {
+        "id": "adorn:acacia_chair",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "adorn:acacia_chair",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "8c8680fa-8ce2-4c4a-8d9d-5a8beba54a8a"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "8c8680fa-8ce2-4c4a-8d9d-5a8beba54a8a",
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 157,
+      "y": 190,
+      "trigger": "QUEST_TRIGGER",
+      "prerequisites": [
+        "53f8733d-847d-44b8-96c2-0dbeb248ffb7"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "cfa2d376-c7dc-4294-b12f-e438ff9c0559",
+      "name": "Oak Platform",
+      "description": " ",
+      "x": 30,
+      "y": 104,
+      "icon": {
+        "id": "adorn:oak_platform",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "adorn:oak_platform",
+                "Count": 1
+              },
+              "required": 16
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "8c8680fa-8ce2-4c4a-8d9d-5a8beba54a8a"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "c519601f-ff22-46d1-8eb2-16ca7b1f34fc",
+      "name": "Crate",
+      "description": " ",
+      "x": 190,
+      "y": 36,
+      "icon": {
+        "id": "adorn:crate",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "adorn:crate",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "8c8680fa-8ce2-4c4a-8d9d-5a8beba54a8a"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "3b61db7b-8ef4-4d08-837c-09f789588eda",
+      "name": "Birch Table",
+      "description": " ",
+      "x": 128,
+      "y": 53,
+      "icon": {
+        "id": "adorn:birch_table",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "adorn:birch_table",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "8c8680fa-8ce2-4c4a-8d9d-5a8beba54a8a"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "0c1e38a7-c081-4cb1-8cbe-32a625020742",
+      "name": "Oak Shelf",
+      "description": " ",
+      "x": 201,
+      "y": 17,
+      "icon": {
+        "id": "adorn:oak_shelf",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "adorn:oak_shelf",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "8c8680fa-8ce2-4c4a-8d9d-5a8beba54a8a"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "78cf8d22-53bc-46a0-b926-772dd4f1c0da",
+      "name": "Oak Kitchen Counter",
+      "description": " ",
+      "x": 273,
+      "y": 15,
+      "icon": {
+        "id": "adorn:oak_kitchen_counter",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "adorn:oak_kitchen_counter",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "8c8680fa-8ce2-4c4a-8d9d-5a8beba54a8a"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "e293a216-5fd9-4dbd-b6ae-83c8397ca8ef",
+      "name": "Brown Sofa",
+      "description": " ",
+      "x": 117,
+      "y": 34,
+      "icon": {
+        "id": "adorn:brown_sofa",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "adorn:brown_sofa",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "8c8680fa-8ce2-4c4a-8d9d-5a8beba54a8a"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "87dc15d6-e5b7-4478-9547-3a25d16a8edb",
+      "name": "Oak Crate",
+      "description": " ",
+      "x": 17,
+      "y": 10,
+      "icon": {
+        "id": "marketcrates:oak_crate",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "marketcrates:oak_crate",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "8c8680fa-8ce2-4c4a-8d9d-5a8beba54a8a"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "9b125273-5f83-43d0-8269-5099e3f37a89",
+      "name": "Oak Coffee Table",
+      "description": " ",
+      "x": 117,
+      "y": 73,
+      "icon": {
+        "id": "adorn:oak_coffee_table",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "adorn:oak_coffee_table",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "8c8680fa-8ce2-4c4a-8d9d-5a8beba54a8a"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": [],
+  "description": "    Contains Research for Market Crates, Adorn,\n\nTotal Research Points : 18"
+}

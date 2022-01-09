@@ -1,0 +1,261 @@
+{
+  "name": "Additional Additions",
+  "quests": [
+    {
+      "uuid": "2a005617-a2a6-4515-ad1f-8e8f39c77257",
+      "name": "Crossbow with Spyglass",
+      "description": " ",
+      "x": 27,
+      "y": 18,
+      "icon": {
+        "id": "additionaladditions:crossbow_with_spyglass",
+        "Count": 1,
+        "tag": {
+          "Damage": 0
+        }
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "additionaladditions:crossbow_with_spyglass",
+                "Count": 1,
+                "tag": {
+                  "Damage": 0
+                }
+              },
+              "required": 2
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "93bd4012-2ae0-48db-b3e2-c56e9243d99c"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "93bd4012-2ae0-48db-b3e2-c56e9243d99c",
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 157,
+      "y": 193,
+      "trigger": "QUEST_TRIGGER",
+      "prerequisites": [
+        "53f8733d-847d-44b8-96c2-0dbeb248ffb7"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "bf08712c-6564-4836-b5bd-81f3021cbc53",
+      "name": "Honeyed Apple",
+      "description": " ",
+      "x": 110,
+      "y": 98,
+      "icon": {
+        "id": "additionaladditions:honeyed_apple",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "additionaladditions:honeyed_apple",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "30785c32-c4c6-4f97-9840-bfe77c131be5",
+      "name": "Fried Egg",
+      "description": " ",
+      "x": 88,
+      "y": 97,
+      "icon": {
+        "id": "additionaladditions:fried_egg",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "additionaladditions:fried_egg",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "653d1fb5-65e5-4e56-8da1-e63c54a45e79",
+      "name": "Depth Meter",
+      "description": " ",
+      "x": 50,
+      "y": 18,
+      "icon": {
+        "id": "additionaladditions:depth_meter",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "additionaladditions:depth_meter",
+                "Count": 1
+              },
+              "required": 2
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [
+        "93bd4012-2ae0-48db-b3e2-c56e9243d99c"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "1635fae5-bc22-4385-abfc-89cd4fcc9e81",
+      "name": "Rope",
+      "description": " ",
+      "x": 39,
+      "y": 38,
+      "icon": {
+        "id": "additionaladditions:rope",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "additionaladditions:rope",
+                "Count": 1
+              },
+              "required": 16
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 1
+        }
+      ],
+      "prerequisites": [
+        "93bd4012-2ae0-48db-b3e2-c56e9243d99c"
+      ],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "0d6d91af-5881-4ae8-9d5d-cf9db9aea01b",
+      "name": "Sweet Berry Pie",
+      "description": " ",
+      "x": 100,
+      "y": 78,
+      "icon": {
+        "id": "additionaladditions:berry_pie",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "additionaladditions:berry_pie",
+                "Count": 1
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reputationrewards": [
+        {
+          "reputation": "ab296ef2-4221-4e7d-845f-7e12d752b2aa",
+          "value": 2
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "bddfec20-09e1-4ef7-acaf-8f3974cdb32c",
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 250,
+      "y": 125,
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [],
+      "rewardchoice": [],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": []
+}
